@@ -1,0 +1,101 @@
+val 0.2 - asr 0.2
+REF=duwen we de kamer om hun heen , zonder dat ze het door hebben ...
+HYP=duren we de kamer om  uh  een , zonder dat ze het door hebben ...
+ASR=duwen we de Kamer om hun heen * zonder dat ze het door hebben een
+==============================
+
+(2829, 2742, 2882)
+val 0.1 - asr 0.2
+REF=hand op je bil . hand op je heup .
+HYP=hand op je bil , hand op je heup .
+ASR=hand op je bil * hand op je heup *
+==============================
+
+(5069, 4855, 5164)
+val 0.07142857142857142 - asr 0.14285714285714285
+REF=het is ook echt een klassieker . het gaat over een verloren liefde .
+HYP=het is ook echt een klassieker , het gaat over een verloren liefde .
+ASR=het is ook echt een klassieker * het gaat over een verloren liefde *
+==============================
+
+(5436, 5213, 5533)
+val 0.05555555555555555 - asr 0.1111111111111111
+REF=het rijksmuseum is nog dicht vanwege de coronamaatregelen * maar de foto is voor iedereen online te zien .
+HYP=het rijksmuseum is nog dicht vanwege de coronamaatregelen , maar de foto is voor iedereen online te zien .
+ASR=het Rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien *
+==============================
+
+(5711, 5489, 5801)
+val 0.05555555555555555 - asr 0.1111111111111111
+REF=het rijksmuseum is nog dicht vanwege de coronamaatregelen * maar de foto is voor iedereen online te zien .
+HYP=het rijksmuseum is nog dicht vanwege de coronamaatregelen , maar de foto is voor iedereen online te zien .
+ASR=het Rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien *
+==============================
+
+(5798, 5577, 5887)
+val 0.1875 - asr 0.1875
+REF=*** * in plaats van naar binnen en naar buiten stappen we voor en weer naar buiten .
+HYP=nou , in plaats van naar binnen en **** buiten stappen we voor en weer naar buiten .
+ASR=nou in plaats van naar binnen en naar buiten stappen we voor en weer naar buiten en voor
+==============================
+
+(6735, 6440, 6806)
+val 0.25 - asr 0.16666666666666666
+REF=maar ja , de ***** koersen gingen ook zo goed dit jaar .
+HYP=maar ja , de koers    erin    gen ook zo goed dit jaar .
+ASR=maar ja * de koersen gingen ook zo goed dit jaar Je
+==============================
+
+(7929, 7577, 7983)
+val 0.2727272727272727 - asr 0.18181818181818182
+REF=nou * klinkt het misschien een beetje gek , maar eigenlijk ...
+HYP=nou , klinkt het misschien een beetje gek . maar eigenlijk   .
+ASR=nou klinkt het misschien een beetje gek * maar eigenlijk ***
+==============================
+
+(8994, 8627, 9081)
+val 0.0 - asr 0.18181818181818182
+REF=puur groen beleggen met veel rendement , dat lukte niet .
+HYP=puur groen beleggen met veel rendement , dat lukte niet .
+ASR=puur groen beleggen met veel rendement * dat lukte niet *
+==============================
+
+(10283, 9901, 10416)
+val 0.5 - asr 0.125
+REF=samen met een ******* **** knuffelbeer voor een regenboog ...
+HYP=samen met een knuffel weer           , voor een regenboog   .
+ASR=samen met een knuffelbeer voor een regenboog ***
+==============================
+
+(10414, 10016, 10548)
+val 0.25 - asr 0.1875
+REF=wat is het probleem ? zijn die konijnen te lelijk ? rennen ze te hard ?
+HYP=wat is het probleem , zijn die konijnen te lelijk * rennen ze ** **** ?
+ASR=wat is het probleem * zijn die konijnen te lelijk * rennen ze te hard *
+==============================
+
+(11691, 11252, 11851)
+val 0.2777777777777778 - asr 0.16666666666666666
+REF= we maken heel wat mee , maar we mogen ook wel dankbaar zijn voor wat we hebben .
+HYP=wat maken heel wat mee , maar we mogen ***  we dankbaar ****   en wat we hebben .
+ASR=We maken heel wat mee * maar we mogen ook wel dankbaar zijn voor wat we hebben *
+==============================
+
+(11908, 11445, 12066)
+val 0.13333333333333333 - asr 0.2
+REF=ze is zevenenvijftig jaar , werkt als er geen corona is in de schoolbibliotheek ...
+HYP=ze is zevenenvijftig jaar , werkt als er geen corona is in de          schobben   .
+ASR=Ze is zevenenvijftig jaar * werkt als er geen corona is in de schoolbibliotheek ***
+==============================
+
+(12338, 11854, 12522)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=ze staan dus hartstikke stil , maar hun brein denkt hierdoor ...
+HYP=ze staan dus hartstikke stil , maar hun brein denkt hierdoor   .
+ASR=ze staan dus hartstikke stil * maar hun brein denkt hierdoor dat
+==============================
+
+(12391, 11905, 12574)
+Total cases: 7, conditioned cases: 6
+Line count: 14, total line count: 310
+Ref word count: 13012, hyp word count: 12516, asr word count: 13219

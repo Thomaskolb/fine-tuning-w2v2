@@ -1,0 +1,136 @@
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=dan beginnen we ****  met het voorwerp wat jullie op deze foto ...
+HYP=dan beginnen we even smet het voorwerp wat jullie op deze foto ...
+ASR=dan beginnen we eventjes met het voorwerp wat jullie op deze foto die
+==============================
+
+(844, 830, 867)
+val 0.0 - asr 0.15384615384615385
+REF=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+HYP=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+ASR=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie nog een
+==============================
+
+(1592, 1565, 1632)
+val 0.0 - asr 0.15384615384615385
+REF=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+HYP=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+ASR=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie nog een
+==============================
+
+(1657, 1630, 1700)
+val 0.13333333333333333 - asr 0.2
+REF=*** duwen we de kamer om hun heen , zonder dat ze het door hebben ...
+HYP=duw    en we de kamer om hun heen , zonder dat ze het door hebben ...
+ASR=duwen we de Kamer om hun heen * zonder dat ze het door hebben een
+==============================
+
+(2829, 2770, 2882)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=en die zet zich ongetwijfeld in de komende generaties voort   .
+HYP=en die zet zich ongetwijfeld in de komende generaties ***** ...
+ASR=wereld en die zet zich ongetwijfeld in de komende generaties voort *
+==============================
+
+(3851, 3755, 3916)
+val 0.0 - asr 0.09090909090909091
+REF=en om ons heen allemaal mensen die ons geschreven hebben ...
+HYP=en om ons heen allemaal mensen die ons geschreven hebben ...
+ASR=en om ons heen allemaal mensen die ons geschreven hebben ***
+==============================
+
+(4259, 4150, 4349)
+val 0.25 - asr 0.16666666666666666
+REF=en ook de witte onderkant van *   hun staartje is een signaal ...
+HYP=en ook de witte onderkant van u staat       je is een signaal ...
+ASR=elkaar en ook de witte onderkant van hun staartje is een signaal waarmee
+==============================
+
+(4343, 4231, 4442)
+val 0.0 - asr 0.1
+REF=kijk eens wat er gebeurt als ik deze nu ...
+HYP=kijk eens wat er gebeurt als ik deze nu ...
+ASR=kijk eens wat er gebeurt als ik deze nu ***
+==============================
+
+(7015, 6758, 7073)
+val 0.2727272727272727 - asr 0.18181818181818182
+REF=kinderen van **** **** hoogeveense lagere scholen waren druk aan het boetseren ...
+HYP=kinderen van hoge veen          se lagere scholen waren druk aan het boetseren ...
+ASR=kinderen van Hoogeveense lagere scholen waren druk aan het boetseren toen
+==============================
+
+(7193, 6932, 7253)
+val 0.0 - asr 0.16666666666666666
+REF=maar na tien jaar buffelen ...
+HYP=maar na tien jaar buffelen ...
+ASR=maar na tien jaar buffelen bleek
+==============================
+
+(7986, 7691, 8041)
+val 0.2 - asr 0.2
+REF=omdat het raam de rest van de omgeving ** afdekt ...
+HYP=omdat het raam de rest van de omgeving af   dekt ...
+ASR=wegreed omdat het raam de rest van de omgeving afdekt heb
+==============================
+
+(9375, 9031, 9477)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=samen met zijn broer en vader heeft hij een familiebedrijf ...
+HYP=samen met zijn broer en vader heeft hij  in        familie ...
+ASR=Hans samen met zijn broer en vader heeft hij een familiebedrijf ***
+==============================
+
+(10466, 10095, 10601)
+val 0.0 - asr 0.18181818181818182
+REF=twee vrienden mee . mijn vader heeft een prachtig filmpje ...
+HYP=twee vrienden mee . mijn vader heeft een prachtig filmpje ...
+ASR=twee vrienden mee * mijn vader heeft een prachtig filmpje van
+==============================
+
+(10774, 10395, 10908)
+val 0.25 - asr 0.125
+REF=veranderen de ********* stadsparken en sportvelden al snel ...
+HYP=veranderen de stadspark          en en sportvelden al snel ...
+ASR=veranderen de stadsparken en sportvelden al snel  in
+==============================
+
+(11057, 10663, 11193)
+val 0.0 - asr 0.16666666666666666
+REF=verwacht wordt dat in de loop van de middag duidelijk wordt ...
+HYP=verwacht wordt dat in de loop van de middag duidelijk wordt ...
+ASR=nemen verwacht wordt dat in de loop van de middag duidelijk wordt  of
+==============================
+
+(11146, 10752, 11285)
+val 0.0 - asr 0.2
+REF=voor het vervolg van dit experiment gaan we testen ...
+HYP=voor het vervolg van dit experiment gaan we testen ...
+ASR=brengen voor het vervolg van dit experiment gaan we testen hoeveel
+==============================
+
+(11290, 10896, 11447)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=welke besluiten worden er nu genomen voor de toekomstige generaties   ?
+HYP=welke besluiten worden er nu genomen voor ** toekomstige generaties ...
+ASR=welke besluiten worden er nu genomen voor de toekomstige generaties welke besluiten
+==============================
+
+(12091, 11671, 12277)
+val 0.36363636363636365 - asr 0.18181818181818182
+REF=wetenschappers kunnen het schilderij nu op afstand zeer **** nauwkeurig bestuderen   .
+HYP=wetenschappers kunnen het schilderij nu op afstand zeer denk        eur     iedere ...
+ASR=pixels wetenschappers kunnen het schilderij nu op afstand zeer nauwkeurig bestuderen *
+==============================
+
+(12160, 11735, 12351)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=ze staan dus hartstikke  stil , maar hun brein denkt hierdoor ...
+HYP=ze staan dus hartstikke still , maar hun brein denkt hierdoor ...
+ASR=ze staan dus hartstikke stil * maar hun brein denkt hierdoor dat
+==============================
+
+(12391, 11958, 12574)
+Total cases: 16, conditioned cases: 0
+Line count: 19, total line count: 310
+Ref word count: 13012, hyp word count: 12571, asr word count: 13219

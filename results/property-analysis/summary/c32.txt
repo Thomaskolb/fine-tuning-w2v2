@@ -1,0 +1,2172 @@
+val 0.0 - asr 0.2
+REF=als aan de zijkant .
+HYP=als aan de zijkant .
+ASR=als aan de zijkant *
+==============================
+
+(16, 16, 15)
+val 0.6363636363636364 - asr 0.18181818181818182
+REF=als ik de **** strepen weghaal zie je dat alle ballen ...
+HYP=*** ** de trek      en weghaal zie je *** **** ****** ...
+ASR=*** ik de strepen weghaal zie je dat alle ballen ***
+==============================
+
+(58, 39, 51)
+val 0.07142857142857142 - asr 0.14285714285714285
+REF=als je het lastig vindt om je balans te bewaren *** bij deze oefening ...
+HYP=als je het lastig vindt om je balans te bewaren ook bij deze oefening ...
+ASR=als je het lastig vindt om je balans te bewaren ook bij deze oefening ***
+==============================
+
+(114, 98, 107)
+val 0.0 - asr 0.2
+REF=als je merkt dat je naar voren moet komen met je bovenlichaam om je knie hoog op te trekken ...
+HYP=als je merkt dat je naar voren moet komen met je bovenlichaam om je knie hoog op te trekken ...
+ASR=en als je merkt dat je naar voren moet komen met je boven       liggen om je knie hoog op te trekken ***
+==============================
+
+(190, 174, 181)
+val 0.2 - asr 0.2
+REF=alsof er een echte schaal **** oliebollen op tafel staat .
+HYP=alsof er een echte schaal olie     bollen op tafel staat .
+ASR=alsof haar een echte schaal oliebollen op tafel staat *
+==============================
+
+(234, 218, 226)
+val 0.0 - asr 0.16666666666666666
+REF=andere hand op je heup .
+HYP=andere hand op je heup .
+ASR=andere hand op je heup *
+==============================
+
+(253, 237, 244)
+val 0.0 - asr 0.2
+REF=andere kant naar achteren . hiel in de grond .
+HYP=andere kant naar achteren . hiel in de grond .
+ASR=andere kant naar achteren * hiel in de grond *
+==============================
+
+(290, 274, 279)
+val 0.0 - asr 0.2
+REF=anita mag nu bewijzen hoe goed haar geheugen is .
+HYP=anita mag nu bewijzen hoe goed haar geheugen is .
+ASR=Anita mag nu bewijzen hoe goed haar geheugen is Acht
+==============================
+
+(330, 314, 322)
+val 1.0 - asr 0.16666666666666666
+REF=bedrijven die hun           leven beteren      .
+HYP=********* ***  en derivatenhandel    even betere
+ASR=bedrijven die hun leven beteren miljoenen
+==============================
+
+(358, 341, 358)
+val 0.0 - asr 0.1875
+REF=ben ik in een museum waar je foto 's kan maken voor je social media .
+HYP=ben ik in een museum waar je foto 's kan maken voor je social media .
+ASR=ben ik in een museum waar je **** foto's kan maken voor je social media *
+==============================
+
+(412, 395, 411)
+val 0.625 - asr 0.125
+REF=ben je al begonnen in je hoofd ?
+HYP=ben ** **  alberti  n je hoofd .
+ASR=ben je al begonnen in je hoofd *
+==============================
+
+(437, 414, 435)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=*** bestaat alleen in je brein .
+HYP=het bestaat alleen in je brein .
+ASR=bestaat alleen in je brein *
+==============================
+
+(460, 440, 457)
+val 0.0 - asr 0.15384615384615385
+REF=bijna twee jaar later weten we dat de prijzen niet zijn gedaald .
+HYP=bijna twee jaar later weten we dat de prijzen niet zijn gedaald .
+ASR=bijna twee jaar later weten we dat de prijzen niet zijn gedaald Nou dat
+==============================
+
+(513, 493, 515)
+val 0.3333333333333333 - asr 0.16666666666666666
+REF=bijvoorbeeld deze schaal met **** oliebollen .
+HYP=bijvoorbeeld deze schaal met olie     bollen .
+ASR=bijvoorbeeld deze schaal met oliebollen toen
+==============================
+
+(549, 529, 554)
+val 0.2 - asr 0.2
+REF=bijvoorbeeld door de ***** rekenmachine op je telefoon te openen .
+HYP=bijvoorbeeld door de reken      machine op je telefoon te openen .
+ASR=bijvoorbeeld door de rekenmachine op je telefoon even te openen *
+==============================
+
+(600, 580, 608)
+val 0.09090909090909091 - asr 0.18181818181818182
+REF=bleek dat toch een beetje te veel van het goede .
+HYP= leek dat toch een beetje te veel van het goede .
+ASR=bleek dat toch een beetje te veel van het goede met pijn
+==============================
+
+(639, 618, 653)
+val 0.0 - asr 0.2
+REF=bordjes in de lucht .
+HYP=bordjes in de lucht .
+ASR=bordjes in de lucht *
+==============================
+
+(656, 635, 669)
+val 0.0 - asr 0.16666666666666666
+REF=daar zijn zeker tien mensen aangehouden bij ongeregeldheden in het centrum .
+HYP=daar zijn zeker tien mensen aangehouden bij ongeregeldheden in het centrum .
+ASR=zeker daar zijn zeker tien mensen aangehouden bij ongeregeldheden in het centrum *
+==============================
+
+(721, 700, 738)
+val 0.1111111111111111 - asr 0.1111111111111111
+REF=daarna kom je weer terug in het midden .
+HYP=   dan kom je weer terug in het midden .
+ASR=daarna kom je weer terug in het midden *
+==============================
+
+(753, 729, 769)
+val 0.45454545454545453 - asr 0.09090909090909091
+REF=dacht jij ook dat de **** oliebollen in de **** hoeken lagen ?
+HYP=dacht jij ook dat de olie     bollen in de hoek     en lagen .
+ASR=dacht jij ook dat de oliebollen in de hoeken lagen *
+==============================
+
+(795, 771, 810)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=dan beginnen we **** met het voorwerp wat jullie op deze foto ...
+HYP=dan beginnen we even met het voorwerp wat jullie ** deze foto ...
+ASR=dan beginnen we eventjes met het voorwerp wat jullie op deze foto die
+==============================
+
+(844, 822, 867)
+val 0.2857142857142857 - asr 0.14285714285714285
+REF=dan de ********* wegrijdende trein naast je .
+HYP=dan de wegrijden          de trein naast je .
+ASR=dan de wegrijdende trein naast je *
+==============================
+
+(873, 851, 895)
+val 0.2 - asr 0.2
+REF=dan die groene blaadjes . die eten ze op .
+HYP=van die groene blaadjes * die eten ze op .
+ASR=dan die groene blaadjes * die eten ze op *
+==============================
+
+(906, 883, 926)
+val 0.0 - asr 0.16666666666666666
+REF=dan zet je allebei het voorwerp op wat je hebt gepost .
+HYP=dan zet je allebei het voorwerp op wat je hebt gepost .
+ASR=dan zet je nu allebei het voorwerp op wat je hebt gepost *
+==============================
+
+(950, 927, 971)
+val 0.0 - asr 0.2
+REF=dan zie je dat ze exact boven elkaar liggen .
+HYP=dan zie je dat ze exact boven elkaar liggen .
+ASR=weghaal dan zie je dat ze exact boven elkaar liggen *
+==============================
+
+(986, 963, 1013)
+val 0.375 - asr 0.125
+REF=dank je wel voor de goeie zorgen     .
+HYP=dank je wel voor de ***** ****** goede
+ASR=dank je wel voor de goeie zorgen *
+==============================
+
+(1013, 983, 1039)
+val 0.2 - asr 0.1
+REF=dat alle ******* voedingsstoffen goed door het lijf zijn opgenomen .
+HYP=dat alle voeding            stof goed door het lijf zijn opgenomen .
+ASR=dat alle voedingsstoffen goed door het lijf zijn opgenomen *
+==============================
+
+(1064, 1030, 1089)
+val 0.1 - asr 0.2
+REF=dat doe ik vanavond onder andere met hila natuurlijk .
+HYP=dat doe ik vanavond onder andere met hila ********** .
+ASR=dat doe ik vanavond onder andere met Hilla natuurlijk Hilla
+==============================
+
+(1109, 1065, 1139)
+val 0.0 - asr 0.16666666666666666
+REF=dat hadden we kunnen weten .
+HYP=dat hadden we kunnen weten .
+ASR=dat hadden we kunnen weten historicus
+==============================
+
+(1132, 1088, 1171)
+val 0.2 - asr 0.2
+REF=dat hebben we ook in onze serie laten horen .
+HYP=*** hebben ** ook in onze serie laten horen .
+ASR=uhm hebben we ook in onze serie laten horen *
+==============================
+
+(1168, 1119, 1206)
+val 0.17647058823529413 - asr 0.11764705882352941
+REF=dat ik af en toe best wel gedesillusioneerd ben over hoe de wereld in elkaar zit .
+HYP=*** ik af en toe best wel    gediscussieerd ben  van hoe de wereld in elkaar zit .
+ASR=dat ik af en toe best wel gedesillusioneerd ben  van hoe de wereld in elkaar zit *
+==============================
+
+(1234, 1178, 1270)
+val 0.08333333333333333 - asr 0.08333333333333333
+REF=dat is misschien ook wel een beetje veranderd in uw tijd ?
+HYP=dat is misschien ook wel een beetje veranderd in uw tijd .
+ASR=dat is misschien ook wel een beetje veranderd in uw tijd *
+==============================
+
+(1281, 1225, 1316)
+val 0.0 - asr 0.16666666666666666
+REF=dat is op en neer .
+HYP=dat is op en neer .
+ASR=dat is op en neer *
+==============================
+
+(1295, 1239, 1329)
+val 0.15384615384615385 - asr 0.15384615384615385
+REF=dat is voor velen een extra reden om in aandelen te gaan .
+HYP=*** en voor velen een extra reden om in aandelen te gaan .
+ASR=*** is voor velen een extra reden om in aandelen te gaan en
+==============================
+
+(1341, 1282, 1373)
+val 0.2 - asr 0.2
+REF=dat je ze allebei nog ziet in je **** ooghoeken .
+HYP=dat je ze allebei nog ziet in je ogen    hoeken .
+ASR=he dat je ze allebei nog ziet in je ooghoeken *
+==============================
+
+(1376, 1318, 1409)
+val 0.2 - asr 0.2
+REF=dat je zelf misschien ook wel eens hebt meegemaakt .
+HYP= en je zelf misschien ook wel eens  het meegemaakt .
+ASR=*** je zelf misschien ook wel eens hebt meegemaakt *
+==============================
+
+(1419, 1359, 1448)
+val 0.0 - asr 0.09090909090909091
+REF=dat komt alleen maar door de beweging van de schaal .
+HYP=dat komt alleen maar door de beweging van de schaal .
+ASR=dat komt alleen maar door de beweging van de schaal *
+==============================
+
+(1462, 1402, 1490)
+val 0.07692307692307693 - asr 0.15384615384615385
+REF=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+HYP=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie   .
+ASR=Universiteit de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ***
+==============================
+
+(1527, 1465, 1564)
+val 0.07692307692307693 - asr 0.15384615384615385
+REF=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+HYP=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie   .
+ASR=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie nog een
+==============================
+
+(1592, 1528, 1632)
+val 0.15384615384615385 - asr 0.15384615384615385
+REF=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ** ...
+HYP=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie en   .
+ASR=de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie nog een
+==============================
+
+(1657, 1593, 1700)
+val 0.4 - asr 0.2
+REF=de   commercie komt binnen .
+HYP=de commerciele    m binnen .
+ASR=de commercie komt binnen *
+==============================
+
+(1679, 1614, 1721)
+val 0.1 - asr 0.1
+REF=de kleintjes krijgen beetje bij beetje wat meer vrijheid .
+HYP=de kleintjes krijgen beetje een beetje wat meer vrijheid .
+ASR=de kleintjes krijgen beetje bij beetje wat meer vrijheid *
+==============================
+
+(1728, 1663, 1769)
+val 0.125 - asr 0.125
+REF=de kleintjes zijn onder de grond geboren   .
+HYP=de kleintjes zijn onder de grond geboren ...
+ASR=de kleintjes zijn onder de grond geboren terwijl
+==============================
+
+(1763, 1700, 1810)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=de knieen zijn licht gebogen ...
+HYP=de knieen zijn licht gebogen   .
+ASR=de knieen zijn licht gebogen ***
+==============================
+
+(1790, 1725, 1834)
+val 0.0 - asr 0.14285714285714285
+REF=de knieen zijn van het slot .
+HYP=de knieen zijn van het slot .
+ASR=de knieen zijn van het slot kleine
+==============================
+
+(1813, 1748, 1862)
+val 0.0 - asr 0.2
+REF=de konijnen hebben de harten van de kinderen gestolen .
+HYP=de konijnen hebben de harten van de kinderen gestolen .
+ASR=erop de konijnen hebben de harten van de kinderen gestolen *
+==============================
+
+(1859, 1794, 1911)
+val 0.16666666666666666 - asr 0.08333333333333333
+REF=de   kuitspier heeft twee koppen en die gaan we allemaal rekken .
+HYP=de kuitspieren heeft twee koppen en  na gaan we allemaal rekken .
+ASR=de kuitspier heeft twee koppen en die gaan we allemaal rekken *
+==============================
+
+(1911, 1847, 1962)
+val 0.06666666666666667 - asr 0.13333333333333333
+REF=de mannetjes doen dan hun uiterste best om indruk te maken op de vrouwtjes .
+HYP=de mannetjes doen dan een uiterste best om indruk te maken op de vrouwtjes .
+ASR=de mannetjes doen dan een uiterste best om indruk te maken op de vrouwtjes *
+==============================
+
+(1973, 1909, 2023)
+val 0.15384615384615385 - asr 0.07692307692307693
+REF=de omgeving heeft dus grote invloed op hoe     je de kleur ervaart .
+HYP=de omgeving heeft dus grote invloed op *** roeien de kleur ervaart .
+ASR=de omgeving heeft dus grote invloed op hoe je de kleur ervaart *
+==============================
+
+(2025, 1962, 2074)
+val 0.07692307692307693 - asr 0.15384615384615385
+REF=de scholen sloten mede daarom een week voor de kerstvakantie de deuren .
+HYP=** scholen sloten mede daarom een week voor de kerstvakantie de deuren .
+ASR=** scholen sloten mede daarom een week voor de kerstvakantie de deuren *
+==============================
+
+(2085, 2020, 2131)
+val 0.0 - asr 0.1111111111111111
+REF=de strepen op de muur versterken dit effect .
+HYP=de strepen op de muur versterken dit effect .
+ASR=de strepen op de muur versterken dit effect waardoor
+==============================
+
+(2122, 2057, 2175)
+val 0.2 - asr 0.2
+REF=de tijd lijkt voorbijgevlogen .
+HYP=de tijd lijkt     voorbijgaan .
+ASR=de tijd lijkt voorbijgevlogen *
+==============================
+
+(2149, 2080, 2201)
+val 0.23076923076923078 - asr 0.15384615384615385
+REF=de vraag is alleen , kan je met dit soort ******* optische illusies ...
+HYP=de vraag is alleen * kan je met dit soort optisch        e illusies ...
+ASR=de vraag is alleen * kan je met dit soort optische illusies ook
+==============================
+
+(2200, 2130, 2251)
+val 0.07692307692307693 - asr 0.15384615384615385
+REF=de vraag was of de crisis invloed ging hebben op de huizenprijzen .
+HYP=en vraag was of de crisis invloed ging hebben op de huizenprijzen .
+ASR=de vraag was of de crisis invloed ging hebben op de huizenprijzen nou bijna
+==============================
+
+(2255, 2185, 2313)
+val 0.09090909090909091 - asr 0.18181818181818182
+REF=de vuisten zijn gebald * en de armen bewegen actief mee .
+HYP=de vuisten zijn gebald . en de armen bewegen actief mee .
+ASR=** vuisten zijn gebald en de armen bewegen actief mee *
+==============================
+
+(2300, 2231, 2355)
+val 0.0 - asr 0.125
+REF=deze hoef je alleen maar te ervaren .
+HYP=deze hoef je alleen maar te ervaren .
+ASR=deze hoef je alleen maar te ervaren kijk
+==============================
+
+(2330, 2261, 2388)
+val 0.0 - asr 0.14285714285714285
+REF=die gaat over de grenzen heen .
+HYP=die gaat over de grenzen heen .
+ASR=die gaat over de grenzen heen *
+==============================
+
+(2355, 2286, 2412)
+val 0.1111111111111111 - asr 0.1111111111111111
+REF=die heeft met plezier naar het programma gekeken .
+HYP=*** heeft met plezier naar het programma gekeken .
+ASR=die heeft met plezier naar het programma gekeken en
+==============================
+
+(2397, 2325, 2455)
+val 0.1111111111111111 - asr 0.1111111111111111
+REF=die ik onder deze zwarte doek heb staan .
+HYP=die ** onder deze zwarte doek heb staan .
+ASR=die ik onder deze zwarte doek heb staan *
+==============================
+
+(2430, 2356, 2487)
+val 0.2857142857142857 - asr 0.14285714285714285
+REF=die ze vervolgens doodleuk weer opeten .
+HYP=die ze vervolgens doodleuk erop   eten .
+ASR=die ze vervolgens doodleuk weer opeten *
+==============================
+
+(2464, 2388, 2520)
+val 0.25 - asr 0.16666666666666666
+REF=dit is wat die ****** schattige familie pluis op haar geweten heeft !
+HYP=dit is wat die happig        ee familie pluis op haar geweten heeft .
+ASR=dit is wat die schattige familie  plus op haar geweten heeft *
+==============================
+
+(2515, 2438, 2569)
+val 0.0 - asr 0.2
+REF=doen we acht keer .
+HYP=doen we acht keer .
+ASR=doen we acht keer *
+==============================
+
+(2530, 2453, 2583)
+val 0.0 - asr 0.16666666666666666
+REF=doen we nog acht keer .
+HYP=doen we nog acht keer .
+ASR=doen we nog acht keer *
+==============================
+
+(2548, 2471, 2600)
+val 0.0 - asr 0.2
+REF=doen we vier keer .
+HYP=doen we vier keer .
+ASR=doen we vier keer *
+==============================
+
+(2563, 2486, 2614)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=door deze op de computer uit te rekken en te printen ...
+HYP=door deze op de computer uit te rekken en te printen   .
+ASR=gemaakt door deze op de computer uit te rekken en te printen ***
+==============================
+
+(2608, 2529, 2663)
+val 0.05 - asr 0.15
+REF=door haar oren achter in haar nek te leggen , laat deze dame weten dat ze niet geinteresseerd is .
+HYP=door haar oren achter in haar nek te leggen * laat deze dame weten dat ze niet geinteresseerd is .
+ASR=door haar oren achter in haar nek te leggen * laat deze dame weten dat ze niet geïnteresseerd is *
+==============================
+
+(2687, 2607, 2740)
+val 0.4444444444444444 - asr 0.1111111111111111
+REF=dus het is ook wel een ****** *** sociaal konijntje .
+HYP=dus het is ook wel een social kon     ent        je .
+ASR=dus het is ook wel een sociaal konijntje *
+==============================
+
+(2721, 2639, 2773)
+val 0.1 - asr 0.1
+REF=dus hij trok zich de haren uit het hoofd .
+HYP=*** hij trok zich de haren uit het hoofd .
+ASR=dus hij trok zich de haren uit het hoofd *
+==============================
+
+(2754, 2669, 2805)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=dus steun voor deze plannen .
+HYP=dit steun voor deze plannen .
+ASR=dus steun voor deze plannen maar
+==============================
+
+(2778, 2693, 2832)
+val 0.2 - asr 0.2
+REF=duwen we de kamer om hun heen , zonder dat ze het door hebben ...
+HYP=duren we de kamer om  uh  een , zonder dat ze het door hebben ...
+ASR=duwen we de Kamer om hun heen * zonder dat ze het door hebben een
+==============================
+
+(2829, 2742, 2882)
+val 0.1875 - asr 0.125
+REF=**** een maand later **** keerde hij na hevige protesten terug . sindsdien houden de protesten aan .
+HYP=maar een maand later keer     de hij na hevige protesten terug . sindsdien houden de protesten aan .
+ASR=een maand later keerde hij na hevige protesten terug * sindsdien houden de protesten aan volgens
+==============================
+
+(2904, 2821, 2962)
+val 0.0 - asr 0.125
+REF=een rondje door dit museum gaan lopen .
+HYP=een rondje door dit museum gaan lopen .
+ASR=een rondje door dit museum gaan lopen *
+==============================
+
+(2936, 2853, 2993)
+val 0.2 - asr 0.2
+REF=** een stukje naar voren .
+HYP=en een stukje naar voren .
+ASR=een stukje naar voren ze
+==============================
+
+(2955, 2874, 3013)
+val 0.3333333333333333 - asr 0.1111111111111111
+REF=een van de mooiste * **** chansons die ik ken .
+HYP=een van de mooiste s hans      ons die ik ken .
+ASR=een van de mooiste chansons die ik ken *
+==============================
+
+(2987, 2906, 3044)
+val 0.4666666666666667 - asr 0.2
+REF=een vrouwtje , een moertje    , kan wel zeven keer per jaar   een   nest hebben
+HYP=een vrouwtje * een    moer tjee kan wel zeven keer per **** jaren esther      .
+ASR=he een vrouwtje * een moertje * kan wel zeven keer per jaar een nest hebben
+==============================
+
+(3045, 2958, 3102)
+val 0.5 - asr 0.2
+REF=en 's avonds bleef het avondeten meestal niet zitten .
+HYP=** is avonds bleef *** *********     een niet zitten .
+ASR=** 's avonds bleef het avondeten meestal niet zitten *
+==============================
+
+(3090, 2985, 3144)
+val 0.6 - asr 0.2
+REF=  en barbara is  een zangeres die wij ********* **** stiefmoederlijk hebben behandeld in de eerste serie .
+HYP=waar      ai ss sang     eres die wij eigenlijk tief             moe delier behandeld in de eerste serie .
+ASR=en Barbara is een zangeres die wij eigenlijk stiefmoederlijk hebben behandeld in de eerste serie Dat
+==============================
+
+(3164, 3054, 3229)
+val 0.0 - asr 0.18181818181818182
+REF=en bij de stap ga je iets door de knieen .
+HYP=en bij de stap ga je iets door de knieen .
+ASR=en bij de stap ga je iets door de ****** knieën
+==============================
+
+(3196, 3086, 3260)
+val 0.3333333333333333 - asr 0.16666666666666666
+REF=en daar komen ongelukken van ...
+HYP=en daar komen ongelukkig van   .
+ASR=en daar komen ongelukken van ***
+==============================
+
+(3223, 3111, 3284)
+val 0.42857142857142855 - asr 0.14285714285714285
+REF=en daar was het publiek *** uitzinnig .
+HYP=en  dat was het publiek uit    zinnig .
+ASR=en daar was het publiek uitzinnig *
+==============================
+
+(3252, 3139, 3312)
+val 0.0 - asr 0.2
+REF=en dan die andere wereld van het grote geld .
+HYP=en dan die andere wereld van het grote geld .
+ASR=En dan die andere wereld van het grote geld bedrijven
+==============================
+
+(3288, 3175, 3356)
+val 0.14285714285714285 - asr 0.14285714285714285
+REF=en dan doe je het goed !
+HYP=en dan doe je het goed .
+ASR=en dan doe je het goed *
+==============================
+
+(3306, 3193, 3373)
+val 0.13333333333333333 - asr 0.2
+REF=en dan gaan we weer de andere kant op . handen op de heupen .
+HYP=** dan gaan we **** de andere kant op . handen op de heupen .
+ASR=en dan gaan we **** de andere kant op * handen op de heupen *
+==============================
+
+(3353, 3234, 3414)
+val 0.09090909090909091 - asr 0.18181818181818182
+REF=en dan heb je alleen nog een magische assistent nodig ...
+HYP=en dan heb je alleen nog een magische assistent nodig   .
+ASR=staat en dan heb je alleen nog een magische assistent nodig ***
+==============================
+
+(3400, 3279, 3463)
+val 0.4 - asr 0.1
+REF=en dan nog krijg je gezeur over ******* ** verzakte stoeptegels .
+HYP=en dan nog krijg je gezeur over verzakt en     stop      tegels .
+ASR=en dan nog krijg je gezeur over verzakte stoeptegels *
+==============================
+
+(3445, 3324, 3507)
+val 0.14285714285714285 - asr 0.14285714285714285
+REF=en dan zit de werkdag erop .
+HYP=en dan zit de werkdag **** .
+ASR=en dan zit de werkdag erop *
+==============================
+
+(3467, 3342, 3528)
+val 0.25 - asr 0.08333333333333333
+REF=en dat het een andere trein was die naast **** jou wegreed .
+HYP=en dat het een andere trein was die naast jouw weg    reed .
+ASR=en dat het een andere trein was die naast jou wegreed *
+==============================
+
+(3511, 3387, 3571)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=en dat je het ook nog op vijf juni hebt gepost ...
+HYP=en dat je het ook nog op vijf juni hebt ****** ...
+ASR=en dat je het ook nog Op vijf juni hebt gepost een
+==============================
+
+(3550, 3420, 3610)
+val 0.07692307692307693 - asr 0.15384615384615385
+REF=en dat past volgens deskundigen in het plaatje dat geluk afdwingbaar lijkt .
+HYP=en dat past volgens deskundigen in het plaatje dat geluk afdwingbare lijkt .
+ASR=en dat past volgens   deskundig in het plaatje dat geluk afdwingbaar lijkt nou
+==============================
+
+(3614, 3484, 3674)
+val 0.0 - asr 0.16666666666666666
+REF=en dat vind ik jammer .
+HYP=en dat vind ik jammer .
+ASR=en dat vind ik jammer *
+==============================
+
+(3632, 3502, 3691)
+val 0.0 - asr 0.14285714285714285
+REF=en de aanleiding dat ik zo ...
+HYP=en de aanleiding dat ik zo ...
+ASR=en de aanleiding dat ik zo  ik
+==============================
+
+(3656, 3526, 3714)
+val 0.1 - asr 0.1
+REF=en de armen beweeg je mee vanuit de schouders .
+HYP=** de armen beweeg je mee vanuit de schouders .
+ASR=en de armen beweeg je mee vanuit de schouders *
+==============================
+
+(3694, 3562, 3751)
+val 0.0 - asr 0.14285714285714285
+REF=en de laatste van vandaag alweer .
+HYP=en de laatste van vandaag alweer .
+ASR=en de laatste van vandaag alweer *
+==============================
+
+(3722, 3590, 3778)
+val 0.5 - asr 0.16666666666666666
+REF= en de  stad van konijnen !
+HYP=dan de start van konijnen .
+ASR=en de stad van konijnen *
+==============================
+
+(3742, 3612, 3797)
+val 0.0 - asr 0.14285714285714285
+REF=en de taal kan gaan leren .
+HYP=en de taal kan gaan leren .
+ASR=en de taal kan gaan leren en
+==============================
+
+(3763, 3633, 3819)
+val 0.2 - asr 0.2
+REF=en die heeft  ze in haar eigen jasje gestoken   .
+HYP=en die heeft zij in haar eigen jasje gestoken ...
+ASR=en die heeft zij in haar eigen jasje gestoken heel
+==============================
+
+(3800, 3673, 3860)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=en die zet zich ongetwijfeld in de komende generaties voort   .
+HYP=en die zet zich ongetwijfeld in de komende generaties ***** ...
+ASR=wereld en die zet zich ongetwijfeld in de komende generaties voort *
+==============================
+
+(3851, 3721, 3916)
+val 0.1 - asr 0.2
+REF=en eigenlijk was  je meteen over eentje heel enthousiast .
+HYP=en eigenlijk was jij meteen over eentje heel enthousiast .
+ASR=en eigenlijk was jij meteen over eentje heel enthousiast *
+==============================
+
+(3899, 3770, 3964)
+val 0.18181818181818182 - asr 0.09090909090909091
+REF=en het bleek dat  de film heel goed geslaagd was .
+HYP=en dat bleek dat dee film heel goed geslaagd was .
+ASR=en het bleek dat de film heel goed geslaagd was dus
+==============================
+
+(3938, 3810, 4005)
+val 0.0 - asr 0.2
+REF=en hij is terug .
+HYP=en hij is terug .
+ASR=en hij is terug *
+==============================
+
+(3951, 3823, 4017)
+val 0.0 - asr 0.125
+REF=en hij weet dan al heel goed naar wat voor vrouw hij op zoek is .
+HYP=en hij weet dan al heel goed naar wat voor vrouw hij op zoek is .
+ASR=familiebedrijf en hij weet dan al heel goed naar wat voor vrouw hij op zoek is *
+==============================
+
+(4001, 3873, 4080)
+val 0.6666666666666666 - asr 0.1111111111111111
+REF=en hoe is dat dan twaalf jaar later ?
+HYP=en hoe ** dat ***   maar   ja laten .
+ASR=en hoe is dat dan twaalf jaar later *
+==============================
+
+(4030, 3893, 4108)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=en hoe lager je gaat ...
+HYP=en hoe lager je gaat   .
+ASR=en hoe lager je gaat ***
+==============================
+
+(4049, 3910, 4124)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=en ik ben heel benieuwd hoe het nu met ze gaat .
+HYP=** ik ben heel benieuwd hoe het nu met ze gaat .
+ASR=voorbijgevlogen en ik ben heel benieuwd hoe het nu met ze gaat *
+==============================
+
+(4086, 3945, 4175)
+val 0.2857142857142857 - asr 0.14285714285714285
+REF=en ik was van tevoren al ...
+HYP=en ik was van tevoren **   .
+ASR=en ik was van tevoren al  uh
+==============================
+
+(4108, 3963, 4196)
+val 0.14285714285714285 - asr 0.14285714285714285
+REF=en je ziet ook in de film dat ik daar best mee  worstel .
+HYP=** je ziet ook in de film dat ik daar best mee worstelt .
+ASR=en ja je ziet ook in de film dat ik daar best mee worstel dat
+==============================
+
+(4151, 4005, 4243)
+val 0.0 - asr 0.16666666666666666
+REF=en kijk over je schouder .
+HYP=en kijk over je schouder .
+ASR=en kijk over je schouder *
+==============================
+
+(4172, 4026, 4263)
+val 0.0 - asr 0.1111111111111111
+REF=en mensen mogen wat liever voor elkaar zijn .
+HYP=en mensen mogen wat liever voor elkaar zijn .
+ASR=en mensen mogen wat liever voor elkaar zijn nog
+==============================
+
+(4209, 4063, 4302)
+val 0.0 - asr 0.09090909090909091
+REF=en om ons heen allemaal mensen die ons geschreven hebben ...
+HYP=en om ons heen allemaal mensen die ons geschreven hebben ...
+ASR=en om ons heen allemaal mensen die ons geschreven hebben ***
+==============================
+
+(4259, 4113, 4349)
+val 0.18181818181818182 - asr 0.09090909090909091
+REF=en ook dat valt in de stad overal te halen .
+HYP=en ook dat valt in de stad overal te ***** *
+ASR=en ook dat valt in de stad overal te halen *
+==============================
+
+(4293, 4141, 4382)
+val 0.4166666666666667 - asr 0.16666666666666666
+REF=en ook de witte onderkant van   hun staartje is een **** signaal ...
+HYP=en ook de witte onderkant van start       je is een sina      al   .
+ASR=elkaar en ook de witte onderkant van hun staartje is een signaal waarmee
+==============================
+
+(4343, 4184, 4442)
+val 0.125 - asr 0.125
+REF=en op de laatste rij een kompas .
+HYP=en op de laatste rij een  onpas .
+ASR=en op de laatste rij een kompas *
+==============================
+
+(4369, 4209, 4467)
+val 0.6 - asr 0.2
+REF=en op zijn zesde verhuisde         zijn vader naar brussel ...
+HYP=en op zijn ***** ********* zesenveertig vader **** ******* ***
+ASR=en op zijn zesde verhuisde zijn vader naar ******* Brussel
+==============================
+
+(4414, 4234, 4509)
+val 0.2 - asr 0.2
+REF=en opkomen voor jezelf ...
+HYP=en opkomen voor jezelf   .
+ASR=en opkomen voor jezelf zit
+==============================
+
+(4436, 4254, 4531)
+val 0.0 - asr 0.2
+REF=en strek je op .
+HYP=en strek je op .
+ASR=en strek je op *
+==============================
+
+(4448, 4266, 4542)
+val 0.0 - asr 0.2
+REF=en strek weer op .
+HYP=en strek weer op .
+ASR=en strek weer op *
+==============================
+
+(4462, 4280, 4555)
+val 0.0 - asr 0.16666666666666666
+REF=en tot slot een koffer .
+HYP=en tot slot een koffer .
+ASR=en tot slot een koffer *
+==============================
+
+(4481, 4299, 4573)
+val 0.1 - asr 0.2
+REF=en vader met pensioen vanuit zijn villa in portugal .
+HYP=in vader met pensioen vanuit zijn villa in portugal .
+ASR=en vader met pensioen vanuit zijn villa in Portugal twee
+==============================
+
+(4525, 4343, 4620)
+val 0.23076923076923078 - asr 0.15384615384615385
+REF=en van achter de schermen  hou ik alles goed in de gaten .
+HYP=** van achter de schermen houd ik    al goed in de gaten .
+ASR=** van achter de schermen hou ik alles goed in de gaten *
+==============================
+
+(4570, 4384, 4662)
+val 0.0 - asr 0.1111111111111111
+REF=en van haar zoektocht werd een documentaire gemaakt .
+HYP=en van haar zoektocht werd een documentaire gemaakt .
+ASR=en van haar zoektocht werd een documentaire gemaakt uh
+==============================
+
+(4615, 4429, 4708)
+val 0.09090909090909091 - asr 0.18181818181818182
+REF=en vanuit deze houding breng je de gewichten naar buiten .
+HYP=** vanuit deze houding breng je de gewichten naar buiten .
+ASR=armen en vanuit deze houding breng je de gewichten naar buiten *
+==============================
+
+(4663, 4475, 4760)
+val 0.0 - asr 0.07692307692307693
+REF=en veel bedrijven blijken zich groener voor te doen dan ze zijn .
+HYP=en veel bedrijven blijken zich groener voor te doen dan ze zijn .
+ASR=en veel bedrijven blijken zich groener voor te doen dan ze zijn het
+==============================
+
+(4716, 4528, 4815)
+val 0.3 - asr 0.2
+REF=en voor ons vijfentwintig euro voor een flesje wijn .
+HYP=en voor ons vijfentwintig euro **** van flesje **** .
+ASR=en voor ons vijfentwintig euro voor *** flesje wijn *
+==============================
+
+(4760, 4564, 4855)
+val 0.36363636363636365 - asr 0.18181818181818182
+REF=en ze kwamen daar aan en toen bleek dat iemand ...
+HYP=** ze kwamen   er aan ** toen bleek dat iemand   .
+ASR=en ze kwamen daar aan en toen bleek dat iemand die  in
+==============================
+
+(4800, 4596, 4897)
+val 0.0 - asr 0.18181818181818182
+REF=en ze vinden het ook heel leuk om te zien .
+HYP=en ze vinden het ook heel leuk om te zien .
+ASR=geleden en ze vinden het ook heel leuk om te zien *
+==============================
+
+(4833, 4629, 4936)
+val 0.25 - asr 0.125
+REF=enig idee hoe deze optische illusie werkt ?
+HYP=enig idee hoe deze  optisch illusie werkt .
+ASR=enig idee hoe deze optische illusie werkt *
+==============================
+
+(4869, 4664, 4971)
+val 0.4 - asr 0.2
+REF=ga je gang . nog niet spieken bij elkaar .
+HYP=** ** **** * nog niet spieken bij elkaar .
+ASR=ga je gang * nog niet spieken bij elkaar *
+==============================
+
+(4902, 4688, 5002)
+val 0.125 - asr 0.125
+REF=** gaan over de voorwerpen hier op tafel .
+HYP=we gaan over de voorwerpen hier op tafel .
+ASR=gaan over de voorwerpen hier op tafel *
+==============================
+
+(4934, 4722, 5033)
+val 0.0 - asr 0.2
+REF=gelijk lekker in beweging .
+HYP=gelijk lekker in beweging .
+ASR=gelijk lekker in beweging *
+==============================
+
+(4957, 4745, 5055)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=hamdok zegt dat het land in een politieke ** impasse is beland sinds de militaire staatsgreep van oktober .
+HYP=   ook zegt dat het land in een politieke in  passen is beland sinds de militaire staatsgreep van oktober .
+ASR=****** zegt dat het land in een politieke impasse is beland sinds de militaire staatsgreep van oktober wel het
+==============================
+
+(5044, 4830, 5141)
+val 0.1 - asr 0.2
+REF=hand op je bil . hand op je heup .
+HYP=hand op je bil , hand op je heup .
+ASR=hand op je bil * hand op je heup *
+==============================
+
+(5069, 4855, 5164)
+val 0.0 - asr 0.16666666666666666
+REF=handen blijven op de heupen .
+HYP=handen blijven op de heupen .
+ASR=handen blijven op de heupen *
+==============================
+
+(5093, 4879, 5187)
+val 0.1 - asr 0.2
+REF=heb je ooit van je leven een vrouw gezoend ?
+HYP=heb je ooit van je leven een vrouw gezoend .
+ASR=standpunt heb je ooit van je leven een vrouw gezoend *
+==============================
+
+(5128, 4914, 5230)
+val 0.2727272727272727 - asr 0.18181818181818182
+REF=*** heel veel zangers hebben een hele  plaat aan haar gewijd .
+HYP=dat heel veel zangers hebben een hele plaats aan haar  gewin .
+ASR=dat heel veel zangers hebben een hele plaat aan haar gewijd *
+==============================
+
+(5175, 4964, 5279)
+val 0.0 - asr 0.16666666666666666
+REF=heerlijk om warm te worden .
+HYP=heerlijk om warm te worden .
+ASR=heerlijk om warm te worden *
+==============================
+
+(5198, 4987, 5301)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=het allerbelangrijkste is dat je weet voor jezelf wat duurzaam betekent .
+HYP=het allerbelangrijkste is dat je **** voor jezelf wat duurzaam betekent .
+ASR=het allerbelangrijkste is dat je weet voor jezelf *** duurzaam betekent *
+==============================
+
+(5260, 5045, 5359)
+val 0.3 - asr 0.2
+REF=het begint     zo langzamerhand echt een plaag te worden .
+HYP=het begint zolang           man echt een plaat te worden .
+ASR=Het begint zo langzamerhand echt een plaag te worden *
+==============================
+
+(5305, 5084, 5403)
+val 0.07692307692307693 - asr 0.15384615384615385
+REF=het is belangrijk om die beweging volledig uit je benen te halen ...
+HYP=het is belangrijk om die beweging volledig uit je benen te halen   .
+ASR=los het is belangrijk om die beweging volledig uit je benen te halen  en
+==============================
+
+(5361, 5138, 5461)
+val 0.0 - asr 0.2
+REF=het is hartstikke mooi .
+HYP=het is hartstikke mooi .
+ASR=het is hartstikke mooi *
+==============================
+
+(5381, 5158, 5480)
+val 0.07142857142857142 - asr 0.14285714285714285
+REF=het is ook echt een klassieker . het gaat over een verloren liefde .
+HYP=het is ook echt een klassieker , het gaat over een verloren liefde .
+ASR=het is ook echt een klassieker * het gaat over een verloren liefde *
+==============================
+
+(5436, 5213, 5533)
+val 0.0 - asr 0.125
+REF=het jongste gras en de leukste vrouwtjes .
+HYP=het jongste gras en de leukste vrouwtjes .
+ASR=het jongste gras en de leukste vrouwtjes *
+==============================
+
+(5471, 5248, 5567)
+val 0.125 - asr 0.125
+REF=het kabinet besluit namelijk of de scholen volgende week na de kerstvakantie weer ** open mogen .
+HYP=het kabinet besluit namelijk of de scholen volgende week na de kerstvakantie weer op   en mogen .
+ASR=*** kabinet besluit namelijk of de scholen volgende week na de kerstvakantie weer open mogen *
+==============================
+
+(5550, 5327, 5642)
+val 0.0 - asr 0.2
+REF=het rijksmuseum heeft een unieke nieuwe foto van de nachtwacht op de website geplaatst .
+HYP=het rijksmuseum heeft een unieke nieuwe foto van de nachtwacht op de website geplaatst .
+ASR=het Rijksmuseum heeft een unieke nieuwe foto van de Nachtwacht op de website geplaatst *
+==============================
+
+(5624, 5401, 5715)
+val 0.05555555555555555 - asr 0.1111111111111111
+REF=het rijksmuseum is nog dicht vanwege de coronamaatregelen * maar de foto is voor iedereen online te zien .
+HYP=het rijksmuseum is nog dicht vanwege de coronamaatregelen , maar de foto is voor iedereen online te zien .
+ASR=het Rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien *
+==============================
+
+(5711, 5489, 5801)
+val 0.05555555555555555 - asr 0.1111111111111111
+REF=het rijksmuseum is nog dicht vanwege de coronamaatregelen * maar de foto is voor iedereen online te zien .
+HYP=het rijksmuseum is nog dicht vanwege de coronamaatregelen , maar de foto is voor iedereen online te zien .
+ASR=het Rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien *
+==============================
+
+(5798, 5577, 5887)
+val 0.0 - asr 0.2
+REF=hij is echt terug .
+HYP=hij is echt terug .
+ASR=hij is echt terug *
+==============================
+
+(5813, 5592, 5901)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=hij leverde bewijs voor het ontstaan van de   mens in afrika .
+HYP=hij leverde bewijs voor het ontstaan van ** mensen in afrika .
+ASR=hij leverde bewijs voor het ontstaan van de mens in Afrika de
+==============================
+
+(5862, 5641, 5951)
+val 0.26666666666666666 - asr 0.13333333333333333
+REF=hoe blij waren wij toen een tijdje later dit kaartje in de bus viel .
+HYP=hoe blij waren wij toen een tijdje later dit kaartje ** ** *** **** .
+ASR=hoe blij waren wij toen een tijdje later dit kaartje in de bus **** *
+==============================
+
+(5917, 5685, 6001)
+val 0.2 - asr 0.2
+REF=** hoe oud jij bent .
+HYP=ik hoe oud jij bent .
+ASR=hoe oud jij bent *
+==============================
+
+(5931, 5701, 6014)
+val 0.5555555555555556 - asr 0.1111111111111111
+REF=*** hoeveel invloed je zintuigen hebben op je **** *** evenwichtsgevoel .
+HYP=een    veel invloed je zintuigen hebben op je even weg           gevoel .
+ASR=hoeveel invloed je zintuigen hebben op je evenwichtsgevoel *
+==============================
+
+(5983, 5750, 6065)
+val 0.1 - asr 0.2
+REF=hoeveel ze nu verdient , wil ze niet delen .
+HYP=hoeveel ze nu verdient * wil ze niet delen .
+ASR=hoeveel ze nu verdient * wil ze niet delen daarin
+==============================
+
+(6018, 5784, 6104)
+val 0.15789473684210525 - asr 0.15789473684210525
+REF=hoewel die fraude vorig jaar iets afnam , lag het aantal aangiften soms nog op honderd per dag .
+HYP=    de die fraude vorig jaar iets afnam * lag het aantal  aangifte soms nog op honderd per dag .
+ASR=****** die fraude vorig jaar iets afnam * lag het aantal aangiften soms nog op honderd per dag *
+==============================
+
+(6096, 5856, 6174)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=hoogeveen is een groot en leven wekkend cultureel centrum rijker .
+HYP=********* is een groot en leven  wekken cultureel centrum rijker .
+ASR=********* is een groot en leven wekkend cultureel centrum rijker *
+==============================
+
+(6152, 5902, 6220)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=hou je bovenlichaam helemaal hetzelfde ...
+HYP=hou je bovenlichaam helemaal hetzelfde   .
+ASR=hou je bovenlichaam helemaal hetzelfde ***
+==============================
+
+(6189, 5937, 6254)
+val 0.2 - asr 0.13333333333333333
+REF=houden ze het binnen de ring na 'n meter of vier wel voor gezien .
+HYP=houden ** het binnen de ring na ** meter of vier wat voor gezien .
+ASR=houden ze het binnen de ring na een meter of vier wel voor gezien *
+==============================
+
+(6241, 5985, 6306)
+val 0.1 - asr 0.2
+REF=hulpdiensten zijn belaagd en de mobiele eenheid werd ingezet .
+HYP=         een zijn belaagd en de mobiele eenheid werd ingezet .
+ASR=************ zijn belaagd en de mobiele eenheid werd ingezet *
+==============================
+
+(6294, 6029, 6346)
+val 0.0 - asr 0.18181818181818182
+REF=ik ben benieuwd wat deze magische bel nog meer kan .
+HYP=ik ben benieuwd wat deze magische bel nog meer kan .
+ASR=Ik ben benieuwd wat deze magische bel nog meer kan *
+==============================
+
+(6336, 6071, 6387)
+val 0.09090909090909091 - asr 0.18181818181818182
+REF=ik ben er namelijk zelf niet al te goed in .
+HYP=ik ben ** namelijk zelf niet al te goed in .
+ASR=Ik ben er namelijk zelf niet al te goed in nou
+==============================
+
+(6370, 6103, 6423)
+val 0.1 - asr 0.2
+REF=ik haal  de deksel even van het cadeautje af .
+HYP=ik haal het deksel even van het cadeautje af .
+ASR=ik haal de  deels even van het cadeautje af *
+==============================
+
+(6406, 6140, 6457)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=** ik heb het gekregen om het aan jou te geven .
+HYP=en ik heb *** gekregen om het aan jou te geven .
+ASR=en ik heb het gekregen om het aan jou te geven het
+==============================
+
+(6441, 6174, 6496)
+val 0.5294117647058824 - asr 0.17647058823529413
+REF=ik was hier voor mijn gevoel net nog en nu is er alweer een kindje bij !
+HYP=ik was   er  van   de   vond net nog ** ** ** **    een een kindje bij !
+ASR=Ik was hier voor mijn gevoel net nog en nu is er alweer een keertje bij ja
+==============================
+
+(6497, 6212, 6554)
+val 0.0 - asr 0.2
+REF=ik was ook geraakt .
+HYP=ik was ook geraakt .
+ASR=ik was ook geraakt dat
+==============================
+
+(6513, 6228, 6572)
+val 0.1111111111111111 - asr 0.1111111111111111
+REF=ik wilde je graag op je werk opzoeken .
+HYP=ik   wil je graag op je werk opzoeken .
+ASR=ik wilde je graag op je werk opzoeken *
+==============================
+
+(6544, 6257, 6602)
+val 0.5555555555555556 - asr 0.1111111111111111
+REF=in **  die kerstboom heb ik namelijk **** kerstballen opgehangen .
+HYP=in de kers      boom heb ik namelijk kers      ballen opgehangen .
+ASR=in die kerstboom heb ik namelijk kerstballen opgehangen *
+==============================
+
+(6593, 6303, 6650)
+val 0.0 - asr 0.14285714285714285
+REF=in een ruimte vol met wolken .
+HYP=in een ruimte vol met wolken .
+ASR=in een ruimte vol met wolken *
+==============================
+
+(6617, 6327, 6673)
+val 0.3125 - asr 0.1875
+REF=in **   het evangelie staat dat je in de wereld bent , niet van de wereld .
+HYP=in de veren       ist   aat dat je in de wereld bent * niet van de wereld .
+ASR=in het evangelie staat uh dat je in de wereld bent maar niet van de wereld Dus
+==============================
+
+(6672, 6377, 6735)
+val 0.1875 - asr 0.1875
+REF=*** * in plaats van naar binnen en naar buiten stappen we voor en weer naar buiten .
+HYP=nou , in plaats van naar binnen en **** buiten stappen we voor en weer naar buiten .
+ASR=nou in plaats van naar binnen en naar buiten stappen we voor en weer naar buiten en voor
+==============================
+
+(6735, 6440, 6806)
+val 0.2857142857142857 - asr 0.14285714285714285
+REF=inmiddels is het zes jaar later ...
+HYP=inmiddels is het zes jaar lager   .
+ASR=inmiddels is het zes jaar later ***
+==============================
+
+(6764, 6467, 6832)
+val 0.3125 - asr 0.1875
+REF=is er iemand die ooit van deze meneer heeft gehoord of hebben wij iets gemist ?
+HYP=** ** ****** die ooit van deze   neer heeft gehoord of hebben wij iets gemist .
+ASR=** ** iemand die ooit van deze meneer heeft gehoord of hebben wij iets gemist *
+==============================
+
+(6828, 6519, 6891)
+val 0.0 - asr 0.2
+REF=is het goed intensief .
+HYP=is het goed intensief .
+ASR=is het goed intensief *
+==============================
+
+(6847, 6538, 6909)
+val 0.3 - asr 0.2
+REF=ja , ik wil daar een voorstelling over maken .
+HYP=** * ik wil   de een voorstelling over maken .
+ASR=ja ja ik wil daar een voorstelling over maken ben
+==============================
+
+(6884, 6570, 6949)
+val 0.0 - asr 0.125
+REF=je mag ze schuin naar voren brengen .
+HYP=je mag ze schuin naar voren brengen .
+ASR=je mag ze schuin naar voren brengen he
+==============================
+
+(6914, 6600, 6980)
+val 0.2857142857142857 - asr 0.14285714285714285
+REF=je vindt  ze vooral in parken ...
+HYP=je vindt zee vooral in parken   .
+ASR=je vindt ze vooral in parken ***
+==============================
+
+(6940, 6625, 7003)
+val 0.3 - asr 0.2
+REF=jij schreef ons , naar aanleiding van onze serie :
+HYP=zij schreef ons * naar aanleiding van onze serie .
+ASR=jij schreef ons * naar aanleiding van onze serie *
+==============================
+
+(6981, 6665, 7042)
+val 0.2 - asr 0.1
+REF=kijk eens wat er gebeurt als ik deze nu ...
+HYP=kijk eens wat er gebeurt als ik **** nu   .
+ASR=kijk eens wat er gebeurt als ik deze nu ***
+==============================
+
+(7015, 6693, 7073)
+val 0.08333333333333333 - asr 0.08333333333333333
+REF=kijk maar eens wat er gebeurt als ik de schaal weghaal .
+HYP=kijk **** eens wat er gebeurt als ik de schaal weghaal .
+ASR=kijk maar eens wat er gebeurt als ik de schaal weghaal *
+==============================
+
+(7060, 6734, 7117)
+val 0.09090909090909091 - asr 0.18181818181818182
+REF= kijk nog eens goed naar de achterkant van mijn voorspelling .
+HYP=kijkt nog eens goed naar de achterkant van mijn voorspelling .
+ASR=hand kijk nog eens goed naar de achterkant van mijn voorspelling *
+==============================
+
+(7111, 6786, 7171)
+val 0.0 - asr 0.16666666666666666
+REF=kijk nog maar eens goed .
+HYP=kijk nog maar eens goed .
+ASR=kijk nog maar eens goed *
+==============================
+
+(7131, 6806, 7190)
+val 0.36363636363636365 - asr 0.18181818181818182
+REF=kinderen van **** **** hoogeveense lagere scholen waren druk aan het boetseren ...
+HYP=kinderen van hoge veen         sel ageren scholen waren druk aan het boetseren ...
+ASR=kinderen van Hoogeveense lagere scholen waren druk aan het boetseren toen
+==============================
+
+(7193, 6868, 7253)
+val 0.2727272727272727 - asr 0.09090909090909091
+REF=kom jij aan de *** aanbevolen dertig minuten bewegen per dag ?
+HYP=kom jij aan de aan   bevallen dertig minuten bewegen per dag .
+ASR=kom jij aan de aanbevolen dertig minuten bewegen per dag *
+==============================
+
+(7241, 6917, 7300)
+val 0.0 - asr 0.18181818181818182
+REF=kom maar staan met de voeten een stukje uit elkaar .
+HYP=kom maar staan met de voeten een stukje uit elkaar .
+ASR=Kom maar staan met de voeten een stukje uit elkaar *
+==============================
+
+(7283, 6959, 7341)
+val 0.1 - asr 0.1
+REF=kunnen jongeren later nog wel wonen waar ze willen ?
+HYP=kunnen jongeren later nog wel wonen waar ze willen .
+ASR=kunnen jongeren later nog wel wonen waar ze willen op
+==============================
+
+(7326, 7002, 7385)
+val 0.0 - asr 0.16666666666666666
+REF=laatste keer is dit hoor .
+HYP=laatste keer is dit hoor .
+ASR=laatste keer is dit hoor *
+==============================
+
+(7347, 7023, 7405)
+val 0.0 - asr 0.1
+REF=laten we het eens vanuit een andere hoek bekijken .
+HYP=laten we het eens vanuit een andere hoek bekijken .
+ASR=laten we het eens vanuit een andere hoek bekijken *
+==============================
+
+(7389, 7065, 7446)
+val 0.2222222222222222 - asr 0.1111111111111111
+REF=leakey  zette zich ook in voor de strijd tegen de ivoorhandel en de bescherming van de neushoorn    .
+HYP=    de zetten zich ook in voor de strijd tegen de ivoorhandel en de bescherming van de ********* neus
+ASR= Lieke zette zich ook in voor de strijd tegen de ivoorhandel en de bescherming van de neushoorn *
+==============================
+
+(7469, 7136, 7524)
+val 0.0 - asr 0.2
+REF=lekker even krachtig duwen .
+HYP=lekker even krachtig duwen .
+ASR=lekker even krachtig duwen *
+==============================
+
+(7493, 7160, 7547)
+val 0.07692307692307693 - asr 0.15384615384615385
+REF=let op de knieen , dat die ietsje van het slot zijn .
+HYP=let op de knieen * dat die ietsje van het slot zijn .
+ASR=let op de knieen * dat die ietsje van het slot zijn *
+==============================
+
+(7534, 7200, 7586)
+val 0.14285714285714285 - asr 0.14285714285714285
+REF=lijkt het vanuit het juiste perspectief ...
+HYP=lijkt het vanuit het juiste perspectief   .
+ASR=lijkt het vanuit het juiste perspectief alsof
+==============================
+
+(7571, 7235, 7625)
+val 0.3333333333333333 - asr 0.16666666666666666
+REF=luister goed naar mijn ********** instructies .
+HYP=luister goed naar mijn instructie          ss .
+ASR=luister goed naar mijn instructies *
+==============================
+
+(7602, 7267, 7655)
+val 0.25 - asr 0.16666666666666666
+REF=maar blijkbaar zag jij toch iets in hem waardoor jij schreef .
+HYP=maar blijkbaar zag jij toch iets in hem ******** ***     was .
+ASR=maar blijkbaar zag jij toch iets in hem waardoor jij ******* schrijft
+==============================
+
+(7653, 7303, 7706)
+val 0.0 - asr 0.2
+REF=maar de prille relatie met rimke houdt geen stand .
+HYP=maar de prille relatie met rimke houdt geen stand .
+ASR=maar de prille relatie met Remke houdt geen stand *
+==============================
+
+(7695, 7345, 7747)
+val 0.0 - asr 0.125
+REF=maar die hele leefomgeving van wilde konijnen ...
+HYP=maar die hele leefomgeving van wilde konijnen ...
+ASR=maar die hele leefomgeving van wilde konijnen ***
+==============================
+
+(7737, 7387, 7786)
+val 0.0 - asr 0.1111111111111111
+REF=maar het is gewoon een kolkende massa geworden .
+HYP=maar het is gewoon een kolkende massa geworden .
+ASR=maar het is gewoon een kolkende massa geworden ja
+==============================
+
+(7777, 7427, 7827)
+val 0.0625 - asr 0.1875
+REF=maar het is nog niet zo gemakkelijk om bij de vrouwtjes in de smaak ** vallen .
+HYP=maar het is nog niet zo gemakkelijk om bij de vrouwtjes in de smaak te vallen .
+ASR=jacht maar het is nog niet zo gemakkelijk om bij de vrouwtjes in de smaak te vallen *
+==============================
+
+(7838, 7490, 7894)
+val 0.4166666666666667 - asr 0.16666666666666666
+REF=maar hij heeft heel kort een paar opnames gemaakt ** *** in bobino ...
+HYP=maar *** heeft heel kort een paar opnames gemaakt in bob in    ook   .
+ASR=maar hij heeft heel kort een paar opnames gemaakt in  Bobby  na
+==============================
+
+(7890, 7539, 7944)
+val 0.25 - asr 0.16666666666666666
+REF=maar ja , de ***** koersen gingen ook zo goed dit jaar .
+HYP=maar ja , de koers    erin    gen ook zo goed dit jaar .
+ASR=maar ja * de koersen gingen ook zo goed dit jaar Je
+==============================
+
+(7929, 7577, 7983)
+val 0.14285714285714285 - asr 0.14285714285714285
+REF=maar misschien wel net zo belangrijk :
+HYP=maar misschien wel net zo belangrijk .
+ASR=maar misschien wel net zo belangrijk *
+==============================
+
+(7961, 7609, 8014)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=maar na tien jaar buffelen ...
+HYP=maar na tien jaar buffelen   .
+ASR=maar na tien jaar buffelen bleek
+==============================
+
+(7986, 7632, 8041)
+val 0.15789473684210525 - asr 0.10526315789473684
+REF=maar na veel verdriet raapt hij de moed bij elkaar en gaat op zoek naar een nieuwe liefde .
+HYP=maar na veel verdriet  gaat hij ** moet bij elkaar en gaat op zoek naar een nieuwe liefde .
+ASR=leven maar na veel verdriet raapt hij de moed bij elkaar en gaat op zoek naar een nieuwe liefde *
+==============================
+
+(8059, 7702, 8118)
+val 0.07692307692307693 - asr 0.07692307692307693
+REF=maar ook in de stukjes groen langs de wegen en het spoor .
+HYP=maar ook in de stukjes groep langs de wegen en het spoor .
+ASR=maar ook in de stukjes groen langs de wegen en het spoor *
+==============================
+
+(8105, 7748, 8163)
+val 0.25 - asr 0.125
+REF=maar soms ook gewoon open     en bloot .
+HYP=maar soms ook gewoon **** openen bloot .
+ASR=maar soms ook gewoon open en bloot *
+==============================
+
+(8134, 7777, 8191)
+val 0.3125 - asr 0.1875
+REF=maar we zijn een paar jaar geleden met hem in *** ** toulouse in     een theatertje geweest .
+HYP=maar we zijn een paar jaar geleden met hem in tol os       en in theater        tje geweest .
+ASR=maar we zijn een paar jaar geleden met hem in uh Toulouse in een theatertje geweest en
+==============================
+
+(8201, 7840, 8261)
+val 0.4 - asr 0.2
+REF=maar wist je dat **** **** oliebollen een bijzondere eigenschap hebben ...
+HYP=maar wist je dat olie bold         en een bijzondere eigenschap hebben   .
+ASR=maar wist je dat oliebollen een bijzondere eigenschap hebben waar maar
+==============================
+
+(8256, 7893, 8321)
+val 0.0 - asr 0.2
+REF=maar ze sloegen hun slag in de jaren vijftig .
+HYP=maar ze sloegen hun slag in de jaren vijftig .
+ASR=Maar ze sloegen hun slag in de jaren vijftig toen
+==============================
+
+(8293, 7930, 8361)
+val 0.0 - asr 0.07692307692307693
+REF=mama ziet er streng op toe dat ze in de buurt blijven ...
+HYP=mama ziet er streng op toe dat ze in de buurt blijven ...
+ASR=mama ziet er streng op toe dat ze in de buurt blijven zodat
+==============================
+
+(8338, 7975, 8408)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=meer dan acht seconden **** filmen wij nooit met de telefoon .
+HYP=meer dan acht seconden film     en wij nooit met de telefoon .
+ASR=meer dan acht seconden filmen wij nooit he met de telefoon Dus
+==============================
+
+(8385, 8022, 8459)
+val 0.1 - asr 0.2
+REF=met de tenen naar voren , handen naar voren .
+HYP=met de tenen naar voren . handen naar voren .
+ASR=met de tenen naar voren * handen naar voren *
+==============================
+
+(8421, 8058, 8493)
+val 0.0 - asr 0.1111111111111111
+REF=met de voeten een klein stukje uit elkaar .
+HYP=met de voeten een klein stukje uit elkaar .
+ASR=met de voeten een klein stukje uit elkaar *
+==============================
+
+(8456, 8093, 8527)
+val 0.8333333333333334 - asr 0.16666666666666666
+REF=** *** ****** met een aantal ******* optische illusies .
+HYP=en het nesten met een aantal optisch       ee illusies .
+ASR=met een aantal optische illusies *
+==============================
+
+(8485, 8134, 8555)
+val 0.0 - asr 0.18181818181818182
+REF=met een boer aan de andere kant van de wereld .
+HYP=met een boer aan de andere kant van de wereld .
+ASR=ontstaat met een boer aan de andere kant van de wereld *
+==============================
+
+(8522, 8171, 8599)
+val 0.3333333333333333 - asr 0.16666666666666666
+REF=met een groep die zwaar     te lijden heeft onder de coronamaatregelen .
+HYP=*** een groep die ***** zwarte leiden heeft onder de coronamaatregelen .
+ASR=met een groep die zwaar te lijden heeft onder de coronamaatregelen de jongeren
+==============================
+
+(8579, 8224, 8665)
+val 0.3125 - asr 0.125
+REF=met pijn in het hart      werd vorig jaar de locatie van het oorspronkelijke familiebedrijf verkocht .
+HYP=*** **** in *** **** inhalende vorig jaar de locatie van het oorspronkelijke familiebedrijf verkocht .
+ASR=*** pijn in het hart werd vorig jaar de locatie van het oorspronkelijke familiebedrijf verkocht *
+==============================
+
+(8661, 8297, 8743)
+val 0.6363636363636364 - asr 0.18181818181818182
+REF=middelpunt van het complex is een *** zeshoekige concert- en **** *** toneelzaal ...
+HYP=middelpunt van het complex is een zes    hoekige  concert en toen een       zaal   .
+ASR=middelpunt van het complex is een zeshoekige  concert en toneelzaal ***
+==============================
+
+(8722, 8356, 8800)
+val 0.3 - asr 0.2
+REF=    na  de staatsgreep in oktober werd de premier afgezet .
+HYP=nadert aat     schreef in oktober werd de premier afgezet .
+ASR=na de staatsgreep in oktober werd de premier afgezet een maand
+==============================
+
+(8767, 8402, 8852)
+val 0.0 - asr 0.125
+REF=na vandaag wordt het geleidelijk minder zacht .
+HYP=na vandaag wordt het geleidelijk minder zacht .
+ASR=na vandaag wordt het geleidelijk minder zacht blijft
+==============================
+
+(8807, 8442, 8897)
+val 0.3333333333333333 - asr 0.1111111111111111
+REF=*** net zo leuk vindt als op de foto ...
+HYP=dat net zo leuk vindt als ** de foto   .
+ASR=net zo leuk vindt als op de foto ***
+==============================
+
+(8835, 8469, 8922)
+val 0.0 - asr 0.2
+REF=net zoals de dood .
+HYP=net zoals de dood .
+ASR=net zoals de dood *
+==============================
+
+(8850, 8484, 8936)
+val 0.3076923076923077 - asr 0.07692307692307693
+REF=niet dat we in de ******** ****** geschiedschrijving trots zullen zijn op deze opstand .
+HYP=**** dat we in de geschied strijd                 in trots zullen zijn op deze opstand .
+ASR=niet dat we in de geschiedschrijving trots zullen zijn op deze opstand *
+==============================
+
+(8910, 8538, 8995)
+val 0.8 - asr 0.2
+REF=*** ** ** nog een belangrijke besmettingshaard .
+HYP=dat is in  og een belangrijke besmettingshaard .
+ASR=nog een belangrijke besmettingshaard scholen
+==============================
+
+(8944, 8578, 9035)
+val 0.2727272727272727 - asr 0.18181818181818182
+REF=nou * klinkt het misschien een beetje gek , maar eigenlijk ...
+HYP=nou , klinkt het misschien een beetje gek . maar eigenlijk   .
+ASR=nou klinkt het misschien een beetje gek * maar eigenlijk ***
+==============================
+
+(8994, 8627, 9081)
+val 0.3333333333333333 - asr 0.1111111111111111
+REF=nou vinden jullie het al een hele stevige .
+HYP= nu binnen jullie *** al een hele stevige .
+ASR=nou vinden jullie het al een hele stevige *
+==============================
+
+(9029, 8658, 9115)
+val 0.15384615384615385 - asr 0.07692307692307693
+REF=nou weet ik dat je veel producten verkoopt met je gezicht erop *** .
+HYP=dat weet ik dat je veel producten verkoopt met je gezicht erop ook .
+ASR=nou weet ik dat je veel producten verkoopt met je gezicht erop ook
+==============================
+
+(9081, 8713, 9169)
+val 0.2 - asr 0.1
+REF=** *** of de scholen na de kerstvakantie weer open gaan .
+HYP=en met of de scholen na de kerstvakantie weer open gaan .
+ASR=of de scholen na de kerstvakantie weer open gaan vanaf
+==============================
+
+(9122, 8759, 9214)
+val 0.2 - asr 0.2
+REF=of misschien toch wel ?
+HYP=of misschien toch wel .
+ASR=of misschien toch wel *
+==============================
+
+(9141, 8778, 9232)
+val 0.3076923076923077 - asr 0.15384615384615385
+REF=of zelfs een klein beetje gebogen met je **** *** knokkels naar je  schouder .
+HYP=of zelfs een klein beetje gebogen met je knop pel       ss naar je schouders .
+ASR=houdt of zelfs een klein beetje gebogen met je knokkels naar je schouder *
+==============================
+
+(9197, 8836, 9292)
+val 0.0 - asr 0.09090909090909091
+REF=om goed te kijken naar het midden van dit spiraal .
+HYP=om goed te kijken naar het midden van dit spiraal .
+ASR=om goed te kijken naar het midden van dit spiraal *
+==============================
+
+(9238, 8877, 9332)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=om het iets intensiever te maken gaan we iets dieper zakken ...
+HYP=om het iets intensiever te maken gaan we iets dieper zakken   .
+ASR=voren om het iets intensiever te maken gaan we iets dieper zakken ***
+==============================
+
+(9290, 8927, 9386)
+val 0.07142857142857142 - asr 0.14285714285714285
+REF=omdat het donker was en je weet niet of de film het pakt .
+HYP=omdat het donker was en je weet niet of de film *** pakt .
+ASR=omdat het donker was en je weet niet of de film Het pakt *
+==============================
+
+(9335, 8969, 9430)
+val 0.2 - asr 0.2
+REF=omdat het raam de rest van de omgeving ** afdekt ...
+HYP=omdat het raam de rest van de omgeving af   dekt ...
+ASR=wegreed omdat het raam de rest van de omgeving afdekt heb
+==============================
+
+(9375, 9009, 9477)
+val 0.125 - asr 0.125
+REF=***** onder te brengen op een veilige plek .
+HYP=zoals onder te brengen op een veilige plek .
+ASR=onder te brengen op een veilige plek *
+==============================
+
+(9406, 9045, 9507)
+val 0.18181818181818182 - asr 0.09090909090909091
+REF=ondertussen moet het demissionaire kabinet nog een belangrijk besluit nemen :
+HYP=     tussen moet het demissionaire kabinet nog een belangrijk besluit nemen .
+ASR=ondertussen moet het demissionaire kabinet nog een belangrijk besluit nemen *
+==============================
+
+(9473, 9107, 9573)
+val 0.2222222222222222 - asr 0.1111111111111111
+REF=ondertussen werd een *** popster uit het verleden bevrijd .
+HYP=ondertussen werd een pop    ster uit het verleden bevrijd .
+ASR=ondertussen werd een popster uit het verleden bevrijd *
+==============================
+
+(9520, 9154, 9619)
+val 0.17647058823529413 - asr 0.17647058823529413
+REF=** online staat nu de grootste en meest ****** gedetailleerde foto die ooit van de nachtwacht is gemaakt .
+HYP=er online staat nu de grootste en meest detail         leerde foto die ooit van de nachtwacht is gemaakt .
+ASR=online staat nu de grootste en meest gedetailleerde foto die ooit van de Nachtwacht is gemaakt de foto
+==============================
+
+(9600, 9234, 9704)
+val 0.125 - asr 0.125
+REF=** onvoorbereid , met in de hoofdrol de mensen die bij mij aan tafel komen zitten .
+HYP=en onvoorbereid * met in de hoofdrol de mensen die bij mij aan tafel komen zitten .
+ASR=onvoorbereid * met in de hoofdrol de mensen die bij mij aan tafel komen zitten is
+==============================
+
+(9665, 9300, 9769)
+val 0.2727272727272727 - asr 0.18181818181818182
+REF=ook enige kleinere *** zalen zijn in het cultureel centrum opgenomen ...
+HYP=ook enige kleinere zal    en zijn in het cultureel centrum opgenomen   .
+ASR=voeren ook enige kleinere zalen zijn in het cultureel centrum opgenomen ***
+==============================
+
+(9723, 9356, 9830)
+val 0.25 - asr 0.125
+REF=ook heel je lichaam  uit balans brengen ?
+HYP=ook heel je lichaam bijt balans brengen .
+ASR=ook heel je lichaam uit balans brengen *
+==============================
+
+(9756, 9390, 9862)
+val 0.4 - asr 0.2
+REF=ook kan het *** ***** verouderingsproces hiermee nog beter worden bijgehouden .
+HYP=ook kan het ver ouder          inspreken     mee nog beter worden bijgehouden .
+ASR=bestuderen ook kan het verouderingsproces hiermee nog beter worden bijgehouden *
+==============================
+
+(9816, 9445, 9931)
+val 0.1875 - asr 0.1875
+REF=ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met * *** oekraine .
+HYP=ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met u kai      nee .
+ASR=ook zei *** dat er geen afspraken met Rusland worden gemaakt zonder overleg met oekraine oekraine
+==============================
+
+(9891, 9519, 10010)
+val 0.25 - asr 0.125
+REF=ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met **** oekraine .
+HYP=ook *** zij dat er geen afspraken met rusland worden gemaakt zonder overleg met unai      nee .
+ASR=ook zei hij dat er geen afspraken met Rusland worden gemaakt zonder overleg met oekraine oekraine
+==============================
+
+(9966, 9590, 10092)
+val 0.1 - asr 0.2
+REF=ook zij begon met wat zakgeld : zestig euro .
+HYP=ook zij begon met wat zakgeld * zestig euro .
+ASR=ook zij begon met wat zakgeld * zestig euro hoeveel
+==============================
+
+(10002, 9625, 10133)
+val 0.5 - asr 0.16666666666666666
+REF=op een enkel ********* probleemgeval na .
+HYP=** een enkel problemen         geval na .
+ASR=op een enkel probleemgeval na *
+==============================
+
+(10028, 9650, 10158)
+val 0.3 - asr 0.2
+REF=op het **** veldje in de stad heerst betrekkelijke rust .
+HYP=op het veld     je in de stad heerst  betrekkelijk rust .
+ASR=zijn op het veldje in de stad heerst betrekkelijke rust *
+==============================
+
+(10071, 9692, 10204)
+val 0.3 - asr 0.2
+REF=op steenworp afstand van de begraafplaats treffen we ** patricia   .
+HYP=op steenworp afstand van de begraafplaats treffen we at       is ian
+ASR=op steenworp afstand van de begraafplaats treffen we ******** Patricia
+==============================
+
+(10125, 9744, 10257)
+val 0.2 - asr 0.2
+REF=op wielen zijn gebouwd .
+HYP=** wielen zijn gebouwd .
+ASR=op wielen zijn gebouwd *
+==============================
+
+(10145, 9762, 10276)
+val 0.2727272727272727 - asr 0.18181818181818182
+REF=** ** optreden voor publiek is al twee jaar bijna niet mogelijk .
+HYP=en op   treden voor publiek is al twee jaar bijna niet mogelijk .
+ASR=optreden voor publiek dat is al twee jaar bijna niet mogelijk toch
+==============================
+
+(10194, 9813, 10331)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=precies even groot zijn . en ik zal het je bewijzen .
+HYP=precies even groot zijn * en ik zal het je bewijzen .
+ASR=precies even groot zijn * en ik zal het je bewijzen *
+==============================
+
+(10236, 9854, 10371)
+val 0.0 - asr 0.18181818181818182
+REF=puur groen beleggen met veel rendement , dat lukte niet .
+HYP=puur groen beleggen met veel rendement , dat lukte niet .
+ASR=puur groen beleggen met veel rendement * dat lukte niet *
+==============================
+
+(10283, 9901, 10416)
+val 0.5 - asr 0.16666666666666666
+REF=record   na record werd verbroken .
+HYP=  koor nare    cor werd verbroken .
+ASR=record na record werd verbroken huizen
+==============================
+
+(10311, 9926, 10449)
+val 0.36363636363636365 - asr 0.09090909090909091
+REF=reddingsdiensten gaan er vanuit dat  alle slachtoffers nu gevonden zijn .
+HYP=        diensten gaan **    uit dat allee slachtoffers nu gevonden zijn .
+ASR=reddingsdiensten gaan er vanuit dat alle slachtoffers nu gevonden zijn *
+==============================
+
+(10373, 9976, 10510)
+val 0.5 - asr 0.125
+REF=samen met een ******* **** knuffelbeer voor een regenboog ...
+HYP=samen met een knuffel weer           , voor een regenboog   .
+ASR=samen met een knuffelbeer voor een regenboog ***
+==============================
+
+(10414, 10016, 10548)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=samen met zijn broer en vader heeft hij een familiebedrijf     ...
+HYP=samen met zijn broer en vader heeft hij een ************** familie
+ASR=Hans samen met zijn broer en vader heeft hij een familiebedrijf ***
+==============================
+
+(10466, 10058, 10601)
+val 0.2727272727272727 - asr 0.18181818181818182
+REF=schouderbladen * iets naar ****** achteren trekken . en de laatste keer .
+HYP=schouderbladen . iets naar achter       en trekken . en de laatste keer .
+ASR=schouderbladen iets naar achteren trekken * en de laatste keer *
+==============================
+
+(10520, 10113, 10653)
+val 0.0 - asr 0.2
+REF=schouders laag naar achter .
+HYP=schouders laag naar achter .
+ASR=schouders laag naar achter *
+==============================
+
+(10544, 10137, 10676)
+val 0.0 - asr 0.2
+REF=sluit aan en wissel .
+HYP=sluit aan en wissel .
+ASR=sluit aan en wissel *
+==============================
+
+(10561, 10154, 10692)
+val 0.0 - asr 0.2
+REF=sluit je voeten aan .
+HYP=sluit je voeten aan .
+ASR=sluit je voeten aan *
+==============================
+
+(10578, 10171, 10708)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=terwijl de modellen worden opgemaakt ...
+HYP=terwijl de modellen worden opgemaakt   .
+ASR=terwijl de modellen worden opgemaakt ***
+==============================
+
+(10613, 10204, 10740)
+val 0.1111111111111111 - asr 0.1111111111111111
+REF=**** toen kwamen jongeren in actie tegen de woningnood .
+HYP=maar toen kwamen jongeren in actie tegen de woningnood .
+ASR=toen kwamen jongeren in actie tegen de woningnood grootscheeps
+==============================
+
+(10656, 10251, 10794)
+val 0.2 - asr 0.2
+REF=toeval ? of is er meer aan de hand ?
+HYP=toeval * of is er meer aan de hand .
+ASR=toeval * of is er meer aan de hand *
+==============================
+
+(10683, 10277, 10819)
+val 0.25 - asr 0.125
+REF=twee generaties die nadenken over de toekomst   .
+HYP=twee generaties die nadenken over de    koken ...
+ASR=twee generaties die nadenken over de toekomst *
+==============================
+
+(10723, 10316, 10858)
+val 0.09090909090909091 - asr 0.18181818181818182
+REF=twee vrienden mee . mijn vader heeft een prachtig filmpje ...
+HYP=twee vrienden mee . mijn vader heeft een prachtig filmpje   .
+ASR=twee vrienden mee * mijn vader heeft een prachtig filmpje van
+==============================
+
+(10774, 10365, 10908)
+val 0.2 - asr 0.1
+REF=vaak bijna zonder dat we daar iets van merken .
+HYP=vaak bijna zonder dat we   er iets van  maken .
+ASR=vaak bijna zonder dat we daar iets van merken *
+==============================
+
+(10812, 10400, 10945)
+val 0.07692307692307693 - asr 0.15384615384615385
+REF=vader die in het groot denkt en dochter liefst in het klein .
+HYP=vader die ** het groot denkt en dochter liefst in het klein .
+ASR=je vader die in het groot denkt en dochter liefst in het klein *
+==============================
+
+(10861, 10447, 10995)
+val 0.18181818181818182 - asr 0.09090909090909091
+REF=van ** tevoren hebben we van de schaal een foto gemaakt .
+HYP=van te   voren hebben we van de schaal een foto gemaakt .
+ASR=van tevoren hebben we van de schaal een foto gemaakt *
+==============================
+
+(10905, 10491, 11038)
+val 0.36363636363636365 - asr 0.18181818181818182
+REF= van wat voor brief zou jij nou heel gelukkig worden ?
+HYP=want wat voor brief ***  en dan heel gelukkig worden ?
+ASR=van wat voor brief kan jij nou heel gelukkig worden *
+==============================
+
+(10948, 10531, 11080)
+val 0.5714285714285714 - asr 0.14285714285714285
+REF=veel **** zelfhulp van nu is gebaseerd     op principes van ******** filosofen uit de **** oudheid .
+HYP=veel zelf     hulp van nu is     gewas eerder principes van filosoof        en uit de oude      id .
+ASR=veel zelfhulp van nu is gebaseerd op principes van filosofen uit de oudheid en zelf
+==============================
+
+(11012, 10595, 11149)
+val 0.625 - asr 0.125
+REF=veranderen de ********* stadsparken en sportvelden al snel ...
+HYP=veranderen de stadspark          en en sportvelden ** ****   .
+ASR=veranderen de stadsparken en sportvelden al snel  in
+==============================
+
+(11057, 10632, 11193)
+val 0.0 - asr 0.125
+REF=verbonden door het bedrijf waar hij werkte .
+HYP=verbonden door het bedrijf waar hij werkte .
+ASR=verbonden door het bedrijf waar hij werkte *
+==============================
+
+(11094, 10669, 11229)
+val 0.0 - asr 0.16666666666666666
+REF=verwacht wordt dat in de loop van de middag duidelijk wordt ...
+HYP=verwacht wordt dat in de loop van de middag duidelijk wordt ...
+ASR=nemen verwacht wordt dat in de loop van de middag duidelijk wordt  of
+==============================
+
+(11146, 10721, 11285)
+val 0.05555555555555555 - asr 0.1111111111111111
+REF=volgens hamdok is er een nieuw akkoord nodig om het land verder te helpen naar vrije verkiezingen .
+HYP=volgens handen is er een nieuw akkoord nodig om het land verder te helpen naar vrije verkiezingen .
+ASR=volgens handdoek is er een nieuw akkoord nodig om het land verder te helpen naar vrije verkiezingen *
+==============================
+
+(11228, 10803, 11368)
+val 0.0 - asr 0.2
+REF=voor en naar buiten .
+HYP=voor en naar buiten .
+ASR=voor en naar buiten blijven
+==============================
+
+(11245, 10820, 11391)
+val 0.1 - asr 0.2
+REF=voor het vervolg van dit experiment gaan we testen ...
+HYP=voor het vervolg van dit experiment gaan we testen ***
+ASR=brengen voor het vervolg van dit experiment gaan we testen hoeveel
+==============================
+
+(11290, 10862, 11447)
+val 0.0 - asr 0.14285714285714285
+REF=vorige week spraken biden en poetin al zo'n vijftig minuten over de situatie .
+HYP=vorige week spraken biden en poetin al zo'n vijftig minuten over de situatie .
+ASR=vorige week spraken biden en Poetin al zo'n vijftig minuten over de situatie wat
+==============================
+
+(11355, 10927, 11514)
+val 0.4444444444444444 - asr 0.1111111111111111
+REF=waar ** cabaret vertoond kan worden of ***** kamermuziek gespeeld .
+HYP=waar ka   baret vertoond kan worden of kamer      muziek gespeeld .
+ASR=waar cabaret vertoond kan worden of kamermuziek gespeeld *
+==============================
+
+(11405, 10977, 11563)
+val 0.15384615384615385 - asr 0.07692307692307693
+REF=waar de zon voor de verandering           een keer de hele dag schijnt .
+HYP=waar de zon voor de *********** veranderingen keer de hele dag schijnt .
+ASR=waar de zon voor de verandering een keer de hele dag schijnt en
+==============================
+
+(11455, 11026, 11614)
+val 0.6 - asr 0.2
+REF=waar je bij    staat .
+HYP=maar je *** bijstaan .
+ASR=waar je bij staat er
+==============================
+
+(11470, 11041, 11630)
+val 0.5 - asr 0.2
+REF=waar     maar weinig mensen van op de hoogte zijn ?
+HYP=meer arweiler      s     en van op de hoogte zijn .
+ASR=**** maar weinig mensen van op de hoogte zijn Hier
+==============================
+
+(11508, 11074, 11667)
+val 0.0 - asr 0.16666666666666666
+REF=waardoor iedereen zijn evenwicht verliest .
+HYP=waardoor iedereen zijn evenwicht verliest .
+ASR=waardoor iedereen zijn evenwicht verliest *
+==============================
+
+(11546, 11112, 11704)
+val 0.3333333333333333 - asr 0.16666666666666666
+REF=**** waarvan twee al aardige pubers .
+HYP=maar     van twee al aardige pubers .
+ASR=waarvan twee al aardige pubers *
+==============================
+
+(11573, 11139, 11730)
+val 0.125 - asr 0.1875
+REF=want ik wilde dat aan iemand geven die daar ook echt plezier van zou hebben   .
+HYP=want ik wilde dat aan iemand geven die daar dan echt plezier van zou hebben ...
+ASR=want ik wilde dat dan iemand geven die daar dan ook echt plezier van zou hebben niet
+==============================
+
+(11635, 11203, 11798)
+val 0.25 - asr 0.1875
+REF=wat is het probleem ? zijn die konijnen te lelijk ? rennen ze te hard ?
+HYP=wat is het probleem , zijn die konijnen te lelijk * rennen ze ** **** ?
+ASR=wat is het probleem * zijn die konijnen te lelijk * rennen ze te hard *
+==============================
+
+(11691, 11252, 11851)
+val 0.2 - asr 0.13333333333333333
+REF=wat nou als ik jullie vertel dat ik die ring zo weer kan terughalen ?
+HYP=wat *** als ik jullie vertel dat ik  de ring zo weer kan terughalen .
+ASR=Wat nou als ik jullie vertel dat ik die ring zo weer kan terughalen *
+==============================
+
+(11746, 11303, 11905)
+val 0.0 - asr 0.14285714285714285
+REF=we gaan veren op de plaats .
+HYP=we gaan veren op de plaats .
+ASR=we gaan veren op de plaats *
+==============================
+
+(11768, 11325, 11926)
+val 0.3333333333333333 - asr 0.16666666666666666
+REF=we hadden het er al over . die plaatjes worden gemaakt .
+HYP=we hadden *** er ** **** * die plaatjes worden gemaakt .
+ASR=we hadden het er al over dat die plaatjes worden gemaakt uh
+==============================
+
+(11813, 11360, 11974)
+val 0.08333333333333333 - asr 0.08333333333333333
+REF=we heffen de knie en dat doen we om en om .
+HYP=we heffen de knie  . dat doen we om en om .
+ASR=we heffen de knie en dat doen we om en om *
+==============================
+
+(11845, 11391, 12005)
+val 0.2777777777777778 - asr 0.16666666666666666
+REF= we maken heel wat mee , maar we mogen ook wel dankbaar zijn voor wat we hebben .
+HYP=wat maken heel wat mee , maar we mogen ***  we dankbaar ****   en wat we hebben .
+ASR=We maken heel wat mee * maar we mogen ook wel dankbaar zijn voor wat we hebben *
+==============================
+
+(11908, 11445, 12066)
+val 0.25 - asr 0.08333333333333333
+REF= we zien dus dat jongeren besluiten om daarmee te gaan beleggen .
+HYP=een zien *** dat jongeren besluiten om     mee te gaan beleggen .
+ASR=we zien dus dat jongeren besluiten om daarmee te gaan beleggen negenentwintig
+==============================
+
+(11961, 11492, 12132)
+val 0.0 - asr 0.125
+REF=wel contact te maken met het konijn .
+HYP=wel contact te maken met het konijn .
+ASR=wel contact te maken met het konijn en
+==============================
+
+(11991, 11522, 12163)
+val 0.2 - asr 0.2
+REF=** welk cadeautje denk jij dat smaller en langer is ?
+HYP=en welk cadeautje denk jij dat smaller en langer is .
+ASR=En welk cadeautje denk jij dat smaller en langer is *
+==============================
+
+(12032, 11565, 12205)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=welke besluiten worden er nu genomen voor de toekomstige generaties ?
+HYP= elke besluiten worden er nu genomen voor de toekomstige generaties .
+ASR=welke besluiten worden er nu genomen voor de toekomstige generaties welke besluiten
+==============================
+
+(12091, 11623, 12277)
+val 0.36363636363636365 - asr 0.18181818181818182
+REF=wetenschappers kunnen het schilderij nu op afstand ** ** zeer nauwkeurig bestuderen .
+HYP=wetenschappers kunnen het schilderij nu op afstand ze er  nou     keurig bestuderen .
+ASR=pixels wetenschappers kunnen het schilderij nu op afstand zeer nauwkeurig bestuderen *
+==============================
+
+(12160, 11691, 12351)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=***** wildkleurige konijnen met blauwe ogen of zoals deze zwarte rakker .
+HYP=vogel         euro konijnen met blauwe ogen of zoals deze zwarte rakker .
+ASR=wildkleurige konijnen met blauwe  oog of zoals deze zwarte rakker *
+==============================
+
+(12217, 11745, 12406)
+val 0.26666666666666666 - asr 0.06666666666666667
+REF=ze dwingen naar een andere plek te gaan en de deur dicht      te doen .
+HYP=ze  dingen naar een andere plek te gaan en de ****  duur dichter doen .
+ASR=ze dwingen naar een andere plek te gaan en de deur dicht te doen *
+==============================
+
+(12269, 11796, 12457)
+val 0.13333333333333333 - asr 0.2
+REF=ze is zevenenvijftig jaar , werkt als er geen corona is in de schoolbibliotheek ...
+HYP=ze is zevenenvijftig jaar , werkt als er geen corona is in de          schobben   .
+ASR=Ze is zevenenvijftig jaar * werkt als er geen corona is in de schoolbibliotheek ***
+==============================
+
+(12338, 11854, 12522)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=ze staan dus hartstikke stil , maar hun brein denkt hierdoor ...
+HYP=ze staan dus hartstikke stil , maar hun brein denkt hierdoor   .
+ASR=ze staan dus hartstikke stil * maar hun brein denkt hierdoor dat
+==============================
+
+(12391, 11905, 12574)
+val 0.0 - asr 0.1
+REF=ze staan te popelen om de wereld te verkennen .
+HYP=ze staan te popelen om de wereld te verkennen .
+ASR=ze staan te popelen om de wereld te verkennen ze
+==============================
+
+(12429, 11943, 12613)
+val 0.0 - asr 0.14285714285714285
+REF=ze weten dus nog van niks .
+HYP=ze weten dus nog van niks .
+ASR=ze weten dus nog van niks ja
+==============================
+
+(12450, 11964, 12635)
+val 0.0 - asr 0.16666666666666666
+REF=ze wil haar vader overtuigen .
+HYP=ze wil haar vader overtuigen .
+ASR=ze wil haar vader overtuigen *
+==============================
+
+(12475, 11989, 12659)
+val 0.4 - asr 0.2
+REF=ze wil ook duurzaam leven . ecologisch en **** ******** zelfvoorzienend .
+HYP=ze wil ook duurzaam leven * ecologisch en zelf voorzien              en .
+ASR=ze wil ook duurzaam leven * ecologisch en zelfvoorzienend *
+==============================
+
+(12525, 12037, 12707)
+val 0.4 - asr 0.2
+REF=zeg je antwoord **** hardop .
+HYP=zeg je antwoord hard     op .
+ASR=zeg je antwoord hardop *
+==============================
+
+(12545, 12057, 12726)
+val 0.4 - asr 0.2
+REF=zeg je antwoord **** hardop .
+HYP=zeg je antwoord hard     op .
+ASR=zeg je antwoord hardop bordjes
+==============================
+
+(12565, 12077, 12752)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=zes jaar eerder verliest hij plotseling de vrouw van zijn  leven   .
+HYP=zes jaar eerder verliest hij plotseling de vrouw van zijn leiden ...
+ASR=kennen zes jaar eerder verliest hij plotseling de vrouw van zijn leven *
+==============================
+
+(12619, 12134, 12811)
+val 0.3333333333333333 - asr 0.1111111111111111
+REF=** ** zien we juist grote meerderheden voor beide fondsen .
+HYP=en er zien we juist grote meerderheden voor beide fronsen .
+ASR=zien we juist grote meerderheden voor beide fondsen dus
+==============================
+
+(12664, 12183, 12858)
+val 0.0 - asr 0.09090909090909091
+REF=zit hem ook niet alleen in protest tegen een prik .
+HYP=zit hem ook niet alleen in protest tegen een prik .
+ASR=zit hem ook niet alleen in protest tegen een prik *
+==============================
+
+(12705, 12224, 12898)
+val 0.2 - asr 0.2
+REF=zo blijven de prijzen hoog en het aanbod laag .
+HYP=**   dijen de prijzen hoog en het aanbod laag .
+ASR=** blijven de prijzen hoog en het aanbod laag in
+==============================
+
+(12743, 12258, 12935)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=zo meteen laat ik de foto van het vuurwerk weer zien .
+HYP=zo meteen laat ik de foto van het vuurwerk **** zien .
+ASR=staren zo meteen laat ik de foto van het vuurwerk weer zien Maar
+==============================
+
+(12786, 12297, 12987)
+val 0.3 - asr 0.2
+REF=  zo verkoopt bas allerlei producten met zijn gezicht erop .
+HYP=over     koop bas allerlei producten met zijn gezicht **** .
+ASR=zo verkoopt Bas allerlei producten met zijn gezicht erop *
+==============================
+
+(12835, 12340, 13035)
+val 0.14285714285714285 - asr 0.14285714285714285
+REF=zo weten alle andere **** konijnen van het veld dat ze van hem is .
+HYP=zo weten alle andere koor     nine van het veld dat ze van hem is .
+ASR=urine zo weten alle andere konijnen van het veld dat ze van hem is *
+==============================
+
+(12884, 12389, 13088)
+val 0.0 - asr 0.15384615384615385
+REF=zoals een trappenhuis met de ruime trappen die naar het balkon voeren .
+HYP=zoals een trappenhuis met de ruime trappen die naar het balkon voeren .
+ASR=gegroepeerd zoals een trappenhuis met de ruime trappen die naar het balkon voeren *
+==============================
+
+(12943, 12448, 13157)
+val 0.2 - asr 0.2
+REF=zodat    ze mooi recht in de camera kunnen kijken .
+HYP=***** zaten mooi recht in de camera kunnen kijken .
+ASR=***** ze mooi recht in de camera kunnen kijken *
+==============================
+
+(12982, 12485, 13190)
+val 0.125 - asr 0.125
+REF=zou  u nog een keer kunnen klingelen ?
+HYP=zou je nog een keer kunnen klingelen ?
+ASR=zou u nog een keer kunnen klingelen *
+==============================
+
+(13012, 12516, 13219)
+Line count: 310, total line count: 310
+Ref word count: 13012, hyp word count: 12516, asr word count: 13219

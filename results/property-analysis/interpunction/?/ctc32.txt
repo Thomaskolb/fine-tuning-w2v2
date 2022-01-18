@@ -1,0 +1,17 @@
+val 0.2 - asr 0.2
+REF=hoeveel ze nu verdient , wil ze niet delen .
+HYP=hoeveel ze nu verdient * wil ze niet delen ?
+ASR=hoeveel ze nu verdient * wil ze niet delen daarin
+==============================
+
+(6018, 5826, 6104)
+val 0.5 - asr 0.1875
+REF=wat is het probleem ? zijn   die konijnen te lelijk ? rennen ze te hard ?
+HYP=wat is het probleem ? **** enige konijnen te ****** *   leek er en  ere ?
+ASR=wat is het probleem * zijn die konijnen te lelijk * rennen ze te hard *
+==============================
+
+(11691, 11284, 11851)
+Total cases: 3, conditioned cases: 2
+Line count: 2, total line count: 310
+Ref word count: 13012, hyp word count: 12571, asr word count: 13219

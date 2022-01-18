@@ -1,0 +1,76 @@
+# @package _group_
+
+hydra:
+  run:
+    dir: /home/tkolb/bsc/data/fairseq-outputs-xlsr/${now:%Y-%m-%d}/${now:%H-%M-%S}
+    # dir: /home/tkolb/bsc/data/fairseq-outputs-xlsr/2021-12-16/12-15-36
+
+common:
+  fp16: true
+  log_format: json
+  log_interval: 200
+  tensorboard_logdir: ./tensorboard
+
+checkpoint:
+  save_interval: 1000
+  save_interval_updates: 1000
+  keep_interval_updates: 1
+  no_epoch_checkpoints: true
+  best_checkpoint_metric: wer
+
+task:
+  _name: audio_finetuning
+  data: ???
+  normalize: false
+  labels: ltr
+
+dataset:
+  num_workers: 6
+  max_tokens: 320000
+  skip_invalid_size_inputs_valid_test: true
+  validate_after_updates: 10000
+  validate_interval_updates: 5000
+  valid_subset: test
+
+distributed_training:
+  ddp_backend: legacy_ddp
+  distributed_world_size: 1
+
+criterion:
+  _name: ctc
+  zero_infinity: true
+
+optimization:
+  max_update: 60000
+  lr: [0.0003]
+  sentence_avg: true
+  # 40
+  update_freq: [40]
+
+optimizer:
+  _name: adam
+  adam_betas: (0.9,0.98)
+  adam_eps: 1e-08
+
+lr_scheduler:
+  _name: tri_stage
+  phase_ratio: [0.1, 0.4, 0.5]
+  final_lr_scale: 0.05
+
+model:
+  _name: wav2vec_ctc
+  w2v_path: ???
+  apply_mask: true
+  mask_prob: 0.75
+  mask_channel_prob: 0.25
+  mask_channel_length: 64
+  layerdrop: 0.1
+  activation_dropout: 0.1
+  feature_grad_mult: 0.0
+  freeze_finetune_updates: ???
+  checkpoint_activations: false
+  # to fix errors:
+  encoder_layers: 12
+  encoder_embed_dim: 768
+  encoder_ffn_embed_dim: 3072
+  encoder_attention_heads: 12

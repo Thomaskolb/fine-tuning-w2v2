@@ -1,0 +1,3102 @@
+REF: als aan de zijkant .
+HYP: als aan de zijkant .
+Eval   c   c  c       c c
+WER = 0.0
+REF: als aan de zijkant .
+HYP: als aan de zijkant *
+Eval   c   c  c       c d
+ASR_WER = 0.2
+==============================
+
+REF: als   ik de strepen weghaal zie je dat alle ballen ...
+HYP: *** maar de strepen weghaal zie je dat ****     al   .
+Eval   d    s  c       c       c   c  c   c    d      s   s
+WER = 0.45454545454545453
+REF: als ik de strepen weghaal zie je dat alle ballen ...
+HYP: *** ik de strepen weghaal zie je dat alle ballen ***
+Eval   d  c  c       c       c   c  c   c    c      c   d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: als je het lastig vindt om je balans te bewaren *** bij deze oefening ...
+HYP: als je het lastig vindt om je balans te bewaren ook bij deze oefening   .
+Eval   c  c   c      c     c  c  c      c  c       c   i   c    c        c   s
+WER = 0.14285714285714285
+REF: als je het lastig vindt om je balans te bewaren *** bij deze oefening ...
+HYP: als je het lastig vindt om je balans te bewaren ook bij deze oefening ***
+Eval   c  c   c      c     c  c  c      c  c       c   i   c    c        c   d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: als je merkt dat je naar voren moet komen met je bovenlichaam om je knie hoog op te trekken ...
+HYP: als je merkt dat je naar voren moet komen met je bovenlichaam om je knie hoog op te trekken   .
+Eval   c  c     c   c  c    c     c    c     c   c  c            c  c  c    c    c  c  c       c   s
+WER = 0.05
+REF: ** als je merkt dat je naar voren moet komen met je ***** bovenlichaam om je knie hoog op te trekken ...
+HYP: en als je merkt dat je naar voren moet komen met je boven       liggen om je knie hoog op te trekken ***
+Eval  i   c  c     c   c  c    c     c    c     c   c  c     i            s  c  c    c    c  c  c       c   d
+ASR_WER = 0.2
+==============================
+
+REF: alsof er een echte schaal **** oliebollen op tafel staat .
+HYP: alsof er een echte schaal olie     bollen op tafel staat .
+Eval     c  c   c     c      c    i          s  c     c     c c
+WER = 0.2
+REF: alsof   er een echte schaal oliebollen op tafel staat .
+HYP: alsof haar een echte schaal oliebollen op tafel staat *
+Eval     c    s   c     c      c          c  c     c     c d
+ASR_WER = 0.2
+==============================
+
+REF: andere hand op je heup .
+HYP: andere hand op je heup .
+Eval      c    c  c  c    c c
+WER = 0.0
+REF: andere hand op je heup .
+HYP: andere hand op je heup *
+Eval      c    c  c  c    c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: andere kant naar achteren . hiel in de grond .
+HYP: andere kant naar achteren * hiel in de grond .
+Eval      c    c    c        c d    c  c  c     c c
+WER = 0.1
+REF: andere kant naar achteren . hiel in de grond .
+HYP: andere kant naar achteren * hiel in de grond *
+Eval      c    c    c        c d    c  c  c     c d
+ASR_WER = 0.2
+==============================
+
+REF: **** anita mag nu bewijzen hoe goed haar geheugen is .
+HYP: maar anita mag nu bewijzen hoe goed haar geheugen is .
+Eval    i     c   c  c        c   c    c    c        c  c c
+WER = 0.1
+REF: anita mag nu bewijzen hoe goed haar geheugen is    .
+HYP: Anita mag nu bewijzen hoe goed haar geheugen is Acht
+Eval     s   c  c        c   c    c    c        c  c    s
+ASR_WER = 0.2
+==============================
+
+REF: ** bedrijven die hun leven ***** beteren .
+HYP: er      erin die hun leven beter      en .
+Eval  i         s   c   c     c     i       s c
+WER = 0.6666666666666666
+REF: bedrijven die hun leven beteren         .
+HYP: bedrijven die hun leven beteren miljoenen
+Eval         c   c   c     c       c         s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: ben ik in een museum waar je foto 's kan maken voor je social media .
+HYP: ben ik in een museum waar je foto 's kan maken voor je social media .
+Eval   c  c  c   c      c    c  c    c  c   c     c    c  c      c     c c
+WER = 0.0
+REF: ben ik in een museum waar je foto     's kan maken voor je social media .
+HYP: ben ik in een museum waar je **** foto's kan maken voor je social media *
+Eval   c  c  c   c      c    c  c    d      s   c     c    c  c      c     c d
+ASR_WER = 0.1875
+==============================
+
+REF: ben je al begonnen in je hoofd ?
+HYP: ben je al begonnen in je hoofd .
+Eval   c  c  c        c  c  c     c s
+WER = 0.125
+REF: ben je al begonnen in je hoofd ?
+HYP: ben je al begonnen in je hoofd *
+Eval   c  c  c        c  c  c     c d
+ASR_WER = 0.125
+==============================
+
+REF: bestaat alleen in je brein .
+HYP: bestaat alleen in je brein .
+Eval       c      c  c  c     c c
+WER = 0.0
+REF: bestaat alleen in je brein .
+HYP: bestaat alleen in je brein *
+Eval       c      c  c  c     c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: bijna twee jaar later weten we dat de prijzen niet zijn gedaald .
+HYP: bijna twee jaar later weten we dat de prijzen niet zijn gedaald .
+Eval     c    c    c     c     c  c   c  c       c    c    c       c c
+WER = 0.0
+REF: bijna twee jaar later weten we dat de prijzen niet zijn gedaald ***   .
+HYP: bijna twee jaar later weten we dat de prijzen niet zijn gedaald Nou dat
+Eval     c    c    c     c     c  c   c  c       c    c    c       c   i   s
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: ** bijvoorbeeld deze schaal met **** oliebollen .
+HYP: en bijvoorbeeld deze schaal met olie     bollen .
+Eval  i            c    c      c   c    i          s c
+WER = 0.5
+REF: bijvoorbeeld deze schaal met oliebollen    .
+HYP: bijvoorbeeld deze schaal met oliebollen toen
+Eval            c    c      c   c          c    s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: bijvoorbeeld door de ***** rekenmachine op je telefoon **** te openen .
+HYP:    voorbeeld door de reken      machine op je telefoon even te openen .
+Eval            s    c  c     i            s  c  c        c    i  c      c c
+WER = 0.4
+REF: bijvoorbeeld door de rekenmachine op je telefoon **** te openen .
+HYP: bijvoorbeeld door de rekenmachine op je telefoon even te openen *
+Eval            c    c  c            c  c  c        c    i  c      c d
+ASR_WER = 0.2
+==============================
+
+REF: bleek dat toch een beetje te veel van het goede .
+HYP: *****  en toch een beetje te veel van het goede .
+Eval     d   s    c   c      c  c    c   c   c     c c
+WER = 0.18181818181818182
+REF: bleek dat toch een beetje te veel van het goede ***    .
+HYP: bleek dat toch een beetje te veel van het goede met pijn
+Eval     c   c    c   c      c  c    c   c   c     c   i    s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: **** bordjes in de lucht .
+HYP: word      is en de lucht .
+Eval    i       s  s  c     c c
+WER = 0.6
+REF: bordjes in de lucht .
+HYP: bordjes in de lucht *
+Eval       c  c  c     c d
+ASR_WER = 0.2
+==============================
+
+REF: daar zijn zeker tien mensen aangehouden bij ongeregeldheden in het centrum .
+HYP: daar zijn zeker tien mensen aangehouden bij ongeregeldheden in het centrum .
+Eval    c    c     c    c      c           c   c               c  c   c       c c
+WER = 0.0
+REF: ***** daar zijn zeker tien mensen aangehouden bij ongeregeldheden in het centrum .
+HYP: zeker daar zijn zeker tien mensen aangehouden bij ongeregeldheden in het centrum *
+Eval     i    c    c     c    c      c           c   c               c  c   c       c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: daarna kom je weer terug in het midden .
+HYP:    dan kom je weer terug in het midden .
+Eval      s   c  c    c     c  c   c      c c
+WER = 0.1111111111111111
+REF: daarna kom je weer terug in het midden .
+HYP: daarna kom je weer terug in het midden *
+Eval      c   c  c    c     c  c   c      c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: dacht jij ook dat de **** oliebollen in de **** hoeken lagen ?
+HYP: dacht jij ook dat de olie     bollen in de hoek     en lagen .
+Eval     c   c   c   c  c    i          s  c  c    i      s     c s
+WER = 0.45454545454545453
+REF: dacht jij ook dat de oliebollen in de hoeken lagen ?
+HYP: dacht jij ook dat de oliebollen in de hoeken lagen *
+Eval     c   c   c   c  c          c  c  c      c     c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: dan beginnen we ****  met het voorwerp wat jullie op deze foto ...
+HYP: dan beginnen we even smet het voorwerp wat jullie op deze foto ...
+Eval   c        c  c    i    s   c        c   c      c  c    c    c   c
+WER = 0.16666666666666666
+REF: dan beginnen we ******** met het voorwerp wat jullie op deze foto ...
+HYP: dan beginnen we eventjes met het voorwerp wat jullie op deze foto die
+Eval   c        c  c        i   c   c        c   c      c  c    c    c   s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: dan de ********* wegrijdende trein naast je .
+HYP: dan de wegrijden          de trein naast je .
+Eval   c  c         i           s     c     c  c c
+WER = 0.2857142857142857
+REF: dan de wegrijdende trein naast je .
+HYP: dan de wegrijdende trein naast je *
+Eval   c  c           c     c     c  c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: dan die groene blaadjes . die eten ze op .
+HYP: aan die groene blaadjes * die eten ze op .
+Eval   s   c      c        c d   c    c  c  c c
+WER = 0.2
+REF: dan die groene blaadjes . die eten ze op .
+HYP: dan die groene blaadjes * die eten ze op *
+Eval   c   c      c        c d   c    c  c  c d
+ASR_WER = 0.2
+==============================
+
+REF: dan zet je allebei het voorwerp op wat je hebt gepost .
+HYP: dan zet je allebei het voorwerp op wat je hebt gepast .
+Eval   c   c  c       c   c        c  c   c  c    c      s c
+WER = 0.08333333333333333
+REF: dan zet je ** allebei het voorwerp op wat je hebt gepost .
+HYP: dan zet je nu allebei het voorwerp op wat je hebt gepost *
+Eval   c   c  c  i       c   c        c  c   c  c    c      c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: dan zie je dat ze exact boven elkaar liggen .
+HYP: dan zie je dat ze exact boven elkaar liggen .
+Eval   c   c  c   c  c     c     c      c      c c
+WER = 0.0
+REF: ******* dan zie je dat ze exact boven elkaar liggen .
+HYP: weghaal dan zie je dat ze exact boven elkaar liggen *
+Eval       i   c   c  c   c  c     c     c      c      c d
+ASR_WER = 0.2
+==============================
+
+REF: ** dank je wel voor de ***** goeie zorgen .
+HYP: en kijk je wel  van de goede    zo    erg .
+Eval  i    s  c   c    s  c     i     s      s c
+WER = 0.75
+REF: dank je wel voor de goeie zorgen .
+HYP: dank je wel voor de goeie zorgen *
+Eval    c  c   c    c  c     c      c d
+ASR_WER = 0.125
+==============================
+
+REF: dat alle ******* voedingsstoffen goed door het lijf zijn opgenomen .
+HYP: dat alle voeding            stof goed door het lijf zijn opgenomen .
+Eval   c    c       i               s    c    c   c    c    c         c c
+WER = 0.2
+REF: dat alle voedingsstoffen goed door het lijf zijn opgenomen .
+HYP: dat alle voedingsstoffen goed door het lijf zijn opgenomen *
+Eval   c    c               c    c    c   c    c    c         c d
+ASR_WER = 0.1
+==============================
+
+REF: dat doe ik vanavond **** onder andere met hila natuurlijk .
+HYP: dat doe ik vanavond want    er andere met hele natuurlijk .
+Eval   c   c  c        c    i     s      c   c    s          c c
+WER = 0.3
+REF: dat doe ik vanavond onder andere met  hila natuurlijk     .
+HYP: dat doe ik vanavond onder andere met Hilla natuurlijk Hilla
+Eval   c   c  c        c     c      c   c     s          c     s
+ASR_WER = 0.2
+==============================
+
+REF: dat hadden we kunnen weten .
+HYP: dat hadden we kunnen weten .
+Eval   c      c  c      c     c c
+WER = 0.0
+REF: dat hadden we kunnen weten          .
+HYP: dat hadden we kunnen weten historicus
+Eval   c      c  c      c     c          s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: dat hebben we ook in onze serie laten horen .
+HYP: ***     en we ook in onze serie laten horen .
+Eval   d      s  c   c  c    c     c     c     c c
+WER = 0.2
+REF: dat hebben we ook in onze serie laten horen .
+HYP: uhm hebben we ook in onze serie laten horen *
+Eval   s      c  c   c  c    c     c     c     c d
+ASR_WER = 0.2
+==============================
+
+REF: dat ik af en toe best wel ******** **** gedesillusioneerd ben over hoe de wereld in elkaar zit .
+HYP: dat ik af en toe best wel gedeelte neer                 d ben  van hoe de wereld in elkaar zit .
+Eval   c  c  c  c   c    c   c        i    i                 s   c    s   c  c      c  c      c   c c
+WER = 0.23529411764705882
+REF: dat ik af en toe best wel gedesillusioneerd ben over hoe de wereld in elkaar zit .
+HYP: dat ik af en toe best wel gedesillusioneerd ben  van hoe de wereld in elkaar zit *
+Eval   c  c  c  c   c    c   c                 c   c    s   c  c      c  c      c   c d
+ASR_WER = 0.11764705882352941
+==============================
+
+REF: dat is misschien ook wel een beetje veranderd in uw tijd ?
+HYP: dat is misschien ook wel een beetje veranderd in uw tijd .
+Eval   c  c         c   c   c   c      c         c  c  c    c s
+WER = 0.08333333333333333
+REF: dat is misschien ook wel een beetje veranderd in uw tijd ?
+HYP: dat is misschien ook wel een beetje veranderd in uw tijd *
+Eval   c  c         c   c   c   c      c         c  c  c    c d
+ASR_WER = 0.08333333333333333
+==============================
+
+REF: dat is op en neer .
+HYP: dat is op en neer .
+Eval   c  c  c  c    c c
+WER = 0.0
+REF: dat is op en neer .
+HYP: dat is op en neer *
+Eval   c  c  c  c    c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: dat is voor velen een extra reden om in aandelen te gaan .
+HYP:  de is voor velen een extra reden om in aandelen te gaan .
+Eval   s  c    c     c   c     c     c  c  c        c  c    c c
+WER = 0.07692307692307693
+REF: dat is voor velen een extra reden om in aandelen te gaan  .
+HYP: *** is voor velen een extra reden om in aandelen te gaan en
+Eval   d  c    c     c   c     c     c  c  c        c  c    c  s
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: dat je ze allebei nog ziet in je *** ooghoeken .
+HYP: dat je ze allebei nog ziet in je oog    hoeken .
+Eval   c  c  c       c   c    c  c  c   i         s c
+WER = 0.2
+REF: ** dat je ze allebei nog ziet in je ooghoeken .
+HYP: he dat je ze allebei nog ziet in je ooghoeken *
+Eval  i   c  c  c       c   c    c  c  c         c d
+ASR_WER = 0.2
+==============================
+
+REF: dat ***     je zelf misschien ook wel eens hebt meegemaakt .
+HYP: dat een meeste zelf misschien ook wel eens  heb meegemaakt .
+Eval   c   i      s    c         c   c   c    c    s          c c
+WER = 0.3
+REF: dat je zelf misschien ook wel eens hebt meegemaakt .
+HYP: *** je zelf misschien ook wel eens hebt meegemaakt *
+Eval   d  c    c         c   c   c    c    c          c d
+ASR_WER = 0.2
+==============================
+
+REF: dat komt alleen maar door de beweging van de schaal .
+HYP: dat komt alleen maar door de beweging van de schaal .
+Eval   c    c      c    c    c  c        c   c  c      c c
+WER = 0.0
+REF: dat komt alleen maar door de beweging van de schaal .
+HYP: dat komt alleen maar door de beweging van de schaal *
+Eval   c    c      c    c    c  c        c   c  c      c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+HYP: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie   .
+Eval  c         c   c   c              c   c  c  c     c    c  c             c   s
+WER = 0.07692307692307693
+REF: ************ de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+HYP: Universiteit de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ***
+Eval            i  c         c   c   c              c   c  c  c     c    c  c             c   d
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+HYP: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+Eval  c         c   c   c              c   c  c  c     c    c  c             c   c
+WER = 0.0
+REF: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie *** ...
+HYP: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie nog een
+Eval  c         c   c   c              c   c  c  c     c    c  c             c   i   s
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+HYP: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie ...
+Eval  c         c   c   c              c   c  c  c     c    c  c             c   c
+WER = 0.0
+REF: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie *** ...
+HYP: de bovenbouw van het basisonderwijs was in de weken voor de kerstvakantie nog een
+Eval  c         c   c   c              c   c  c  c     c    c  c             c   i   s
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: de ***** commercie komt binnen .
+HYP: de comes       iek   om binnen .
+Eval  c     i         s    s      c c
+WER = 0.6
+REF: de commercie komt binnen .
+HYP: de commercie komt binnen *
+Eval  c         c    c      c d
+ASR_WER = 0.2
+==============================
+
+REF: de kleintjes krijgen *** beetje bij beetje wat meer vrijheid .
+HYP: de kleintjes krijgen een beetje een beetje wat meer vrijheid .
+Eval  c         c       c   i      c   s      c   c    c        c c
+WER = 0.2
+REF: de kleintjes krijgen beetje bij beetje wat meer vrijheid .
+HYP: de kleintjes krijgen beetje bij beetje wat meer vrijheid *
+Eval  c         c       c      c   c      c   c    c        c d
+ASR_WER = 0.1
+==============================
+
+REF: de kleintjes zijn onder de grond geboren .
+HYP: de kleintjes zijn onder de grond geboren .
+Eval  c         c    c     c  c     c       c c
+WER = 0.0
+REF: de kleintjes zijn onder de grond geboren       .
+HYP: de kleintjes zijn onder de grond geboren terwijl
+Eval  c         c    c     c  c     c       c       s
+ASR_WER = 0.125
+==============================
+
+REF: de knieen zijn licht gebogen ...
+HYP: de knieen zijn licht gebogen   .
+Eval  c      c    c     c       c   s
+WER = 0.16666666666666666
+REF: de knieen zijn licht gebogen ...
+HYP: de knieen zijn licht gebogen ***
+Eval  c      c    c     c       c   d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: **   de knieen zijn van het slot .
+HYP: en ekiz     en zijn van het slot .
+Eval  i    s      s    c   c   c    c c
+WER = 0.42857142857142855
+REF: de knieen zijn van het slot      .
+HYP: de knieen zijn van het slot kleine
+Eval  c      c    c   c   c    c      s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: de konijnen hebben de harten van de kinderen gestolen .
+HYP: de konijnen hebben de harten van de kinderen gestolen .
+Eval  c        c      c  c      c   c  c        c        c c
+WER = 0.0
+REF: **** de konijnen hebben de harten van de kinderen gestolen .
+HYP: erop de konijnen hebben de harten van de kinderen gestolen *
+Eval    i  c        c      c  c      c   c  c        c        c d
+ASR_WER = 0.2
+==============================
+
+REF: de kuitspier heeft twee koppen en die gaan we allemaal rekken .
+HYP: de kuitspier heeft twee koppen en die gaan we allemaal rekken .
+Eval  c         c     c    c      c  c   c    c  c        c      c c
+WER = 0.0
+REF: de kuitspier heeft twee koppen en die gaan we allemaal rekken .
+HYP: de kuitspier heeft twee koppen en die gaan we allemaal rekken *
+Eval  c         c     c    c      c  c   c    c  c        c      c d
+ASR_WER = 0.08333333333333333
+==============================
+
+REF: de mannetjes doen dan hun uiterste best om indruk te maken op de vrouwtjes .
+HYP: de mannetjes doen dan een uiterste best om indruk te maken op de vrouwtjes .
+Eval  c         c    c   c   s        c    c  c      c  c     c  c  c         c c
+WER = 0.06666666666666667
+REF: de mannetjes doen dan hun uiterste best om indruk te maken op de vrouwtjes .
+HYP: de mannetjes doen dan een uiterste best om indruk te maken op de vrouwtjes *
+Eval  c         c    c   c   s        c    c  c      c  c     c  c  c         c d
+ASR_WER = 0.13333333333333333
+==============================
+
+REF: de omgeving heeft dus grote invloed op hoe je   de kleur ervaart .
+HYP: de omgeving heeft dus grote invloed op hoe ** idee kleur ervaart .
+Eval  c        c     c   c     c       c  c   c  d    s     c       c c
+WER = 0.15384615384615385
+REF: de omgeving heeft dus grote invloed op hoe je de kleur ervaart .
+HYP: de omgeving heeft dus grote invloed op hoe je de kleur ervaart *
+Eval  c        c     c   c     c       c  c   c  c  c     c       c d
+ASR_WER = 0.07692307692307693
+==============================
+
+REF: de scholen sloten mede daarom een week voor de kerstvakantie de deuren .
+HYP: ** scholen sloten mede daarom een week voor de kerstvakantie te  duren .
+Eval  d       c      c    c      c   c    c    c  c             c  s      s c
+WER = 0.23076923076923078
+REF: de scholen sloten mede daarom een week voor de kerstvakantie de deuren .
+HYP: ** scholen sloten mede daarom een week voor de kerstvakantie de deuren *
+Eval  d       c      c    c      c   c    c    c  c             c  c      c d
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: de strepen op de muur versterken dit effect .
+HYP: de strepen op de muur versterken dit effect .
+Eval  c       c  c  c    c          c   c      c c
+WER = 0.0
+REF: de strepen op de muur versterken dit effect        .
+HYP: de strepen op de muur versterken dit effect waardoor
+Eval  c       c  c  c    c          c   c      c        s
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: de tijd lijkt voorbijgevlogen .
+HYP: de tijd lijkt         voorbij .
+Eval  c    c     c               s c
+WER = 0.2
+REF: de tijd lijkt voorbijgevlogen .
+HYP: de tijd lijkt voorbijgevlogen *
+Eval  c    c     c               c d
+ASR_WER = 0.2
+==============================
+
+REF: de vraag is alleen , kan je met dit soort optische illusies ...
+HYP: de vraag is alleen * kan je met dit soort  optisch illusies   .
+Eval  c     c  c      c d   c  c   c   c     c        s        c   s
+WER = 0.23076923076923078
+REF: de vraag is alleen , kan je met dit soort optische illusies ...
+HYP: de vraag is alleen * kan je met dit soort optische illusies ook
+Eval  c     c  c      c d   c  c   c   c     c        c        c   s
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: de vraag was of de crisis invloed ging hebben op de huizenprijzen .
+HYP: ** vraag was of de crisis invloed ging hebben op de huizenprijzen .
+Eval  d     c   c  c  c      c       c    c      c  c  c             c c
+WER = 0.07692307692307693
+REF: de vraag was of de crisis invloed ging hebben op de huizenprijzen ***     .
+HYP: de vraag was of de crisis invloed ging hebben op de huizenprijzen nou bijna
+Eval  c     c   c  c  c      c       c    c      c  c  c             c   i     s
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: de vuisten zijn gebald en de armen bewegen actief mee .
+HYP: ** vuisten zijn gebald en de armen bewegen actief mee .
+Eval  d       c    c      c  c  c     c       c      c   c c
+WER = 0.09090909090909091
+REF: de vuisten zijn gebald en de armen bewegen actief mee .
+HYP: ** vuisten zijn gebald en de armen bewegen actief mee *
+Eval  d       c    c      c  c  c     c       c      c   c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: deze hoef je alleen maar te ervaren .
+HYP: deze hoef je alleen maar te ervaren .
+Eval    c    c  c      c    c  c       c c
+WER = 0.0
+REF: deze hoef je alleen maar te ervaren    .
+HYP: deze hoef je alleen maar te ervaren kijk
+Eval    c    c  c      c    c  c       c    s
+ASR_WER = 0.125
+==============================
+
+REF: die gaat over de grenzen heen .
+HYP: die gaat over de   grens heen .
+Eval   c    c    c  c       s    c c
+WER = 0.14285714285714285
+REF: die gaat over de grenzen heen .
+HYP: die gaat over de grenzen heen *
+Eval   c    c    c  c       c    c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: die heeft met plezier naar het programma gekeken .
+HYP:  ik heeft met plezier naar het programma gekeken .
+Eval   s     c   c       c    c   c         c       c c
+WER = 0.1111111111111111
+REF: die heeft met plezier naar het programma gekeken  .
+HYP: die heeft met plezier naar het programma gekeken en
+Eval   c     c   c       c    c   c         c       c  s
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: die ik onder deze zwarte doek heb staan .
+HYP: die ** onder deze zwarte doek heb staan .
+Eval   c  d     c    c      c    c   c     c c
+WER = 0.1111111111111111
+REF: die ik onder deze zwarte doek heb staan .
+HYP: die ik onder deze zwarte doek heb staan *
+Eval   c  c     c    c      c    c   c     c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: die ze vervolgens doodleuk   weer opeten .
+HYP: die ze vervolgens doodleuk europe    ten .
+Eval   c  c          c        c      s      s c
+WER = 0.2857142857142857
+REF: die ze vervolgens doodleuk weer opeten .
+HYP: die ze vervolgens doodleuk weer opeten *
+Eval   c  c          c        c    c      c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: dit is wat die schattige familie pluis op haar geweten heeft !
+HYP: dit is wat  de schattige familie pluis op haar geweten heeft .
+Eval   c  c   c   s         c       c     c  c    c       c     c s
+WER = 0.16666666666666666
+REF: dit is wat die schattige familie pluis op haar geweten heeft !
+HYP: dit is wat die schattige familie  plus op haar geweten heeft *
+Eval   c  c   c   c         c       c     s  c    c       c     c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: doen we acht keer .
+HYP: doen we acht keer .
+Eval    c  c    c    c c
+WER = 0.0
+REF: doen we acht keer .
+HYP: doen we acht keer *
+Eval    c  c    c    c d
+ASR_WER = 0.2
+==============================
+
+REF: doen we nog acht keer .
+HYP: doen we nog acht keer .
+Eval    c  c   c    c    c c
+WER = 0.0
+REF: doen we nog acht keer .
+HYP: doen we nog acht keer *
+Eval    c  c   c    c    c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: doen we vier keer .
+HYP: doen we vier keer .
+Eval    c  c    c    c c
+WER = 0.0
+REF: doen we vier keer .
+HYP: doen we vier keer *
+Eval    c  c    c    c d
+ASR_WER = 0.2
+==============================
+
+REF: door deze op de computer uit te rekken en te printen ...
+HYP: door deze op de computer uit te rekken en te printen   .
+Eval    c    c  c  c        c   c  c      c  c  c       c   s
+WER = 0.08333333333333333
+REF: ******* door deze op de computer uit te rekken en te printen ...
+HYP: gemaakt door deze op de computer uit te rekken en te printen ***
+Eval       i    c    c  c  c        c   c  c      c  c  c       c   d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: door haar oren achter in haar nek te leggen , laat deze dame weten dat ze niet geinteresseerd is .
+HYP: door haar oren achter in haar nek te leggen , laat deze dame weten dat ze niet geinteresseerd is .
+Eval    c    c    c      c  c    c   c  c      c c    c    c    c     c   c  c    c              c  c c
+WER = 0.0
+REF: door haar oren achter in haar nek te leggen , laat deze dame weten dat ze niet geinteresseerd is .
+HYP: door haar oren achter in haar nek te leggen * laat deze dame weten dat ze niet geïnteresseerd is *
+Eval    c    c    c      c  c    c   c  c      c d    c    c    c     c   c  c    c              s  c d
+ASR_WER = 0.15
+==============================
+
+REF: dus het is ook wel een sociaal *** konijntje .
+HYP: dus het is ook wel een sociaal kon    eindje .
+Eval   c   c  c   c   c   c       c   i         s c
+WER = 0.2222222222222222
+REF: dus het is ook wel een sociaal konijntje .
+HYP: dus het is ook wel een sociaal konijntje *
+Eval   c   c  c   c   c   c       c         c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: dus hij trok zich de haren uit het hoofd .
+HYP: dus hij trok zich **  daar uit het hoofd .
+Eval   c   c    c    c  d     s   c   c     c c
+WER = 0.2
+REF: dus hij trok zich de haren uit het hoofd .
+HYP: dus hij trok zich de haren uit het hoofd *
+Eval   c   c    c    c  c     c   c   c     c d
+ASR_WER = 0.1
+==============================
+
+REF: dus    steun voor ** deze plannen .
+HYP: *** historie voor de  zee plannen .
+Eval   d        s    c  i    s       c c
+WER = 0.6666666666666666
+REF: dus steun voor deze plannen    .
+HYP: dus steun voor deze plannen maar
+Eval   c     c    c    c       c    s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: *** duwen we de kamer om hun heen , zonder dat ze het door hebben ...
+HYP: duw    en we de kamer om hun heen , zonder dat ze het door hebben ...
+Eval   i     s  c  c     c  c   c    c c      c   c  c   c    c      c   c
+WER = 0.13333333333333333
+REF: duwen we de kamer om hun heen , zonder dat ze het door hebben ...
+HYP: duwen we de Kamer om hun heen * zonder dat ze het door hebben een
+Eval     c  c  c     s  c   c    c d      c   c  c   c    c      c   s
+ASR_WER = 0.2
+==============================
+
+REF: een maand later keerde hij na hevige protesten terug . sindsdien houden de protesten aan .
+HYP: een maand later keerde hij na hevige protesten terug * sindsdien houden de protesten aan .
+Eval   c     c     c      c   c  c      c         c     c d         c      c  c         c   c c
+WER = 0.0625
+REF: een maand later keerde hij na hevige protesten terug . sindsdien houden de protesten aan       .
+HYP: een maand later keerde hij na hevige protesten terug * sindsdien houden de protesten aan volgens
+Eval   c     c     c      c   c  c      c         c     c d         c      c  c         c   c       s
+ASR_WER = 0.125
+==============================
+
+REF: een rondje door dit museum gaan lopen .
+HYP: een rondje door dit museum gaan lopen .
+Eval   c      c    c   c      c    c     c c
+WER = 0.0
+REF: een rondje door dit museum gaan lopen .
+HYP: een rondje door dit museum gaan lopen *
+Eval   c      c    c   c      c    c     c d
+ASR_WER = 0.125
+==============================
+
+REF: een stukje naar voren .
+HYP: een stukje naar voren .
+Eval   c      c    c     c c
+WER = 0.0
+REF: een stukje naar voren  .
+HYP: een stukje naar voren ze
+Eval   c      c    c     c  s
+ASR_WER = 0.2
+==============================
+
+REF: een van de mooiste **** chansons die ik ken .
+HYP: een van de mooiste sans      ons die je ken .
+Eval   c   c  c       c    i        s   c  s   c c
+WER = 0.3333333333333333
+REF: een van de mooiste chansons die ik ken .
+HYP: een van de mooiste chansons die ik ken *
+Eval   c   c  c       c        c   c  c   c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: een vrouwtje , een moertje  , kan wel zeven keer per jaar   een nest hebben
+HYP: een vrouwtje * een    moet je kan wel zeven keer per **** jaren nest      .
+Eval   c        c d   c       s  s   c   c     c    c   c    d     s    c      s
+WER = 0.4
+REF: ** een vrouwtje , een moertje , kan wel zeven keer per jaar een nest hebben
+HYP: he een vrouwtje * een moertje * kan wel zeven keer per jaar een nest hebben
+Eval  i   c        c d   c       c d   c   c     c    c   c    c   c    c      c
+ASR_WER = 0.2
+==============================
+
+REF: en 's avonds bleef het ***** avondeten meestal niet zitten .
+HYP: en ** ****** bleef het avond      eten meestal niet zitten .
+Eval  c  d      d     c   c     i         s       c    c      c c
+WER = 0.4
+REF: en 's avonds bleef het avondeten meestal niet zitten .
+HYP: ** 's avonds bleef het avondeten meestal niet zitten *
+Eval  d  c      c     c   c         c       c    c      c d
+ASR_WER = 0.2
+==============================
+
+REF: en barbara is een zangeres die wij **** **** ****** stiefmoederlijk hebben behandeld in de eerste serie .
+HYP: en barbara is een zangeres die wij tief moed elijah              eb    ben behandeld in de eerste serie .
+Eval  c       c  c   c        c   c   c    i    i      i               s      s         c  c  c      c     c c
+WER = 0.3333333333333333
+REF: en barbara is een zangeres die wij ********* stiefmoederlijk hebben behandeld in de eerste serie   .
+HYP: en Barbara is een zangeres die wij eigenlijk stiefmoederlijk hebben behandeld in de eerste serie Dat
+Eval  c       s  c   c        c   c   c         i               c      c         c  c  c      c     c   s
+ASR_WER = 0.2
+==============================
+
+REF: en bij de stap ga je iets door de knieen .
+HYP: en bij de stap ga je iets door de knieen .
+Eval  c   c  c    c  c  c    c    c  c      c c
+WER = 0.0
+REF: en bij de stap ga je iets door de knieen      .
+HYP: en bij de stap ga je iets door de ****** knieën
+Eval  c   c  c    c  c  c    c    c  c      d      s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: en daar komen ongelukken van ...
+HYP: en daar komen ongelukken van   .
+Eval  c    c     c          c   c   s
+WER = 0.16666666666666666
+REF: en daar komen ongelukken van ...
+HYP: en daar komen ongelukken van ***
+Eval  c    c     c          c   c   d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: en daar was het publiek uitzinnig .
+HYP: en daar was het publiek uitzinnig .
+Eval  c    c   c   c       c         c c
+WER = 0.0
+REF: en daar was het publiek uitzinnig .
+HYP: en daar was het publiek uitzinnig *
+Eval  c    c   c   c       c         c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: en dan die andere wereld van het grote geld .
+HYP: en dan die andere wereld van het grote geld .
+Eval  c   c   c      c      c   c   c     c    c c
+WER = 0.0
+REF: en dan die andere wereld van het grote geld         .
+HYP: En dan die andere wereld van het grote geld bedrijven
+Eval  s   c   c      c      c   c   c     c    c         s
+ASR_WER = 0.2
+==============================
+
+REF: en dan doe je het goed !
+HYP: en dan doe je het goed .
+Eval  c   c   c  c   c    c s
+WER = 0.14285714285714285
+REF: en dan doe je het goed !
+HYP: en dan doe je het goed *
+Eval  c   c   c  c   c    c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: en dan gaan we weer de andere kant op . handen op de heupen .
+HYP: en dan gaan we **** de andere kant op . handen op de heupen .
+Eval  c   c    c  c    d  c      c    c  c c      c  c  c      c c
+WER = 0.06666666666666667
+REF: en dan gaan we weer de andere kant op . handen op de heupen .
+HYP: en dan gaan we **** de andere kant op * handen op de heupen *
+Eval  c   c    c  c    d  c      c    c  c d      c  c  c      c d
+ASR_WER = 0.2
+==============================
+
+REF: en dan heb je alleen nog een magische assistent nodig ...
+HYP: en dan heb je alleen nog een magische assistent nodig   .
+Eval  c   c   c  c      c   c   c        c         c     c   s
+WER = 0.09090909090909091
+REF: ***** en dan heb je alleen nog een magische assistent nodig ...
+HYP: staat en dan heb je alleen nog een magische assistent nodig ***
+Eval     i  c   c   c  c      c   c   c        c         c     c   d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: en dan nog krijg je *** gezeur over verzakte stoeptegels .
+HYP: en dan nog krijg je een gezeur over  verzakt stoeptegels .
+Eval  c   c   c     c  c   i      c    c        s           c c
+WER = 0.2
+REF: en dan nog krijg je gezeur over verzakte stoeptegels .
+HYP: en dan nog krijg je gezeur over verzakte stoeptegels *
+Eval  c   c   c     c  c      c    c        c           c d
+ASR_WER = 0.1
+==============================
+
+REF: en dan zit de werkdag erop .
+HYP: en dan zit de werkdag **** .
+Eval  c   c   c  c       c    d c
+WER = 0.14285714285714285
+REF: en dan zit de werkdag erop .
+HYP: en dan zit de werkdag erop *
+Eval  c   c   c  c       c    c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: en dat het een andere trein was die naast jou *** wegreed .
+HYP: en dat het een andere trein was die naast jou weg    reed .
+Eval  c   c   c   c      c     c   c   c     c   c   i       s c
+WER = 0.16666666666666666
+REF: en dat het een andere trein was die naast jou wegreed .
+HYP: en dat het een andere trein was die naast jou wegreed *
+Eval  c   c   c   c      c     c   c   c     c   c       c d
+ASR_WER = 0.08333333333333333
+==============================
+
+REF: en dat je het ook nog op vijf juni hebt  gepost ...
+HYP: en dat je het ook nog op vijf juni hebt gekozen   .
+Eval  c   c  c   c   c   c  c    c    c    c       s   s
+WER = 0.16666666666666666
+REF: en dat je het ook nog op vijf juni hebt gepost ...
+HYP: en dat je het ook nog Op vijf juni hebt gepost een
+Eval  c   c  c   c   c   c  s    c    c    c      c   s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: en dat past volgens deskundigen in het plaatje dat geluk afdwingbaar lijkt .
+HYP: en dat past volgens deskundigen in het plaatje dat geluk afdwingbare lijkt .
+Eval  c   c    c       c           c  c   c       c   c     c           s     c c
+WER = 0.07692307692307693
+REF: en dat past volgens deskundigen in het plaatje dat geluk afdwingbaar lijkt   .
+HYP: en dat past volgens   deskundig in het plaatje dat geluk afdwingbaar lijkt nou
+Eval  c   c    c       c           s  c   c       c   c     c           c     c   s
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: en dat vind ik jammer .
+HYP: en dat  zie ik jammer .
+Eval  c   c    s  c      c c
+WER = 0.16666666666666666
+REF: en dat vind ik jammer .
+HYP: en dat vind ik jammer *
+Eval  c   c    c  c      c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: en de aanleiding dat ik zo ...
+HYP: en de aanleiding dat ik zo   .
+Eval  c  c          c   c  c  c   s
+WER = 0.14285714285714285
+REF: en de aanleiding dat ik zo ...
+HYP: en de aanleiding dat ik zo  ik
+Eval  c  c          c   c  c  c   s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: en de armen beweeg je mee vanuit de schouders .
+HYP: en de armen beweeg je mee vanuit de schouders .
+Eval  c  c     c      c  c   c      c  c         c c
+WER = 0.0
+REF: en de armen beweeg je mee vanuit de schouders .
+HYP: en de armen beweeg je mee vanuit de schouders *
+Eval  c  c     c      c  c   c      c  c         c d
+ASR_WER = 0.1
+==============================
+
+REF: en de laatste van vandaag alweer .
+HYP: en de laatste van vandaag alweer .
+Eval  c  c       c   c       c      c c
+WER = 0.0
+REF: en de laatste van vandaag alweer .
+HYP: en de laatste van vandaag alweer *
+Eval  c  c       c   c       c      c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF:  en de stad van konijnen !
+HYP: die de stad van konijnen .
+Eval   s  c    c   c        c s
+WER = 0.3333333333333333
+REF: en de stad van konijnen !
+HYP: en de stad van konijnen *
+Eval  c  c    c   c        c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: en de taal kan gaan leren .
+HYP: en de taal kan gaan leren .
+Eval  c  c    c   c    c     c c
+WER = 0.0
+REF: en de taal kan gaan leren  .
+HYP: en de taal kan gaan leren en
+Eval  c  c    c   c    c     c  s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: en die heeft  ze in haar eigen jasje gestoken .
+HYP: en die heeft zij in haar eigen jasje gestoken .
+Eval  c   c     c   s  c    c     c     c        c c
+WER = 0.1
+REF: en die heeft  ze in haar eigen jasje gestoken    .
+HYP: en die heeft zij in haar eigen jasje gestoken heel
+Eval  c   c     c   s  c    c     c     c        c    s
+ASR_WER = 0.2
+==============================
+
+REF: en die zet zich ongetwijfeld in de komende generaties voort   .
+HYP: en die zet zich ongetwijfeld in de komende generaties ***** ...
+Eval  c   c   c    c            c  c  c       c          c     d   s
+WER = 0.18181818181818182
+REF: ****** en die zet zich ongetwijfeld in de komende generaties voort .
+HYP: wereld en die zet zich ongetwijfeld in de komende generaties voort *
+Eval      i  c   c   c    c            c  c  c       c          c     c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: en eigenlijk was  je meteen over eentje heel enthousiast .
+HYP: en eigenlijk was jij meteen over eentje heel        anta .
+Eval  c         c   c   s      c    c      c    c           s c
+WER = 0.2
+REF: en eigenlijk was  je meteen over eentje heel enthousiast .
+HYP: en eigenlijk was jij meteen over eentje heel enthousiast *
+Eval  c         c   c   s      c    c      c    c           c d
+ASR_WER = 0.2
+==============================
+
+REF: en het bleek dat de film heel goed geslaagd was .
+HYP: en het bleek dat de film heel goed geslaagd was .
+Eval  c   c     c   c  c    c    c    c        c   c c
+WER = 0.0
+REF: en het bleek dat de film heel goed geslaagd was   .
+HYP: en het bleek dat de film heel goed geslaagd was dus
+Eval  c   c     c   c  c    c    c    c        c   c   s
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: en hij is terug .
+HYP: en hij is terug .
+Eval  c   c  c     c c
+WER = 0.0
+REF: en hij is terug .
+HYP: en hij is terug *
+Eval  c   c  c     c d
+ASR_WER = 0.2
+==============================
+
+REF: en hij weet dan al heel goed naar wat voor vrouw hij op zoek is .
+HYP: en hij weet dan al heel goed naar wat voor vrouw hij op zoek is .
+Eval  c   c    c   c  c    c    c    c   c    c     c   c  c    c  c c
+WER = 0.0
+REF: ************** en hij weet dan al heel goed naar wat voor vrouw hij op zoek is .
+HYP: familiebedrijf en hij weet dan al heel goed naar wat voor vrouw hij op zoek is *
+Eval              i  c   c    c   c  c    c    c    c   c    c     c   c  c    c  c d
+ASR_WER = 0.125
+==============================
+
+REF: en hoe is dat dan twaalf jaar later ?
+HYP: en hoe is dat dan ******  van    je .
+Eval  c   c  c   c   c      d    s     s s
+WER = 0.4444444444444444
+REF: en hoe is dat dan twaalf jaar later ?
+HYP: en hoe is dat dan twaalf jaar later *
+Eval  c   c  c   c   c      c    c     c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: en hoe lager je gaat ...
+HYP: en hoe lager je gaat   .
+Eval  c   c     c  c    c   s
+WER = 0.16666666666666666
+REF: en hoe lager je gaat ...
+HYP: en hoe lager je gaat ***
+Eval  c   c     c  c    c   d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: *** ***** en ik ben heel benieuwd hoe het nu met ze gaat .
+HYP: een vloog en ik ben heel benieuwd hoe het nu met ze gaat .
+Eval   i     i  c  c   c    c        c   c   c  c   c  c    c c
+WER = 0.16666666666666666
+REF: *************** en ik ben heel benieuwd hoe het nu met ze gaat .
+HYP: voorbijgevlogen en ik ben heel benieuwd hoe het nu met ze gaat *
+Eval               i  c  c   c    c        c   c   c  c   c  c    c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: en ik was van tevoren al ...
+HYP: en ik was van tevoren **   .
+Eval  c  c   c   c       c  d   s
+WER = 0.2857142857142857
+REF: en ik was van tevoren al ...
+HYP: en ik was van tevoren al  uh
+Eval  c  c   c   c       c  c   s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: en je ziet ook in de film dat ik daar best mee  worstel .
+HYP: en je ziet ook in de film dat ik daar best mee worstelt .
+Eval  c  c    c   c  c  c    c   c  c    c    c   c        s c
+WER = 0.07142857142857142
+REF: en ** je ziet ook in de film dat ik daar best mee worstel   .
+HYP: en ja je ziet ook in de film dat ik daar best mee worstel dat
+Eval  c  i  c    c   c  c  c    c   c  c    c    c   c       c   s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: en kijk over je schouder .
+HYP: en kijk over je schouder .
+Eval  c    c    c  c        c c
+WER = 0.0
+REF: en kijk over je schouder .
+HYP: en kijk over je schouder *
+Eval  c    c    c  c        c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: en mensen mogen wat liever voor elkaar zijn .
+HYP: en mensen mogen wat liever voor elkaar zijn .
+Eval  c      c     c   c      c    c      c    c c
+WER = 0.0
+REF: en mensen mogen wat liever voor elkaar zijn   .
+HYP: en mensen mogen wat liever voor elkaar zijn nog
+Eval  c      c     c   c      c    c      c    c   s
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: en om ons heen allemaal mensen die ons geschreven hebben ...
+HYP: en om ons heen allemaal mensen die ons geschreven hebben ...
+Eval  c  c   c    c        c      c   c   c          c      c   c
+WER = 0.0
+REF: en om ons heen allemaal mensen die ons geschreven hebben ...
+HYP: en om ons heen allemaal mensen die ons geschreven hebben ***
+Eval  c  c   c    c        c      c   c   c          c      c   d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: en ook dat valt in de stad overal te halen .
+HYP: en ook dat valt in de stad overal te halen .
+Eval  c   c   c    c  c  c    c      c  c     c c
+WER = 0.0
+REF: en ook dat valt in de stad overal te halen .
+HYP: en ook dat valt in de stad overal te halen *
+Eval  c   c   c    c  c  c    c      c  c     c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: en ook de witte onderkant van *   hun staartje is een signaal ...
+HYP: en ook de witte onderkant van u staat       je is een signaal ...
+Eval  c   c  c     c         c   c i     s        s  c   c       c   c
+WER = 0.25
+REF: ****** en ook de witte onderkant van hun staartje is een signaal     ...
+HYP: elkaar en ook de witte onderkant van hun staartje is een signaal waarmee
+Eval      i  c   c  c     c         c   c   c        c  c   c       c       s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: en op de laatste rij een kompas .
+HYP: en op de laatste rij een kompas .
+Eval  c  c  c       c   c   c      c c
+WER = 0.0
+REF: en op de laatste rij een kompas .
+HYP: en op de laatste rij een kompas *
+Eval  c  c  c       c   c   c      c d
+ASR_WER = 0.125
+==============================
+
+REF: en op zijn *** zesde verhuisde zijn vader naar brussel ...
+HYP: ** op zijn zes    te verhuisde zijn vader **** *******  na
+Eval  d  c    c   i     s         c    c     c    d       d   s
+WER = 0.6
+REF: en op zijn zesde verhuisde zijn vader naar brussel     ...
+HYP: en op zijn zesde verhuisde zijn vader naar ******* Brussel
+Eval  c  c    c     c         c    c     c    c       d       s
+ASR_WER = 0.2
+==============================
+
+REF: en opkomen voor jezelf ...
+HYP: en opkomen voor jezelf   .
+Eval  c       c    c      c   s
+WER = 0.2
+REF: en opkomen voor jezelf ...
+HYP: en opkomen voor jezelf zit
+Eval  c       c    c      c   s
+ASR_WER = 0.2
+==============================
+
+REF: en strek je op .
+HYP: en strek je op .
+Eval  c     c  c  c c
+WER = 0.0
+REF: en strek je op .
+HYP: en strek je op *
+Eval  c     c  c  c d
+ASR_WER = 0.2
+==============================
+
+REF: en strek weer op .
+HYP: en strek weer op .
+Eval  c     c    c  c c
+WER = 0.0
+REF: en strek weer op .
+HYP: en strek weer op *
+Eval  c     c    c  c d
+ASR_WER = 0.2
+==============================
+
+REF: en tot slot een koffer .
+HYP: en tot slot een koffer .
+Eval  c   c    c   c      c c
+WER = 0.0
+REF: en tot slot een koffer .
+HYP: en tot slot een koffer *
+Eval  c   c    c   c      c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: en vader met pensioen vanuit zijn villa in portugal .
+HYP: en vader met pensioen vanuit zijn villa in portugal .
+Eval  c     c   c        c      c    c     c  c        c c
+WER = 0.0
+REF: en vader met pensioen vanuit zijn villa in portugal    .
+HYP: en vader met pensioen vanuit zijn villa in Portugal twee
+Eval  c     c   c        c      c    c     c  c        s    s
+ASR_WER = 0.2
+==============================
+
+REF: en van achter de schermen hou ik alles goed in de gaten .
+HYP: ** van achter de schermen hou ik   als goed in de gaten .
+Eval  d   c      c  c        c   c  c     s    c  c  c     c c
+WER = 0.15384615384615385
+REF: en van achter de schermen hou ik alles goed in de gaten .
+HYP: ** van achter de schermen hou ik alles goed in de gaten *
+Eval  d   c      c  c        c   c  c     c    c  c  c     c d
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: en van haar zoektocht werd een documentaire gemaakt .
+HYP: en van haar zoektocht werd een documentaire gemaakt .
+Eval  c   c    c         c    c   c            c       c c
+WER = 0.0
+REF: en van haar zoektocht werd een documentaire gemaakt  .
+HYP: en van haar zoektocht werd een documentaire gemaakt uh
+Eval  c   c    c         c    c   c            c       c  s
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: en vanuit deze houding breng je de gewichten naar buiten .
+HYP: ** vanuit deze houding breng je de gewichten naar   buit .
+Eval  d      c    c       c     c  c  c         c    c      s c
+WER = 0.18181818181818182
+REF: ***** en vanuit deze houding breng je de gewichten naar buiten .
+HYP: armen en vanuit deze houding breng je de gewichten naar buiten *
+Eval     i  c      c    c       c     c  c  c         c    c      c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: en veel bedrijven blijken zich groener voor te doen dan ze zijn .
+HYP: en veel bedrijven blijken zich groener voor te doen dan ze zijn .
+Eval  c    c         c       c    c       c    c  c    c   c  c    c c
+WER = 0.0
+REF: en veel bedrijven blijken zich groener voor te doen dan ze zijn   .
+HYP: en veel bedrijven blijken zich groener voor te doen dan ze zijn het
+Eval  c    c         c       c    c       c    c  c    c   c  c    c   s
+ASR_WER = 0.07692307692307693
+==============================
+
+REF: en voor ons vijfentwintig euro voor een flesje wijn  .
+HYP: en voor ons vijfentwintig euro **** een flesje   in ..
+Eval  c    c   c             c    c    d   c      c    s  s
+WER = 0.3
+REF: en voor ons vijfentwintig euro voor een flesje wijn .
+HYP: en voor ons vijfentwintig euro voor *** flesje wijn *
+Eval  c    c   c             c    c    c   d      c    c d
+ASR_WER = 0.2
+==============================
+
+REF: en ze kwamen daar aan en toen bleek dat iemand ...
+HYP: en ze kwamen   er aan en toen bleek dat iemand   .
+Eval  c  c      c    s   c  c    c     c   c      c   s
+WER = 0.18181818181818182
+REF: en ze kwamen daar aan en toen bleek dat iemand *** ...
+HYP: en ze kwamen daar aan en toen bleek dat iemand die  in
+Eval  c  c      c    c   c  c    c     c   c      c   i   s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: en ze vinden het ook heel leuk om te zien .
+HYP: en ze vinden het ook heel leuk om te zien .
+Eval  c  c      c   c   c    c    c  c  c    c c
+WER = 0.0
+REF: ******* en ze vinden het ook heel leuk om te zien .
+HYP: geleden en ze vinden het ook heel leuk om te zien *
+Eval       i  c  c      c   c   c    c    c  c  c    c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: enig idee hoe deze optische illusie werkt ?
+HYP: enig idee hoe deze  optisch illusie werkt .
+Eval    c    c   c    c        s       c     c s
+WER = 0.25
+REF: enig idee hoe deze optische illusie werkt ?
+HYP: enig idee hoe deze optische illusie werkt *
+Eval    c    c   c    c        c       c     c d
+ASR_WER = 0.125
+==============================
+
+REF: ga je gang . nog niet spieken bij elkaar .
+HYP: ga je gang * nog niet spieken bij elkaar .
+Eval  c  c    c d   c    c       c   c      c c
+WER = 0.1
+REF: ga je gang . nog niet spieken bij elkaar .
+HYP: ga je gang * nog niet spieken bij elkaar *
+Eval  c  c    c d   c    c       c   c      c d
+ASR_WER = 0.2
+==============================
+
+REF: ** gaan over de voorwerpen hier op tafel .
+HYP: de gaan over de voorwerpen hier op tafel .
+Eval  i    c    c  c          c    c  c     c c
+WER = 0.125
+REF: gaan over de voorwerpen hier op tafel .
+HYP: gaan over de voorwerpen hier op tafel *
+Eval    c    c  c          c    c  c     c d
+ASR_WER = 0.125
+==============================
+
+REF: gelijk lekker in beweging .
+HYP: gelijk lekker in beweging .
+Eval      c      c  c        c c
+WER = 0.0
+REF: gelijk lekker in beweging .
+HYP: gelijk lekker in beweging *
+Eval      c      c  c        c d
+ASR_WER = 0.2
+==============================
+
+REF: hamdok zegt dat het land in een politieke ** impasse is beland sinds de militaire staatsgreep van oktober .
+HYP:    ook zegt dat het land in een politieke in  passen is beland sinds de militaire staatsgreep van oktober .
+Eval      s    c   c   c    c  c   c         c  i       s  c      c     c  c         c           c   c       c c
+WER = 0.16666666666666666
+REF: hamdok zegt dat het land in een politieke impasse is beland sinds de militaire staatsgreep van oktober ***   .
+HYP: ****** zegt dat het land in een politieke impasse is beland sinds de militaire staatsgreep van oktober wel het
+Eval      d    c   c   c    c  c   c         c       c  c      c     c  c         c           c   c       c   i   s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: hand op je bil . hand op je   heup .
+HYP: hand op je bil . hand op je heupen .
+Eval    c  c  c   c c    c  c  c      s c
+WER = 0.1
+REF: hand op je bil . hand op je heup .
+HYP: hand op je bil * hand op je heup *
+Eval    c  c  c   c d    c  c  c    c d
+ASR_WER = 0.2
+==============================
+
+REF: handen blijven op de heupen .
+HYP: handen blijven op de heupen .
+Eval      c       c  c  c      c c
+WER = 0.0
+REF: handen blijven op de heupen .
+HYP: handen blijven op de heupen *
+Eval      c       c  c  c      c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: heb je ooit van je leven een vrouw gezoend ?
+HYP: heb je ooit van je leven een vrouw gezoend .
+Eval   c  c    c   c  c     c   c     c       c s
+WER = 0.1
+REF: ********* heb je ooit van je leven een vrouw gezoend ?
+HYP: standpunt heb je ooit van je leven een vrouw gezoend *
+Eval         i   c  c    c   c  c     c   c     c       c d
+ASR_WER = 0.2
+==============================
+
+REF: *** heel veel zangers hebben een hele plaat aan haar gewijd .
+HYP: dat heel veel zangers hebben een hele plaat aan haar gewijd .
+Eval   i    c    c       c      c   c    c     c   c    c      c c
+WER = 0.09090909090909091
+REF: *** heel veel zangers hebben een hele plaat aan haar gewijd .
+HYP: dat heel veel zangers hebben een hele plaat aan haar gewijd *
+Eval   i    c    c       c      c   c    c     c   c    c      c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: heerlijk om warm te worden .
+HYP: heerlijk om warm te worden .
+Eval        c  c    c  c      c c
+WER = 0.0
+REF: heerlijk om warm te worden .
+HYP: heerlijk om warm te worden *
+Eval        c  c    c  c      c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: het allerbelangrijkste is dat je weet voor jezelf wat duurzaam betekent .
+HYP: het allerbelangrijkste is dat je weet voor jezelf wat duurzaam      een .
+Eval   c                  c  c   c  c    c    c      c   c        c        s c
+WER = 0.08333333333333333
+REF: het allerbelangrijkste is dat je weet voor jezelf wat duurzaam betekent .
+HYP: het allerbelangrijkste is dat je weet voor jezelf *** duurzaam betekent *
+Eval   c                  c  c   c  c    c    c      c   d        c        c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: het begint     zo langzamerhand echt een plaag te worden .
+HYP: het begint zolang           man echt een plaat te worden .
+Eval   c      c      s             s    c   c     s  c      c c
+WER = 0.3
+REF: het begint zo langzamerhand echt een plaag te worden .
+HYP: Het begint zo langzamerhand echt een plaag te worden *
+Eval   s      c  c             c    c   c     c  c      c d
+ASR_WER = 0.2
+==============================
+
+REF: het is belangrijk om die beweging volledig uit je benen te halen ...
+HYP: het is belangrijk om die beweging volledig uit je benen te halen   .
+Eval   c  c          c  c   c        c        c   c  c     c  c     c   s
+WER = 0.07692307692307693
+REF: *** het is belangrijk om die beweging volledig uit je benen te halen ...
+HYP: los het is belangrijk om die beweging volledig uit je benen te halen  en
+Eval   i   c  c          c  c   c        c        c   c  c     c  c     c   s
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: het is hartstikke mooi .
+HYP: het is hartstikke mooi .
+Eval   c  c          c    c c
+WER = 0.0
+REF: het is hartstikke mooi .
+HYP: het is hartstikke mooi *
+Eval   c  c          c    c d
+ASR_WER = 0.2
+==============================
+
+REF: het is ook echt een klassieker . het gaat over een verloren liefde .
+HYP: het is ook echt een klassieker . het gaat over een verloren liefde .
+Eval   c  c   c    c   c          c c   c    c    c   c        c      c c
+WER = 0.0
+REF: het is ook echt een klassieker . het gaat over een verloren liefde .
+HYP: het is ook echt een klassieker * het gaat over een verloren liefde *
+Eval   c  c   c    c   c          c d   c    c    c   c        c      c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: het jongste gras en de leukste vrouwtjes .
+HYP: dat jongste gras en de leukste vrouwtjes .
+Eval   s       c    c  c  c       c         c c
+WER = 0.125
+REF: het jongste gras en de leukste vrouwtjes .
+HYP: het jongste gras en de leukste vrouwtjes *
+Eval   c       c    c  c  c       c         c d
+ASR_WER = 0.125
+==============================
+
+REF: het kabinet besluit namelijk of de scholen volgende      week na de kerstvakantie weer open mogen .
+HYP: het kabinet besluit namelijk of ** ******* ******** deschamps  r ss      vakantie weer open ***** *
+Eval   c       c       c        c  c  d       d        d         s  s  s             s    c    c     d d
+WER = 0.5625
+REF: het kabinet besluit namelijk of de scholen volgende week na de kerstvakantie weer open mogen .
+HYP: *** kabinet besluit namelijk of de scholen volgende week na de kerstvakantie weer open mogen *
+Eval   d       c       c        c  c  c       c        c    c  c  c             c    c    c     c d
+ASR_WER = 0.125
+==============================
+
+REF: het rijksmuseum heeft een unieke nieuwe foto van de nachtwacht op de website geplaatst .
+HYP: het rijksmuseum heeft een unieke nieuwe foto van de nachtwacht op de website geplaatst .
+Eval   c           c     c   c      c      c    c   c  c          c  c  c       c         c c
+WER = 0.0
+REF: het rijksmuseum heeft een unieke nieuwe foto van de nachtwacht op de website geplaatst .
+HYP: het Rijksmuseum heeft een unieke nieuwe foto van de Nachtwacht op de website geplaatst *
+Eval   c           s     c   c      c      c    c   c  c          s  c  c       c         c d
+ASR_WER = 0.2
+==============================
+
+REF: het rijksmuseum is nog dicht vanwege de coronamaatregelen * maar de foto is voor iedereen online te zien .
+HYP: het rijksmuseum is nog dicht vanwege de coronamaatregelen , maar de foto is voor iedereen online te zien .
+Eval   c           c  c   c     c       c  c                 c i    c  c    c  c    c        c      c  c    c c
+WER = 0.05555555555555555
+REF: het rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien .
+HYP: het Rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien *
+Eval   c           s  c   c     c       c  c                 c    c  c    c  c    c        c      c  c    c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: het rijksmuseum is nog dicht vanwege de coronamaatregelen * maar de foto is voor iedereen online te zien .
+HYP: het rijksmuseum is nog dicht vanwege de coronamaatregelen , maar de foto is voor iedereen online te zien .
+Eval   c           c  c   c     c       c  c                 c i    c  c    c  c    c        c      c  c    c c
+WER = 0.05555555555555555
+REF: het rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien .
+HYP: het Rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien *
+Eval   c           s  c   c     c       c  c                 c    c  c    c  c    c        c      c  c    c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: *** hij is echt terug .
+HYP: dus hij is echt terug .
+Eval   i   c  c    c     c c
+WER = 0.2
+REF: hij is echt terug .
+HYP: hij is echt terug *
+Eval   c  c    c     c d
+ASR_WER = 0.2
+==============================
+
+REF: hij leverde bewijs voor het ontstaan van de mens     in afrika .
+HYP: hij leverde bewijs voor het ontstaan van de **** mensen afrika .
+Eval   c       c      c    c   c        c   c  c    d      s      c c
+WER = 0.16666666666666666
+REF: hij leverde bewijs voor het ontstaan van de mens in afrika  .
+HYP: hij leverde bewijs voor het ontstaan van de mens in Afrika de
+Eval   c       c      c    c   c        c   c  c    c  c      s  s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: hoe blij waren wij toen een tijdje later dit kaartje in de bus viel .
+HYP: hoe blij waren wij toen een tijdje later dit kaartje ** ** *** **** .
+Eval   c    c     c   c    c   c      c     c   c       c  d  d   d    d c
+WER = 0.26666666666666666
+REF: hoe blij waren wij toen een tijdje later dit kaartje in de bus viel .
+HYP: hoe blij waren wij toen een tijdje later dit kaartje in de bus **** *
+Eval   c    c     c   c    c   c      c     c   c       c  c  c   c    d d
+ASR_WER = 0.13333333333333333
+==============================
+
+REF: hoe oud jij bent .
+HYP: hoe oud jij bent .
+Eval   c   c   c    c c
+WER = 0.0
+REF: hoe oud jij bent .
+HYP: hoe oud jij bent *
+Eval   c   c   c    c d
+ASR_WER = 0.2
+==============================
+
+REF: hoeveel invloed je zintuigen hebben op je **** *** evenwichtsgevoel .
+HYP:    veel invloed je zintuigen hebben op je even weg           gevoel .
+Eval       s       c  c         c      c  c  c    i   i                s c
+WER = 0.4444444444444444
+REF: hoeveel invloed je zintuigen hebben op je evenwichtsgevoel .
+HYP: hoeveel invloed je zintuigen hebben op je evenwichtsgevoel *
+Eval       c       c  c         c      c  c  c                c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: hoeveel ze nu verdient , wil ze niet delen .
+HYP: hoeveel ze nu verdient * wil ze niet delen ?
+Eval       c  c  c        c d   c  c    c     c s
+WER = 0.2
+REF: hoeveel ze nu verdient , wil ze niet delen      .
+HYP: hoeveel ze nu verdient * wil ze niet delen daarin
+Eval       c  c  c        c d   c  c    c     c      s
+ASR_WER = 0.2
+==============================
+
+REF: hoewel die ***** fraude vorig jaar iets afnam , lag het aantal aangiften soms nog op honderd per dag .
+HYP: ****** die vrouw     de vorig jaar iets afnam * lag het aantal  aangifte soms nog ** honderd per dag .
+Eval      d   c     i      s     c    c    c     c d   c   c      c         s    c   c  d       c   c   c c
+WER = 0.3157894736842105
+REF: hoewel die fraude vorig jaar iets afnam , lag het aantal aangiften soms nog op honderd per dag .
+HYP: ****** die fraude vorig jaar iets afnam * lag het aantal aangiften soms nog op honderd per dag *
+Eval      d   c      c     c    c    c     c d   c   c      c         c    c   c  c       c   c   c d
+ASR_WER = 0.15789473684210525
+==============================
+
+REF: hoogeveen is een groot en leven wekkend cultureel ****** centrum rijker .
+HYP: ********* is een groot en leven  wekken cultureel center      en rijker .
+Eval         d  c   c     c  c     c       s         c      i       s      c c
+WER = 0.36363636363636365
+REF: hoogeveen is een groot en leven wekkend cultureel centrum rijker .
+HYP: ********* is een groot en leven wekkend cultureel centrum rijker *
+Eval         d  c   c     c  c     c       c         c       c      c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: hou je bovenlichaam helemaal hetzelfde ...
+HYP: hou je bovenlichaam helemaal hetzelfde   .
+Eval   c  c            c        c         c   s
+WER = 0.16666666666666666
+REF: hou je bovenlichaam helemaal hetzelfde ...
+HYP: hou je bovenlichaam helemaal hetzelfde ***
+Eval   c  c            c        c         c   d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: houden ze het binnen de ring na 'n meter of vier wel voor gezien .
+HYP: houden ** het binnen de ring na ** meter of   ie wel voor gezien .
+Eval      c  d   c      c  c    c  c  d     c  c    s   c    c      c c
+WER = 0.2
+REF: houden ze het binnen de ring na  'n meter of vier wel voor gezien .
+HYP: houden ze het binnen de ring na een meter of vier wel voor gezien *
+Eval      c  c   c      c  c    c  c   s     c  c    c   c    c      c d
+ASR_WER = 0.13333333333333333
+==============================
+
+REF: **** ** hulpdiensten zijn belaagd en de mobiele eenheid werd ingezet .
+HYP: doen er           te zijn belaagd en de mobiele eenheid werd ingezet .
+Eval    i  i            s    c       c  c  c       c       c    c       c c
+WER = 0.3
+REF: hulpdiensten zijn belaagd en de mobiele eenheid werd ingezet .
+HYP: ************ zijn belaagd en de mobiele eenheid werd ingezet *
+Eval            d    c       c  c  c       c       c    c       c d
+ASR_WER = 0.2
+==============================
+
+REF: ik ben benieuwd wat deze magische bel nog meer kan .
+HYP: ik ben benieuwd wat deze magische bel nog meer kan .
+Eval  c   c        c   c    c        c   c   c    c   c c
+WER = 0.0
+REF: ik ben benieuwd wat deze magische bel nog meer kan .
+HYP: Ik ben benieuwd wat deze magische bel nog meer kan *
+Eval  s   c        c   c    c        c   c   c    c   c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: ik ben er namelijk zelf niet al te goed in .
+HYP: ik ben er namelijk zelf niet al te goed in .
+Eval  c   c  c        c    c    c  c  c    c  c c
+WER = 0.0
+REF: ik ben er namelijk zelf niet al te goed in   .
+HYP: Ik ben er namelijk zelf niet al te goed in nou
+Eval  s   c  c        c    c    c  c  c    c  c   s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: ik haal  de  deksel even van het cadeautje af .
+HYP: ik haal het deksels even van het cadeautje af .
+Eval  c    c   s       s    c   c   c         c  c c
+WER = 0.2
+REF: ik haal de deksel even van het cadeautje af .
+HYP: ik haal de  deels even van het cadeautje af *
+Eval  c    c  c      s    c   c   c         c  c d
+ASR_WER = 0.2
+==============================
+
+REF: ** ik heb het gekregen om het aan jou te geven .
+HYP: en ik heb *** gekregen om het aan jou te geven .
+Eval  i  c   c   d        c  c   c   c   c  c     c c
+WER = 0.18181818181818182
+REF: ** ik heb het gekregen om het aan jou te geven   .
+HYP: en ik heb het gekregen om het aan jou te geven het
+Eval  i  c   c   c        c  c   c   c   c  c     c   s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: ik was hier voor mijn gevoel net nog en nu is  er alweer een kindje bij !
+HYP: ik was **** ****   er gevoel net nog en nu ** zou   weer een kindje bij .
+Eval  c   c    d    d    s      c   c   c  c  c  d   s      s   c      c   c s
+WER = 0.4117647058823529
+REF: ik was hier voor mijn gevoel net nog en nu is er alweer een  kindje bij  !
+HYP: Ik was hier voor mijn gevoel net nog en nu is er alweer een keertje bij ja
+Eval  s   c    c    c    c      c   c   c  c  c  c  c      c   c       s   c  s
+ASR_WER = 0.17647058823529413
+==============================
+
+REF: ik was ook geraakt .
+HYP: ik was ook geraakt .
+Eval  c   c   c       c c
+WER = 0.0
+REF: ik was ook geraakt   .
+HYP: ik was ook geraakt dat
+Eval  c   c   c       c   s
+ASR_WER = 0.2
+==============================
+
+REF: ik wilde je graag op je werk opzoeken .
+HYP: ik   wil je graag op je werk opzoeken .
+Eval  c     s  c     c  c  c    c        c c
+WER = 0.1111111111111111
+REF: ik wilde je graag op je werk opzoeken .
+HYP: ik wilde je graag op je werk opzoeken *
+Eval  c     c  c     c  c  c    c        c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: in die kerstboom heb ik namelijk ***** kerstballen opgehangen .
+HYP: in die kerstboom heb ik namelijk kerst      bellen opgehangen .
+Eval  c   c         c   c  c        c     i           s          c c
+WER = 0.2222222222222222
+REF: in die kerstboom heb ik namelijk kerstballen opgehangen .
+HYP: in die kerstboom heb ik namelijk kerstballen opgehangen *
+Eval  c   c         c   c  c        c           c          c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: in een ruimte vol met wolken .
+HYP: in een ruimte vol met wolken .
+Eval  c   c      c   c   c      c c
+WER = 0.0
+REF: in een ruimte vol met wolken .
+HYP: in een ruimte vol met wolken *
+Eval  c   c      c   c   c      c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: in het evangelie staat dat je in ***  de wereld bent , **** niet van de wereld .
+HYP: in ***     zeven staat dat je in dee rel      d bent , maar niet van de wereld .
+Eval  c   d         s     c   c  c  c   i   s      s    c c    i    c   c  c      c c
+WER = 0.375
+REF: in het evangelie staat ** dat je in de wereld bent    , niet van de wereld   .
+HYP: in het evangelie staat uh dat je in de wereld bent maar niet van de wereld Dus
+Eval  c   c         c     c  i   c  c  c  c      c    c    s    c   c  c      c   s
+ASR_WER = 0.1875
+==============================
+
+REF: in plaats van naar binnen en naar buiten stappen we voor en weer naar buiten .
+HYP: in plaats van naar binnen en **** buiten stappen we voor en weer naar buiten .
+Eval  c      c   c    c      c  c    d      c       c  c    c  c    c    c      c c
+WER = 0.0625
+REF: *** in plaats van naar binnen en naar buiten stappen we voor en weer naar buiten **    .
+HYP: nou in plaats van naar binnen en naar buiten stappen we voor en weer naar buiten en voor
+Eval   i  c      c   c    c      c  c    c      c       c  c    c  c    c    c      c  i    s
+ASR_WER = 0.1875
+==============================
+
+REF: inmiddels is het zes jaar later ...
+HYP: inmiddels is het zes jaar laten   .
+Eval         c  c   c   c    c     s   s
+WER = 0.2857142857142857
+REF: inmiddels is het zes jaar later ...
+HYP: inmiddels is het zes jaar later ***
+Eval         c  c   c   c    c     c   d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: is er iemand   die ooit van deze meneer heeft gehoord of hebben wij iets gemist ?
+HYP: ** **    man deden ooit van deze   meer heeft gehoord of hebben wij iets gemist .
+Eval  d  d      s     s    c   c    c      s     c       c  c      c   c    c      c s
+WER = 0.375
+REF: is er iemand die ooit van deze meneer heeft gehoord of hebben wij iets gemist ?
+HYP: ** ** iemand die ooit van deze meneer heeft gehoord of hebben wij iets gemist *
+Eval  d  d      c   c    c   c    c      c     c       c  c      c   c    c      c d
+ASR_WER = 0.1875
+==============================
+
+REF: is het goed intensief .
+HYP: is het goed intensief .
+Eval  c   c    c         c c
+WER = 0.0
+REF: is het goed intensief .
+HYP: is het goed intensief *
+Eval  c   c    c         c d
+ASR_WER = 0.2
+==============================
+
+REF: ja , ik   wil daar een voorstelling over maken .
+HYP: ** * ik wilde daar een voorstelling over maken .
+Eval  d d  c     s    c   c            c    c     c c
+WER = 0.3
+REF: ja  , ik wil daar een voorstelling over maken   .
+HYP: ja ja ik wil daar een voorstelling over maken ben
+Eval  c  s  c   c    c   c            c    c     c   s
+ASR_WER = 0.2
+==============================
+
+REF: je mag ze schuin naar voren brengen .
+HYP: je mag ze schuin naar voren brengen .
+Eval  c   c  c      c    c     c       c c
+WER = 0.0
+REF: je mag ze schuin naar voren brengen  .
+HYP: je mag ze schuin naar voren brengen he
+Eval  c   c  c      c    c     c       c  s
+ASR_WER = 0.125
+==============================
+
+REF: je vindt ze vooral in parken ...
+HYP: je vindt ze vooral in pakken   .
+Eval  c     c  c      c  c      s   s
+WER = 0.2857142857142857
+REF: je vindt ze vooral in parken ...
+HYP: je vindt ze vooral in parken ***
+Eval  c     c  c      c  c      c   d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: jij schreef ons , naar aanleiding van onze serie :
+HYP: jij schreef ons * naar aanleiding van onze serie .
+Eval   c       c   c d    c          c   c    c     c s
+WER = 0.2
+REF: jij schreef ons , naar aanleiding van onze serie :
+HYP: jij schreef ons * naar aanleiding van onze serie *
+Eval   c       c   c d    c          c   c    c     c d
+ASR_WER = 0.2
+==============================
+
+REF: kijk eens wat er gebeurt als ik deze nu ...
+HYP: kijk eens wat er gebeurt als ik deze nu ...
+Eval    c    c   c  c       c   c  c    c  c   c
+WER = 0.0
+REF: kijk eens wat er gebeurt als ik deze nu ...
+HYP: kijk eens wat er gebeurt als ik deze nu ***
+Eval    c    c   c  c       c   c  c    c  c   d
+ASR_WER = 0.1
+==============================
+
+REF: kijk maar eens wat er gebeurt als ik de schaal weghaal .
+HYP: kijk maar eens wat er gebeurt als ik de schaal weghaal .
+Eval    c    c    c   c  c       c   c  c  c      c       c c
+WER = 0.0
+REF: kijk maar eens wat er gebeurt als ik de schaal weghaal .
+HYP: kijk maar eens wat er gebeurt als ik de schaal weghaal *
+Eval    c    c    c   c  c       c   c  c  c      c       c d
+ASR_WER = 0.08333333333333333
+==============================
+
+REF:  kijk nog eens goed naar de achterkant van mijn voorspelling .
+HYP: kijkt nog eens goed naar de achterkant van **** voorspelling .
+Eval     s   c    c    c    c  c          c   c    d            c c
+WER = 0.18181818181818182
+REF: **** kijk nog eens goed naar de achterkant van mijn voorspelling .
+HYP: hand kijk nog eens goed naar de achterkant van mijn voorspelling *
+Eval    i    c   c    c    c    c  c          c   c    c            c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: kijk nog maar eens goed .
+HYP: kijk nog maar eens goed .
+Eval    c   c    c    c    c c
+WER = 0.0
+REF: kijk nog maar eens goed .
+HYP: kijk nog maar eens goed *
+Eval    c   c    c    c    c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: kinderen van **** **** hoogeveense lagere scholen waren druk aan het boetseren ...
+HYP: kinderen van hoge veen          se lagere scholen waren druk aan het boetseren ...
+Eval        c   c    i    i           s      c       c     c    c   c   c         c   c
+WER = 0.2727272727272727
+REF: kinderen van hoogeveense lagere scholen waren druk aan het boetseren  ...
+HYP: kinderen van Hoogeveense lagere scholen waren druk aan het boetseren toen
+Eval        c   c           s      c       c     c    c   c   c         c    s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: kom jij aan de *** aanbevolen dertig minuten bewegen per dag ?
+HYP: kom jij aan de aan   bevallen dertig minuten bewegen per dag .
+Eval   c   c   c  c   i          s      c       c       c   c   c s
+WER = 0.2727272727272727
+REF: kom jij aan de aanbevolen dertig minuten bewegen per dag ?
+HYP: kom jij aan de aanbevolen dertig minuten bewegen per dag *
+Eval   c   c   c  c          c      c       c       c   c   c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: kom maar staan met de voeten een stukje uit elkaar .
+HYP: kom maar staan met de voeten een stukje uit elkaar .
+Eval   c    c     c   c  c      c   c      c   c      c c
+WER = 0.0
+REF: kom maar staan met de voeten een stukje uit elkaar .
+HYP: Kom maar staan met de voeten een stukje uit elkaar *
+Eval   s    c     c   c  c      c   c      c   c      c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: kunnen jongeren later nog wel wonen waar ze willen ?
+HYP: kunnen jongeren later nog wel wonen waar ze willen .
+Eval      c        c     c   c   c     c    c  c      c s
+WER = 0.1
+REF: kunnen jongeren later nog wel wonen waar ze willen  ?
+HYP: kunnen jongeren later nog wel wonen waar ze willen op
+Eval      c        c     c   c   c     c    c  c      c  s
+ASR_WER = 0.1
+==============================
+
+REF: laatste keer is dit hoor .
+HYP:    date keer is dit hoor .
+Eval       s    c  c   c    c c
+WER = 0.16666666666666666
+REF: laatste keer is dit hoor .
+HYP: laatste keer is dit hoor *
+Eval       c    c  c   c    c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: laten we het eens vanuit een andere hoek bekijken .
+HYP: laten we het eens vanuit een andere hoek bekijken .
+Eval     c  c   c    c      c   c      c    c        c c
+WER = 0.0
+REF: laten we het eens vanuit een andere hoek bekijken .
+HYP: laten we het eens vanuit een andere hoek bekijken *
+Eval     c  c   c    c      c   c      c    c        c d
+ASR_WER = 0.1
+==============================
+
+REF: leakey zette zich ook in voor  de strijd tegen de ivoorhandel en de bescherming van de **** neushoorn .
+HYP: ****** zette zich ook in voor dee strijd tegen de ivoorhandel en de bescherming van de neus      zorg .
+Eval      d     c    c   c  c    c   s      c     c  c           c  c  c           c   c  c    i         s c
+WER = 0.2222222222222222
+REF: leakey zette zich ook in voor de strijd tegen de ivoorhandel en de bescherming van de neushoorn .
+HYP:  Lieke zette zich ook in voor de strijd tegen de ivoorhandel en de bescherming van de neushoorn *
+Eval      s     c    c   c  c    c  c      c     c  c           c  c  c           c   c  c         c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: lekker even krachtig duwen .
+HYP: lekker even krachtig duwen .
+Eval      c    c        c     c c
+WER = 0.0
+REF: lekker even krachtig duwen .
+HYP: lekker even krachtig duwen *
+Eval      c    c        c     c d
+ASR_WER = 0.2
+==============================
+
+REF: let op de knieen , dat die ietsje van het slot zijn .
+HYP: let op de knieen * dat die ietsje van het slot zijn .
+Eval   c  c  c      c d   c   c      c   c   c    c    c c
+WER = 0.07692307692307693
+REF: let op de knieen , dat die ietsje van het slot zijn .
+HYP: let op de knieen * dat die ietsje van het slot zijn *
+Eval   c  c  c      c d   c   c      c   c   c    c    c d
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: lijkt het vanuit het juiste perspectief ...
+HYP: lijkt het vanuit het juiste perspectief   .
+Eval     c   c      c   c      c           c   s
+WER = 0.14285714285714285
+REF: lijkt het vanuit het juiste perspectief   ...
+HYP: lijkt het vanuit het juiste perspectief alsof
+Eval     c   c      c   c      c           c     s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: *** ****** luister goed naar mijn ********** instructies .
+HYP: het blijft      er goed naar mijn instructie          ss .
+Eval   i      i       s    c    c    c          i           s c
+WER = 0.8333333333333334
+REF: luister goed naar mijn instructies .
+HYP: luister goed naar mijn instructies *
+Eval       c    c    c    c           c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: maar blijkbaar zag jij toch iets in hem waardoor jij schreef .
+HYP: maar blijkbaar zag jij toch iets in hem ******** *** ******* .
+Eval    c         c   c   c    c    c  c   c        d   d       d c
+WER = 0.25
+REF: maar blijkbaar zag jij toch iets in hem waardoor jij schreef        .
+HYP: maar blijkbaar zag jij toch iets in hem waardoor jij ******* schrijft
+Eval    c         c   c   c    c    c  c   c        c   c       d        s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: maar de prille relatie met rimke houdt geen stand .
+HYP: maar de prille relatie met rimke houdt geen stand .
+Eval    c  c      c       c   c     c     c    c     c c
+WER = 0.0
+REF: maar de prille relatie met rimke houdt geen stand .
+HYP: maar de prille relatie met Remke houdt geen stand *
+Eval    c  c      c       c   c     s     c    c     c d
+ASR_WER = 0.2
+==============================
+
+REF: maar die hele leefomgeving van wilde konijnen ...
+HYP: maar die hele leefomgeving van wilde konijnen   .
+Eval    c   c    c            c   c     c        c   s
+WER = 0.125
+REF: maar die hele leefomgeving van wilde konijnen ...
+HYP: maar die hele leefomgeving van wilde konijnen ***
+Eval    c   c    c            c   c     c        c   d
+ASR_WER = 0.125
+==============================
+
+REF: maar het is gewoon een kolkende massa geworden .
+HYP: maar het is gewoon een kolkende massa geworden .
+Eval    c   c  c      c   c        c     c        c c
+WER = 0.0
+REF: maar het is gewoon een kolkende massa geworden  .
+HYP: maar het is gewoon een kolkende massa geworden ja
+Eval    c   c  c      c   c        c     c        c  s
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: maar het is nog niet zo gemakkelijk om bij de vrouwtjes in de smaak ** vallen .
+HYP: maar het is nog niet zo gemakkelijk om bij de vrouwtjes in de smaak te vallen .
+Eval    c   c  c   c    c  c           c  c   c  c         c  c  c     c  i      c c
+WER = 0.0625
+REF: ***** maar het is nog niet zo gemakkelijk om bij de vrouwtjes in de smaak ** vallen .
+HYP: jacht maar het is nog niet zo gemakkelijk om bij de vrouwtjes in de smaak te vallen *
+Eval     i    c   c  c   c    c  c           c  c   c  c         c  c  c     c  i      c d
+ASR_WER = 0.1875
+==============================
+
+REF: maar hij heeft heel kort een paar opnames gemaakt in *** bobino ...
+HYP: **** hij heeft heel kort een paar opnames gemaakt in bob     in   .
+Eval    d   c     c    c    c   c    c       c       c  c   i      s   s
+WER = 0.3333333333333333
+REF: maar hij heeft heel kort een paar opnames gemaakt in bobino ...
+HYP: maar hij heeft heel kort een paar opnames gemaakt in  Bobby  na
+Eval    c   c     c    c    c   c    c       c       c  c      s   s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: maar ja , de koersen gingen ook zo goed dit jaar .
+HYP: maar ** * de koersen gingen ook zo goed dit jaar .
+Eval    c  d d  c       c      c   c  c    c   c    c c
+WER = 0.16666666666666666
+REF: maar ja , de koersen gingen ook zo goed dit jaar  .
+HYP: maar ja * de koersen gingen ook zo goed dit jaar Je
+Eval    c  c d  c       c      c   c  c    c   c    c  s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: maar misschien wel net zo belangrijk :
+HYP: maar misschien wel net zo belangrijk .
+Eval    c         c   c   c  c          c s
+WER = 0.14285714285714285
+REF: maar misschien wel net zo belangrijk :
+HYP: maar misschien wel net zo belangrijk *
+Eval    c         c   c   c  c          c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: maar na tien jaar buffelen ...
+HYP: maar na tien jaar buffelen ...
+Eval    c  c    c    c        c   c
+WER = 0.0
+REF: maar na tien jaar buffelen   ...
+HYP: maar na tien jaar buffelen bleek
+Eval    c  c    c    c        c     s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: maar na veel verdriet raapt hij de moed bij elkaar en gaat op zoek naar een nieuwe liefde      .
+HYP: maar na veel verdriet  gaat hij de moed bij elkaar en gaat op zoek naar een nieuwe ****** lieden
+Eval    c  c    c        c     s   c  c    c   c      c  c    c  c    c    c   c      c      d      s
+WER = 0.15789473684210525
+REF: ***** maar na veel verdriet raapt hij de moed bij elkaar en gaat op zoek naar een nieuwe liefde .
+HYP: leven maar na veel verdriet raapt hij de moed bij elkaar en gaat op zoek naar een nieuwe liefde *
+Eval     i    c  c    c        c     c   c  c    c   c      c  c    c  c    c    c   c      c      c d
+ASR_WER = 0.10526315789473684
+==============================
+
+REF: maar ook in de stukjes **** groen langs de wegen en het spoor .
+HYP: maar ook in de stukjes croo    en langs de wegen en het spoor .
+Eval    c   c  c  c       c    i     s     c  c     c  c   c     c c
+WER = 0.15384615384615385
+REF: maar ook in de stukjes groen langs de wegen en het spoor .
+HYP: maar ook in de stukjes groen langs de wegen en het spoor *
+Eval    c   c  c  c       c     c     c  c     c  c   c     c d
+ASR_WER = 0.07692307692307693
+==============================
+
+REF: maar soms ook gewoon open en bloot .
+HYP: maar soms ook gewoon open en bloot .
+Eval    c    c   c      c    c  c     c c
+WER = 0.0
+REF: maar soms ook gewoon open en bloot .
+HYP: maar soms ook gewoon open en bloot *
+Eval    c    c   c      c    c  c     c d
+ASR_WER = 0.125
+==============================
+
+REF: maar we zijn een paar jaar geleden met hem in *** toulouse in een theatertje geweest .
+HYP: maar we zijn een paar jaar geleden met hem in tel      use in een    theater geweest .
+Eval    c  c    c   c    c    c       c   c   c  c   i        s  c   c          s       c c
+WER = 0.1875
+REF: maar we zijn een paar jaar geleden met hem in ** toulouse in een theatertje geweest  .
+HYP: maar we zijn een paar jaar geleden met hem in uh Toulouse in een theatertje geweest en
+Eval    c  c    c   c    c    c       c   c   c  c  i        s  c   c          c       c  s
+ASR_WER = 0.1875
+==============================
+
+REF: maar wist je dat **** *** oliebollen een bijzondere eigenschap hebben ...
+HYP: **** wist je dat olie bol         en een bijzondere eigenschap hebben   .
+Eval    d    c  c   c    i   i          s   c          c          c      c   s
+WER = 0.5
+REF: maar wist je dat oliebollen een bijzondere eigenschap hebben ****  ...
+HYP: maar wist je dat oliebollen een bijzondere eigenschap hebben waar maar
+Eval    c    c  c   c          c   c          c          c      c    i    s
+ASR_WER = 0.2
+==============================
+
+REF: maar ze sloegen hun slag in de jaren vijftig .
+HYP: maar ze sloegen hun slag in de jaren vijftig .
+Eval    c  c       c   c    c  c  c     c       c c
+WER = 0.0
+REF: maar ze sloegen hun slag in de jaren vijftig    .
+HYP: Maar ze sloegen hun slag in de jaren vijftig toen
+Eval    s  c       c   c    c  c  c     c       c    s
+ASR_WER = 0.2
+==============================
+
+REF: mama ziet er streng op toe dat ze in de        buurt blijven ...
+HYP: mama ziet er streng op *** *** ** ** ** toedeledokie     ven   .
+Eval    c    c  c      c  c   d   d  d  d  d            s       s   s
+WER = 0.6153846153846154
+REF: mama ziet er streng op toe dat ze in de buurt blijven   ...
+HYP: mama ziet er streng op toe dat ze in de buurt blijven zodat
+Eval    c    c  c      c  c   c   c  c  c  c     c       c     s
+ASR_WER = 0.07692307692307693
+==============================
+
+REF: *** meer dan acht seconden **** filmen wij nooit met de telefoon .
+HYP: aan meer dan acht seconden film     en wij nooit met de telefoon .
+Eval   i    c   c    c        c    i      s   c     c   c  c        c c
+WER = 0.2727272727272727
+REF: meer dan acht seconden filmen wij nooit ** met de telefoon   .
+HYP: meer dan acht seconden filmen wij nooit he met de telefoon Dus
+Eval    c   c    c        c      c   c     c  i   c  c        c   s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: met de tenen naar voren , handen naar voren .
+HYP: met de tenen naar voren . handen naar voren .
+Eval   c  c     c    c     c s      c    c     c c
+WER = 0.1
+REF: met de tenen naar voren , handen naar voren .
+HYP: met de tenen naar voren * handen naar voren *
+Eval   c  c     c    c     c d      c    c     c d
+ASR_WER = 0.2
+==============================
+
+REF: met de voeten een klein stukje uit elkaar .
+HYP: met de voeten een klein stukje uit elkaar .
+Eval   c  c      c   c     c      c   c      c c
+WER = 0.0
+REF: met de voeten een klein stukje uit elkaar .
+HYP: met de voeten een klein stukje uit elkaar *
+Eval   c  c      c   c     c      c   c      c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: ****** met een aantal ******* optische illusies .
+HYP: meneer met een aantal optisch       ee illusies .
+Eval      i   c   c      c       i        s        c c
+WER = 0.5
+REF: met een aantal optische illusies .
+HYP: met een aantal optische illusies *
+Eval   c   c      c        c        c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: met een boer aan de andere kant van de wereld .
+HYP: met een boer aan de andere kant van de wereld .
+Eval   c   c    c   c  c      c    c   c  c      c c
+WER = 0.0
+REF: ******** met een boer aan de andere kant van de wereld .
+HYP: ontstaat met een boer aan de andere kant van de wereld *
+Eval        i   c   c    c   c  c      c    c   c  c      c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: met een groep die zwaar     te lijden heeft onder de coronamaatregelen .
+HYP: met een groep die ***** zwarte leiden heeft onder de coronamaatregelen .
+Eval   c   c     c   c     d      s      s     c     c  c                 c c
+WER = 0.25
+REF: met een groep die zwaar te lijden heeft onder de coronamaatregelen **        .
+HYP: met een groep die zwaar te lijden heeft onder de coronamaatregelen de jongeren
+Eval   c   c     c   c     c  c      c     c     c  c                 c  i        s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: met pijn in het hart werd vorig jaar de locatie van het oorspronkelijke familiebedrijf verkocht .
+HYP: ***   en in het hart werd vorig jaar de locatie van het oorspronkelijke familiebedrijf verkocht .
+Eval   d    s  c   c    c    c     c    c  c       c   c   c               c              c        c c
+WER = 0.125
+REF: met pijn in het hart werd vorig jaar de locatie van het oorspronkelijke familiebedrijf verkocht .
+HYP: *** pijn in het hart werd vorig jaar de locatie van het oorspronkelijke familiebedrijf verkocht *
+Eval   d    c  c   c    c    c     c    c  c       c   c   c               c              c        c d
+ASR_WER = 0.125
+==============================
+
+REF: *** middelpunt van het complex is een *** zeshoekige concert- en ****** toneelzaal ...
+HYP: het middelpunt van het complex is een zes     hoeken  concert en toneel       zaal   .
+Eval   i          c   c   c       c  c   c   i          s        s  c      i          s   s
+WER = 0.6363636363636364
+REF: middelpunt van het complex is een zeshoekige concert- en toneelzaal ...
+HYP: middelpunt van het complex is een zeshoekige  concert en toneelzaal ***
+Eval          c   c   c       c  c   c          c        s  c          c   d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: na de staatsgreep in oktober werd de premier afgezet .
+HYP: na de staatsgreep in oktober werd de premier afgezet .
+Eval  c  c           c  c       c    c  c       c       c c
+WER = 0.0
+REF: na de staatsgreep in oktober werd de premier afgezet ***     .
+HYP: na de staatsgreep in oktober werd de premier afgezet een maand
+Eval  c  c           c  c       c    c  c       c       c   i     s
+ASR_WER = 0.2
+==============================
+
+REF: na vandaag wordt het geleidelijk minder zacht .
+HYP: na vandaag wordt het geleidelijk minder zacht .
+Eval  c       c     c   c           c      c     c c
+WER = 0.0
+REF: na vandaag wordt het geleidelijk minder zacht      .
+HYP: na vandaag wordt het geleidelijk minder zacht blijft
+Eval  c       c     c   c           c      c     c      s
+ASR_WER = 0.125
+==============================
+
+REF: ** net zo leuk vindt als  op de foto ...
+HYP: je net zo leuk vindt als een de foto   .
+Eval  i   c  c    c     c   c   s  c    c   s
+WER = 0.3333333333333333
+REF: net zo leuk vindt als op de foto ...
+HYP: net zo leuk vindt als op de foto ***
+Eval   c  c    c     c   c  c  c    c   d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: net zoals de dood .
+HYP: net   als de dood .
+Eval   c     s  c    c c
+WER = 0.2
+REF: net zoals de dood .
+HYP: net zoals de dood *
+Eval   c     c  c    c d
+ASR_WER = 0.2
+==============================
+
+REF: niet dat we in de geschiedschrijving trots zullen zijn op deze opstand .
+HYP: **** dat we in de geschiedschrijving trots zullen zijn op deze opstand .
+Eval    d   c  c  c  c                  c     c      c    c  c    c       c c
+WER = 0.07692307692307693
+REF: niet dat we in de geschiedschrijving trots zullen zijn op deze opstand .
+HYP: niet dat we in de geschiedschrijving trots zullen zijn op deze opstand *
+Eval    c   c  c  c  c                  c     c      c    c  c    c       c d
+ASR_WER = 0.07692307692307693
+==============================
+
+REF: **** **** nog een belangrijke besmettingshaard .
+HYP: maar tien  of een belangrijke besmettingshaard .
+Eval    i    i   s   c           c                c c
+WER = 0.6
+REF: nog een belangrijke besmettingshaard       .
+HYP: nog een belangrijke besmettingshaard scholen
+Eval   c   c           c                c       s
+ASR_WER = 0.2
+==============================
+
+REF: nou klinkt het misschien een beetje gek , maar eigenlijk ...
+HYP: nou klinkt  er misschien een beetje gek * **** *********   .
+Eval   c      c   s         c   c      c   c d    d         d   s
+WER = 0.45454545454545453
+REF: nou klinkt het misschien een beetje gek , maar eigenlijk ...
+HYP: nou klinkt het misschien een beetje gek * maar eigenlijk ***
+Eval   c      c   c         c   c      c   c d    c         c   d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: nou vinden jullie het al een hele stevige .
+HYP: *** vinden jullie het al een hele stevige .
+Eval   d      c      c   c  c   c    c       c c
+WER = 0.1111111111111111
+REF: nou vinden jullie het al een hele stevige .
+HYP: nou vinden jullie het al een hele stevige *
+Eval   c      c      c   c  c   c    c       c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: nou weet ik dat je veel producten verkoopt * met je gezicht erop .
+HYP: dan weet ik dat je veel producten verkoopt , met je gezicht erop .
+Eval   s    c  c   c  c    c         c        c i   c  c       c    c c
+WER = 0.15384615384615385
+REF: nou weet ik dat je veel producten verkoopt met je gezicht erop   .
+HYP: nou weet ik dat je veel producten verkoopt met je gezicht erop ook
+Eval   c    c  c   c  c    c         c        c   c  c       c    c   s
+ASR_WER = 0.07692307692307693
+==============================
+
+REF: of de scholen na de kerstvakantie weer open gaan .
+HYP: of de scholen na de kerstvakantie weer open gaan .
+Eval  c  c       c  c  c             c    c    c    c c
+WER = 0.0
+REF: of de scholen na de kerstvakantie weer open gaan     .
+HYP: of de scholen na de kerstvakantie weer open gaan vanaf
+Eval  c  c       c  c  c             c    c    c    c     s
+ASR_WER = 0.1
+==============================
+
+REF: of misschien toch wel ?
+HYP: of misschien toch wel .
+Eval  c         c    c   c s
+WER = 0.2
+REF: of misschien toch wel ?
+HYP: of misschien toch wel *
+Eval  c         c    c   c d
+ASR_WER = 0.2
+==============================
+
+REF: of zelfs een klein beetje gebogen met je knokkels naar je schouder .
+HYP: of zelfs een klein beetje gebogen met je knokkels naar je ******** *
+Eval  c     c   c     c      c       c   c  c        c    c  c        d d
+WER = 0.15384615384615385
+REF: ***** of zelfs een klein beetje gebogen met je knokkels naar je schouder .
+HYP: houdt of zelfs een klein beetje gebogen met je knokkels naar je schouder *
+Eval     i  c     c   c     c      c       c   c  c        c    c  c        c d
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: om goed te kijken naar het midden van dit spiraal .
+HYP: om goed te kijken naar het midden van dit spiraal .
+Eval  c    c  c      c    c   c      c   c   c       c c
+WER = 0.0
+REF: om goed te kijken naar het midden van dit spiraal .
+HYP: om goed te kijken naar het midden van dit spiraal *
+Eval  c    c  c      c    c   c      c   c   c       c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: om het iets intensiever te maken * gaan we iets dieper zakken ...
+HYP: om het iets intensiever te maken , gaan we iets dieper zakken   .
+Eval  c   c    c           c  c     c i    c  c    c      c      c   s
+WER = 0.16666666666666666
+REF: ***** om het iets intensiever te maken gaan we iets dieper zakken ...
+HYP: voren om het iets intensiever te maken gaan we iets dieper zakken ***
+Eval     i  c   c    c           c  c     c    c  c    c      c      c   d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: omdat het donker was en je weet niet of de film    het pakt .
+HYP: omdat het donker was en je weet niet of de **** filmen pakt .
+Eval     c   c      c   c  c  c    c    c  c  c    d      s    c c
+WER = 0.14285714285714285
+REF: omdat het donker was en je weet niet of de film het pakt .
+HYP: omdat het donker was en je weet niet of de film Het pakt *
+Eval     c   c      c   c  c  c    c    c  c  c    c   s    c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: omdat het raam de rest van de omgeving ** afdekt ...
+HYP: omdat het raam de rest van de omgeving af   dekt ...
+Eval     c   c    c  c    c   c  c        c  i      s   c
+WER = 0.2
+REF: ******* omdat het raam de rest van de omgeving afdekt ...
+HYP: wegreed omdat het raam de rest van de omgeving afdekt heb
+Eval       i     c   c    c  c    c   c  c        c      c   s
+ASR_WER = 0.2
+==============================
+
+REF: onder te brengen op een veilige plek .
+HYP: onder te brengen op een veilige plek .
+Eval     c  c       c  c   c       c    c c
+WER = 0.0
+REF: onder te brengen op een veilige plek .
+HYP: onder te brengen op een veilige plek *
+Eval     c  c       c  c   c       c    c d
+ASR_WER = 0.125
+==============================
+
+REF: ** ondertussen moet het demissionaire kabinet nog een belangrijk besluit nemen :
+HYP: in    ertussen moet het demissionaire kabinet nog een belangrijk besluit nemen .
+Eval  i           s    c   c             c       c   c   c          c       c     c s
+WER = 0.2727272727272727
+REF: ondertussen moet het demissionaire kabinet nog een belangrijk besluit nemen :
+HYP: ondertussen moet het demissionaire kabinet nog een belangrijk besluit nemen *
+Eval           c    c   c             c       c   c   c          c       c     c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: ondertussen werd een *** popster uit het verleden bevrijd .
+HYP: ondertussen werd een pop    ster uit het verleden bevrijd .
+Eval           c    c   c   i       s   c   c        c       c c
+WER = 0.2222222222222222
+REF: ondertussen werd een popster uit het verleden bevrijd .
+HYP: ondertussen werd een popster uit het verleden bevrijd *
+Eval           c    c   c       c   c   c        c       c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: online staat nu de grootste en meest gedetailleerde foto die ooit van de nachtwacht is gemaakt .
+HYP: online staat nu de grootste en meest gedetailleerde foto die ooit van de nachtwacht is gemaakt .
+Eval      c     c  c  c        c  c     c              c    c   c    c   c  c          c  c       c c
+WER = 0.0
+REF: online staat nu de grootste en meest gedetailleerde foto die ooit van de nachtwacht is gemaakt **    .
+HYP: online staat nu de grootste en meest gedetailleerde foto die ooit van de Nachtwacht is gemaakt de foto
+Eval      c     c  c  c        c  c     c              c    c   c    c   c  c          s  c       c  i    s
+ASR_WER = 0.17647058823529413
+==============================
+
+REF: onvoorbereid          , met in de hoofdrol de mensen die bij mij aan tafel komen zitten .
+HYP:        zonde voorbereid met in de hoofdrol de mensen die bij mij aan tafel komen zitten .
+Eval            s          s   c  c  c        c  c      c   c   c   c   c     c     c      c c
+WER = 0.125
+REF: onvoorbereid , met in de hoofdrol de mensen die bij mij aan tafel komen zitten  .
+HYP: onvoorbereid * met in de hoofdrol de mensen die bij mij aan tafel komen zitten is
+Eval            c d   c  c  c        c  c      c   c   c   c   c     c     c      c  s
+ASR_WER = 0.125
+==============================
+
+REF: ook enige kleinere zalen zijn in het cultureel centrum opgenomen ...
+HYP: ook enige kleinere zalen zijn in het cultureel centrum opgenomen   .
+Eval   c     c        c     c    c  c   c         c       c         c   s
+WER = 0.09090909090909091
+REF: ****** ook enige kleinere zalen zijn in het cultureel centrum opgenomen ...
+HYP: voeren ook enige kleinere zalen zijn in het cultureel centrum opgenomen ***
+Eval      i   c     c        c     c    c  c   c         c       c         c   d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: ook heel je lichaam uit balans brengen ?
+HYP: ook heel je lichaam bij balans brengen .
+Eval   c    c  c       c   s      c       c s
+WER = 0.25
+REF: ook heel je lichaam uit balans brengen ?
+HYP: ook heel je lichaam uit balans brengen *
+Eval   c    c  c       c   c      c       c d
+ASR_WER = 0.125
+==============================
+
+REF: ook kan het *** ***** *** verouderingsproces hiermee nog beter worden bijgehouden .
+HYP: ook kan het ver ouder ins             proces  wiemer nog beter worden bijgehouden .
+Eval   c   c   c   i     i   i                  s       s   c     c      c           c c
+WER = 0.5
+REF: ********** ook kan het verouderingsproces hiermee nog beter worden bijgehouden .
+HYP: bestuderen ook kan het verouderingsproces hiermee nog beter worden bijgehouden *
+Eval          i   c   c   c                  c       c   c     c      c           c d
+ASR_WER = 0.2
+==============================
+
+REF: ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met oekraine .
+HYP: ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met oekraine .
+Eval   c   c   c   c  c    c         c   c       c      c       c      c       c   c        c c
+WER = 0.0
+REF: ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met oekraine        .
+HYP: ook zei *** dat er geen afspraken met Rusland worden gemaakt zonder overleg met oekraine oekraine
+Eval   c   c   d   c  c    c         c   c       s      c       c      c       c   c        c        s
+ASR_WER = 0.1875
+==============================
+
+REF: ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met oekraine .
+HYP: ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met oekraine .
+Eval   c   c   c   c  c    c         c   c       c      c       c      c       c   c        c c
+WER = 0.0
+REF: ook zei hij dat er geen afspraken met rusland worden gemaakt zonder overleg met oekraine        .
+HYP: ook zei hij dat er geen afspraken met Rusland worden gemaakt zonder overleg met oekraine oekraine
+Eval   c   c   c   c  c    c         c   c       s      c       c      c       c   c        c        s
+ASR_WER = 0.125
+==============================
+
+REF: ook zij begon met wat zakgeld : zestig euro .
+HYP: ook zij begon met wat zakgeld * zestig euro .
+Eval   c   c     c   c   c       c d      c    c c
+WER = 0.1
+REF: ook zij begon met wat zakgeld : zestig euro       .
+HYP: ook zij begon met wat zakgeld * zestig euro hoeveel
+Eval   c   c     c   c   c       c d      c    c       s
+ASR_WER = 0.2
+==============================
+
+REF: op een enkel probleemgeval    na .
+HYP: op een enkel      probleem geval .
+Eval  c   c     c             s     s c
+WER = 0.3333333333333333
+REF: op een enkel probleemgeval na .
+HYP: op een enkel probleemgeval na *
+Eval  c   c     c             c  c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: op het **** veldje in de stad heerst betrekkelijke rust .
+HYP: op het veld     je in de stad heerst  betrekkelijk rust .
+Eval  c   c    i      s  c  c    c      c             s    c c
+WER = 0.3
+REF: **** op het veldje in de stad heerst betrekkelijke rust .
+HYP: zijn op het veldje in de stad heerst betrekkelijke rust *
+Eval    i  c   c      c  c  c    c      c             c    c d
+ASR_WER = 0.2
+==============================
+
+REF: op steenworp afstand van de begraafplaats treffen we patricia .
+HYP: op steenworp afstand van de begraafplaats treffen we patricia .
+Eval  c         c       c   c  c             c       c  c        c c
+WER = 0.0
+REF: op steenworp afstand van de begraafplaats treffen we patricia        .
+HYP: op steenworp afstand van de begraafplaats treffen we ******** Patricia
+Eval  c         c       c   c  c             c       c  c        d        s
+ASR_WER = 0.2
+==============================
+
+REF: op wielen zijn gebouwd .
+HYP: we wielen zijn gebouwd .
+Eval  s      c    c       c c
+WER = 0.2
+REF: op wielen zijn gebouwd .
+HYP: op wielen zijn gebouwd *
+Eval  c      c    c       c d
+ASR_WER = 0.2
+==============================
+
+REF: ***** optreden voor publiek * *** is al twee jaar bijna niet mogelijk .
+HYP: stopt    reden voor publiek , dat is al twee jaar bijna niet mogelijk .
+Eval     i        s    c       c i   i  c  c    c    c     c    c        c c
+WER = 0.36363636363636365
+REF: optreden voor publiek *** is al twee jaar bijna niet mogelijk    .
+HYP: optreden voor publiek dat is al twee jaar bijna niet mogelijk toch
+Eval        c    c       c   i  c  c    c    c     c    c        c    s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: *** precies even groot zijn . en ik zal het je bewijzen .
+HYP: die      is even groot zijn * en ik zal het je bewijzen .
+Eval   i       s    c     c    c d  c  c   c   c  c        c c
+WER = 0.25
+REF: precies even groot zijn . en ik zal het je bewijzen .
+HYP: precies even groot zijn * en ik zal het je bewijzen *
+Eval       c    c     c    c d  c  c   c   c  c        c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: puur groen beleggen met veel rendement , dat lukte niet .
+HYP:  uur groen beleggen met veel rendement * dat lukte niet .
+Eval    s     c        c   c    c         c d   c     c    c c
+WER = 0.18181818181818182
+REF: puur groen beleggen met veel rendement , dat lukte niet .
+HYP: puur groen beleggen met veel rendement * dat lukte niet *
+Eval    c     c        c   c    c         c d   c     c    c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: record na record werd verbroken .
+HYP:    cor na  decor werd verbroken .
+Eval      s  c      s    c         c c
+WER = 0.3333333333333333
+REF: record na record werd verbroken      .
+HYP: record na record werd verbroken huizen
+Eval      c  c      c    c         c      s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: reddingsdiensten gaan er vanuit dat alle slachtoffers nu gevonden zijn .
+HYP:         diensten gaan er vanuit dat alle slachtoffers nu gevonden zijn .
+Eval                s    c  c      c   c    c            c  c        c    c c
+WER = 0.09090909090909091
+REF: reddingsdiensten gaan er vanuit dat alle slachtoffers nu gevonden zijn .
+HYP: reddingsdiensten gaan er vanuit dat alle slachtoffers nu gevonden zijn *
+Eval                c    c  c      c   c    c            c  c        c    c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF: samen met een ******* **** knuffelbeer voor een regenboog ...
+HYP: samen met een knuffel beer           , voor een regenboog   .
+Eval     c   c   c       i    i           s    c   c         c   s
+WER = 0.5
+REF: samen met een knuffelbeer voor een regenboog ...
+HYP: samen met een knuffelbeer voor een regenboog ***
+Eval     c   c   c           c    c   c         c   d
+ASR_WER = 0.125
+==============================
+
+REF: samen met zijn broer en vader heeft hij een familiebedrijf ...
+HYP: samen met zijn broer en vader heeft hij  in        familie ...
+Eval     c   c    c     c  c     c     c   c   s              s   c
+WER = 0.18181818181818182
+REF: **** samen met zijn broer en vader heeft hij een familiebedrijf ...
+HYP: Hans samen met zijn broer en vader heeft hij een familiebedrijf ***
+Eval    i     c   c    c     c  c     c     c   c   c              c   d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: schouderbladen iets naar achteren trekken . en de laatste keer .
+HYP: schouderbladen iets naar achteren trekken * en de laatste keer .
+Eval              c    c    c        c       c d  c  c       c    c c
+WER = 0.09090909090909091
+REF: schouderbladen iets naar achteren trekken . en de laatste keer .
+HYP: schouderbladen iets naar achteren trekken * en de laatste keer *
+Eval              c    c    c        c       c d  c  c       c    c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: schouders laag naar achter .
+HYP: schouders laag naar achter .
+Eval         c    c    c      c c
+WER = 0.0
+REF: schouders laag naar achter .
+HYP: schouders laag naar achter *
+Eval         c    c    c      c d
+ASR_WER = 0.2
+==============================
+
+REF: sluit aan en wissel .
+HYP: sluit aan en wissel .
+Eval     c   c  c      c c
+WER = 0.0
+REF: sluit aan en wissel .
+HYP: sluit aan en wissel *
+Eval     c   c  c      c d
+ASR_WER = 0.2
+==============================
+
+REF: sluit je voeten aan .
+HYP: sluit je voeten aan .
+Eval     c  c      c   c c
+WER = 0.0
+REF: sluit je voeten aan .
+HYP: sluit je voeten aan *
+Eval     c  c      c   c d
+ASR_WER = 0.2
+==============================
+
+REF: terwijl de modellen worden opgemaakt ...
+HYP: terwijl de modellen worden opgemaakt   .
+Eval       c  c        c      c         c   s
+WER = 0.16666666666666666
+REF: terwijl de modellen worden opgemaakt ...
+HYP: terwijl de modellen worden opgemaakt ***
+Eval       c  c        c      c         c   d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: toen kwamen jongeren in actie tegen de woningnood .
+HYP: toen kwamen jongeren in actie tegen de woningnood .
+Eval    c      c        c  c     c     c  c          c c
+WER = 0.0
+REF: toen kwamen jongeren in actie tegen de woningnood            .
+HYP: toen kwamen jongeren in actie tegen de woningnood grootscheeps
+Eval    c      c        c  c     c     c  c          c            s
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: toeval ? of is er meer aan de hand ?
+HYP: toeval * of is er meer aan de hand .
+Eval      c d  c  c  c    c   c  c    c s
+WER = 0.2
+REF: toeval ? of is er meer aan de hand ?
+HYP: toeval * of is er meer aan de hand *
+Eval      c d  c  c  c    c   c  c    c d
+ASR_WER = 0.2
+==============================
+
+REF: twee generaties die nadenken over de toekomst .
+HYP: twee generaties die nadenken over de     koen .
+Eval    c          c   c        c    c  c        s c
+WER = 0.125
+REF: twee generaties die nadenken over de toekomst .
+HYP: twee generaties die nadenken over de toekomst *
+Eval    c          c   c        c    c  c        c d
+ASR_WER = 0.125
+==============================
+
+REF: twee vrienden mee . mijn vader heeft een prachtig filmpje ...
+HYP: twee vrienden mee . mijn vader heeft een prachtig filmpje ...
+Eval    c        c   c c    c     c     c   c        c       c   c
+WER = 0.0
+REF: twee vrienden mee . mijn vader heeft een prachtig filmpje ...
+HYP: twee vrienden mee * mijn vader heeft een prachtig filmpje van
+Eval    c        c   c d    c     c     c   c        c       c   s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: vaak bijna zonder dat we daar iets van merken .
+HYP: vaak bijna zonder dat we   er iets van  maken .
+Eval    c     c      c   c  c    s    c   c      s c
+WER = 0.2
+REF: vaak bijna zonder dat we daar iets van merken .
+HYP: vaak bijna zonder dat we daar iets van merken *
+Eval    c     c      c   c  c    c    c   c      c d
+ASR_WER = 0.1
+==============================
+
+REF: ** vader die in het groot denkt en dochter liefst in het klein .
+HYP: de vader die in het groot denkt en dochter liefst in het klein .
+Eval  i     c   c  c   c     c     c  c       c      c  c   c     c c
+WER = 0.07692307692307693
+REF: ** vader die in het groot denkt en dochter liefst in het klein .
+HYP: je vader die in het groot denkt en dochter liefst in het klein *
+Eval  i     c   c  c   c     c     c  c       c      c  c   c     c d
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: van tevoren hebben we van de schaal een foto gemaakt .
+HYP: van tevoren hebben we van de schouw een foto gemaakt .
+Eval   c       c      c  c   c  c      s   c    c       c c
+WER = 0.09090909090909091
+REF: van tevoren hebben we van de schaal een foto gemaakt .
+HYP: van tevoren hebben we van de schaal een foto gemaakt *
+Eval   c       c      c  c   c  c      c   c    c       c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF:  van wat voor brief zou jij nou heel gelukkig worden ?
+HYP: want wat voor brief van  je nou heel gelukkig   word .
+Eval    s   c    c     c   s   s   c    c        c      s s
+WER = 0.45454545454545453
+REF: van wat voor brief zou jij nou heel gelukkig worden ?
+HYP: van wat voor brief kan jij nou heel gelukkig worden *
+Eval   c   c    c     c   s   c   c    c        c      c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: ** veel zelfhulp van nu is gebaseerd op principes van   filosofen uit de oudheid   .
+HYP: en zelf     hulp van ** **    geeerd op principes van filosoferen uit de ******* out
+Eval  i    s        s   c  d  d         s  c         c   c           s   c  c       d   s
+WER = 0.6428571428571429
+REF: veel zelfhulp van nu is gebaseerd op principes van filosofen uit de oudheid **    .
+HYP: veel zelfhulp van nu is gebaseerd op principes van filosofen uit de oudheid en zelf
+Eval    c        c   c  c  c         c  c         c   c         c   c  c       c  i    s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: veranderen de ********* stadsparken en sportvelden al snel ...
+HYP: veranderen de stadspark          en en sportvelden al snel ...
+Eval          c  c         i           s  c           c  c    c   c
+WER = 0.25
+REF: veranderen de stadsparken en sportvelden al snel ...
+HYP: veranderen de stadsparken en sportvelden al snel  in
+Eval          c  c           c  c           c  c    c   s
+ASR_WER = 0.125
+==============================
+
+REF: verbonden door het bedrijf waar hij werkte .
+HYP: verbonden door het bedrijf waar hij werkte .
+Eval         c    c   c       c    c   c      c c
+WER = 0.0
+REF: verbonden door het bedrijf waar hij werkte .
+HYP: verbonden door het bedrijf waar hij werkte *
+Eval         c    c   c       c    c   c      c d
+ASR_WER = 0.125
+==============================
+
+REF: verwacht wordt dat in de loop van de middag duidelijk wordt ...
+HYP: verwacht wordt dat in de loop van de middag duidelijk wordt ...
+Eval        c     c   c  c  c    c   c  c      c         c     c   c
+WER = 0.0
+REF: ***** verwacht wordt dat in de loop van de middag duidelijk wordt ...
+HYP: nemen verwacht wordt dat in de loop van de middag duidelijk wordt  of
+Eval     i        c     c   c  c  c    c   c  c      c         c     c   s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: volgens **** hamdok is er een nieuw akkoord nodig om het land verder te helpen naar vrije verkiezingen .
+HYP: volgens hand     ok is er een nieuw akkoord nodig om het land verder te helpen naar vrije verkiezingen .
+Eval       c    i      s  c  c   c     c       c     c  c   c    c      c  c      c    c     c            c c
+WER = 0.1111111111111111
+REF: volgens   hamdok is er een nieuw akkoord nodig om het land verder te helpen naar vrije verkiezingen .
+HYP: volgens handdoek is er een nieuw akkoord nodig om het land verder te helpen naar vrije verkiezingen *
+Eval       c        s  c  c   c     c       c     c  c   c    c      c  c      c    c     c            c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: ** voor en naar buiten .
+HYP: er   er en naar buiten .
+Eval  i    s  c    c      c c
+WER = 0.4
+REF: voor en naar buiten       .
+HYP: voor en naar buiten blijven
+Eval    c  c    c      c       s
+ASR_WER = 0.2
+==============================
+
+REF: voor het vervolg van dit experiment gaan we testen ...
+HYP: voor het vervolg van dit experiment gaan we testen ...
+Eval    c   c       c   c   c          c    c  c      c   c
+WER = 0.0
+REF: ******* voor het vervolg van dit experiment gaan we testen     ...
+HYP: brengen voor het vervolg van dit experiment gaan we testen hoeveel
+Eval       i    c   c       c   c   c          c    c  c      c       s
+ASR_WER = 0.2
+==============================
+
+REF: vorige week spraken biden en poetin al zo'n vijftig minuten over de situatie .
+HYP: vorige week spraken biden en poetin al zo'n vijftig minuten over de situatie .
+Eval      c    c       c     c  c      c  c    c       c       c    c  c        c c
+WER = 0.0
+REF: vorige week spraken biden en poetin al zo'n vijftig minuten over de situatie   .
+HYP: vorige week spraken biden en Poetin al zo'n vijftig minuten over de situatie wat
+Eval      c    c       c     c  c      s  c    c       c       c    c  c        c   s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: waar *** **** cabaret vertoond kan worden of ***** kamermuziek gespeeld .
+HYP: waar het kaar      et vertoont kan worden of kamer      muziek gespeeld .
+Eval    c   i    i       s        s   c      c  c     i           s        c c
+WER = 0.6666666666666666
+REF: waar cabaret vertoond kan worden of kamermuziek gespeeld .
+HYP: waar cabaret vertoond kan worden of kamermuziek gespeeld *
+Eval    c       c        c   c      c  c           c        c d
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: waar de zon voor de verandering een keer de hele dag schijnt .
+HYP: waar de zon voor de verandering een keer de hele dag schijnt .
+Eval    c  c   c    c  c           c   c    c  c    c   c       c c
+WER = 0.0
+REF: waar de zon voor de verandering een keer de hele dag schijnt  .
+HYP: waar de zon voor de verandering een keer de hele dag schijnt en
+Eval    c  c   c    c  c           c   c    c  c    c   c       c  s
+ASR_WER = 0.07692307692307693
+==============================
+
+REF: waar je   bij staat .
+HYP: waar je wijst  aten .
+Eval    c  c     s     s c
+WER = 0.4
+REF: waar je bij staat  .
+HYP: waar je bij staat er
+Eval    c  c   c     c  s
+ASR_WER = 0.2
+==============================
+
+REF: waar maar weinig mensen van op de hoogte zijn ?
+HYP: **** maar weinig mensen van op de hoogte zijn .
+Eval    d    c      c      c   c  c  c      c    c s
+WER = 0.2
+REF: waar maar weinig mensen van op de hoogte zijn    ?
+HYP: **** maar weinig mensen van op de hoogte zijn Hier
+Eval    d    c      c      c   c  c  c      c    c    s
+ASR_WER = 0.2
+==============================
+
+REF: **** waardoor iedereen zijn **** evenwicht verliest .
+HYP: maar     door iedereen zijn even     licht verliest .
+Eval    i        s        c    c    i         s        c c
+WER = 0.6666666666666666
+REF: waardoor iedereen zijn evenwicht verliest .
+HYP: waardoor iedereen zijn evenwicht verliest *
+Eval        c        c    c         c        c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: **** waarvan twee al aardige pubers .
+HYP: maar     van twee al aardige pubers .
+Eval    i       s    c  c       c      c c
+WER = 0.3333333333333333
+REF: waarvan twee al aardige pubers .
+HYP: waarvan twee al aardige pubers *
+Eval       c    c  c       c      c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: want ik wilde dat aan iemand geven die daar ook echt plezier van zou hebben .
+HYP: want ik wilde dat aan iemand geven die daar dan echt plezier van zou hebben .
+Eval    c  c     c   c   c      c     c   c    c   s    c       c   c   c      c c
+WER = 0.0625
+REF: want ik wilde dat aan iemand geven die daar *** ook echt plezier van zou hebben    .
+HYP: want ik wilde dat dan iemand geven die daar dan ook echt plezier van zou hebben niet
+Eval    c  c     c   c   s      c     c   c    c   i   c    c       c   c   c      c    s
+ASR_WER = 0.1875
+==============================
+
+REF: wat is het probleem ? zijn   die konijnen te lelijk ? rennen ze te hard ?
+HYP: wat is het probleem ? **** enige konijnen te ****** *   leek er en  ere ?
+Eval   c  c   c        c c    d     s        c  c      d d      s  s  s    s c
+WER = 0.5
+REF: wat is het probleem ? zijn die konijnen te lelijk ? rennen ze te hard ?
+HYP: wat is het probleem * zijn die konijnen te lelijk * rennen ze te hard *
+Eval   c  c   c        c d    c   c        c  c      c d      c  c  c    c d
+ASR_WER = 0.1875
+==============================
+
+REF: ** wat nou als ik jullie vertel dat ik die ring zo weer kan terughalen ?
+HYP: en wat *** als ik jullie vertel dat ik die ring zo weer kan terughalen .
+Eval  i   c   d   c  c      c      c   c  c   c    c  c    c   c          c s
+WER = 0.2
+REF: wat nou als ik jullie vertel dat ik die ring zo weer kan terughalen ?
+HYP: Wat nou als ik jullie vertel dat ik die ring zo weer kan terughalen *
+Eval   s   c   c  c      c      c   c  c   c    c  c    c   c          c d
+ASR_WER = 0.13333333333333333
+==============================
+
+REF: we gaan veren op de plaats .
+HYP: we gaan veren op de plaats .
+Eval  c    c     c  c  c      c c
+WER = 0.0
+REF: we gaan veren op de plaats .
+HYP: we gaan veren op de plaats *
+Eval  c    c     c  c  c      c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: we hadden het er al over . die plaatjes worden gemaakt .
+HYP: we    had het er ** **** * die plaatjes worden gemaakt .
+Eval  c      s   c  c  d    d d   c        c      c       c c
+WER = 0.3333333333333333
+REF: we hadden het er al over   . die plaatjes worden gemaakt  .
+HYP: we hadden het er al over dat die plaatjes worden gemaakt uh
+Eval  c      c   c  c  c    c   s   c        c      c       c  s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: we heffen de knie en dat doen we om en om .
+HYP: we heffen de knie  . dat doen we om en om .
+Eval  c      c  c    c  s   c    c  c  c  c  c c
+WER = 0.08333333333333333
+REF: we heffen de knie en dat doen we om en om .
+HYP: we heffen de knie en dat doen we om en om *
+Eval  c      c  c    c  c   c    c  c  c  c  c d
+ASR_WER = 0.08333333333333333
+==============================
+
+REF:  we maken heel wat mee , maar we mogen ook wel dankbaar zijn voor wat we hebben .
+HYP: wat maken heel wat mee , maar we mogen *** wel dankbaar zijn voor wat we hebben .
+Eval   s     c    c   c   c c    c  c     c   d   c        c    c    c   c  c      c c
+WER = 0.1111111111111111
+REF: we maken heel wat mee , maar we mogen ook wel dankbaar zijn voor wat we hebben .
+HYP: We maken heel wat mee * maar we mogen ook wel dankbaar zijn voor wat we hebben *
+Eval  s     c    c   c   c d    c  c     c   c   c        c    c    c   c  c      c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: we zien dus dat jongeren besluiten om daarmee te gaan beleggen .
+HYP: en zien dus dat jongeren besluiten om daarmee te gaan beleggen .
+Eval  s    c   c   c        c         c  c       c  c    c        c c
+WER = 0.08333333333333333
+REF: we zien dus dat jongeren besluiten om daarmee te gaan beleggen              .
+HYP: we zien dus dat jongeren besluiten om daarmee te gaan beleggen negenentwintig
+Eval  c    c   c   c        c         c  c       c  c    c        c              s
+ASR_WER = 0.08333333333333333
+==============================
+
+REF: ** wel contact te maken met het konijn .
+HYP: oe wel contact te maken met het konijn .
+Eval  i   c       c  c     c   c   c      c c
+WER = 0.125
+REF: wel contact te maken met het konijn  .
+HYP: wel contact te maken met het konijn en
+Eval   c       c  c     c   c   c      c  s
+ASR_WER = 0.125
+==============================
+
+REF: ** ***** welk cadeautje denk jij dat smaller en langer is ?
+HYP: en welke  dat        je denk jij dat smaller en langer is .
+Eval  i     i    s         s    c   c   c       c  c      c  c s
+WER = 0.5
+REF: ** welk cadeautje denk jij dat smaller en langer is ?
+HYP: En welk cadeautje denk jij dat smaller en langer is *
+Eval  i    c         c    c   c   c       c  c      c  c d
+ASR_WER = 0.2
+==============================
+
+REF: welke besluiten worden er nu genomen voor de toekomstige generaties   ?
+HYP: welke besluiten worden er nu genomen voor ** toekomstige generaties ...
+Eval     c         c      c  c  c       c    c  d           c          c   s
+WER = 0.18181818181818182
+REF: welke besluiten worden er nu genomen voor de toekomstige generaties *****         ?
+HYP: welke besluiten worden er nu genomen voor de toekomstige generaties welke besluiten
+Eval     c         c      c  c  c       c    c  c           c          c     i         s
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: wetenschappers kunnen het schilderij nu op afstand zeer **** nauwkeurig bestuderen   .
+HYP: wetenschappers kunnen het schilderij nu op afstand zeer denk        eur     iedere ...
+Eval              c      c   c          c  c  c       c    c    i          s          s   s
+WER = 0.36363636363636365
+REF: ****** wetenschappers kunnen het schilderij nu op afstand zeer nauwkeurig bestuderen .
+HYP: pixels wetenschappers kunnen het schilderij nu op afstand zeer nauwkeurig bestuderen *
+Eval      i              c      c   c          c  c  c       c    c          c          c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: *** wildkleurige konijnen met blauwe ogen of zoals deze zwarte rakker .
+HYP: kon        eugen konijnen met blauwe ogen of zoals deze zwarte rakker .
+Eval   i            s        c   c      c    c  c     c    c      c      c c
+WER = 0.18181818181818182
+REF: wildkleurige konijnen met blauwe ogen of zoals deze zwarte rakker .
+HYP: wildkleurige konijnen met blauwe  oog of zoals deze zwarte rakker *
+Eval            c        c   c      c    s  c     c    c      c      c d
+ASR_WER = 0.18181818181818182
+==============================
+
+REF: ze dwingen naar een andere plek te gaan en de deur dicht      te doen .
+HYP: ze dwingen naar een andere plek te gaan en de deur ***** dichter doen .
+Eval  c       c    c   c      c    c  c    c  c  c    c     d       s    c c
+WER = 0.13333333333333333
+REF: ze dwingen naar een andere plek te gaan en de deur dicht te doen .
+HYP: ze dwingen naar een andere plek te gaan en de deur dicht te doen *
+Eval  c       c    c   c      c    c  c    c  c  c    c     c  c    c d
+ASR_WER = 0.06666666666666667
+==============================
+
+REF: ze is zevenenvijftig jaar , werkt als er geen corona is in de ****** ******* schoolbibliotheek ...
+HYP: ze is zevenenvijftig jaar * werkt als er geen corona is in de school bebloed                in   .
+Eval  c  c              c    c d     c   c  c    c      c  c  c  c      i       i                 s   s
+WER = 0.3333333333333333
+REF: ze is zevenenvijftig jaar , werkt als er geen corona is in de schoolbibliotheek ...
+HYP: Ze is zevenenvijftig jaar * werkt als er geen corona is in de schoolbibliotheek ***
+Eval  s  c              c    c d     c   c  c    c      c  c  c  c                 c   d
+ASR_WER = 0.2
+==============================
+
+REF: ze staan dus hartstikke  stil , maar hun brein denkt hierdoor ...
+HYP: ze staan dus hartstikke still , maar hun brein denkt hierdoor ...
+Eval  c     c   c          c     s c    c   c     c     c        c   c
+WER = 0.08333333333333333
+REF: ze staan dus hartstikke stil , maar hun brein denkt hierdoor ...
+HYP: ze staan dus hartstikke stil * maar hun brein denkt hierdoor dat
+Eval  c     c   c          c    c d    c   c     c     c        c   s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: ze staan te popelen om de wereld te verkennen .
+HYP: ze staan te popelen om de wereld te verkennen .
+Eval  c     c  c       c  c  c      c  c         c c
+WER = 0.0
+REF: ze staan te popelen om de wereld te verkennen  .
+HYP: ze staan te popelen om de wereld te verkennen ze
+Eval  c     c  c       c  c  c      c  c         c  s
+ASR_WER = 0.1
+==============================
+
+REF: ze weten dus nog van niks .
+HYP: ze weten dus nog van niks .
+Eval  c     c   c   c   c    c c
+WER = 0.0
+REF: ze weten dus nog van niks  .
+HYP: ze weten dus nog van niks ja
+Eval  c     c   c   c   c    c  s
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: ze wil haar vader overtuigen .
+HYP: ze wil haar vader overtuigen .
+Eval  c   c    c     c          c c
+WER = 0.0
+REF: ze wil haar vader overtuigen .
+HYP: ze wil haar vader overtuigen *
+Eval  c   c    c     c          c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: ze wil ook duurzaam leven . ecologisch en zelfvoorzienend .
+HYP: ze wil ook duurzaam leven * ecologisch en zelfvoorzienend .
+Eval  c   c   c        c     c d          c  c               c c
+WER = 0.1
+REF: ze wil ook duurzaam leven . ecologisch en zelfvoorzienend .
+HYP: ze wil ook duurzaam leven * ecologisch en zelfvoorzienend *
+Eval  c   c   c        c     c d          c  c               c d
+ASR_WER = 0.2
+==============================
+
+REF: ** zeg je antwoord **** hardop .
+HYP: en zeg je antwoord hard     op .
+Eval  i   c  c        c    i      s c
+WER = 0.6
+REF: zeg je antwoord hardop .
+HYP: zeg je antwoord hardop *
+Eval   c  c        c      c d
+ASR_WER = 0.2
+==============================
+
+REF: zeg je antwoord **** hardop .
+HYP: zeg je antwoord hard     op .
+Eval   c  c        c    i      s c
+WER = 0.4
+REF: zeg je antwoord hardop       .
+HYP: zeg je antwoord hardop bordjes
+Eval   c  c        c      c       s
+ASR_WER = 0.2
+==============================
+
+REF: zes jaar eerder verliest      hij plotseling de vrouw van ** zijn leven .
+HYP: zes jaar eerder ******** vliestra plotseling de vrouw van de  ene   ijs .
+Eval   c    c      c        d        s          c  c     c   c  i    s     s c
+WER = 0.4166666666666667
+REF: ****** zes jaar eerder verliest hij plotseling de vrouw van zijn leven .
+HYP: kennen zes jaar eerder verliest hij plotseling de vrouw van zijn leven *
+Eval      i   c    c      c        c   c          c  c     c   c    c     c d
+ASR_WER = 0.16666666666666666
+==============================
+
+REF: ** zien we juist grote meerderheden voor beide fondsen .
+HYP: in zien we juist grote meerderheden voor beide fondsen .
+Eval  i    c  c     c     c            c    c     c       c c
+WER = 0.1111111111111111
+REF: zien we juist grote meerderheden voor beide fondsen   .
+HYP: zien we juist grote meerderheden voor beide fondsen dus
+Eval    c  c     c     c            c    c     c       c   s
+ASR_WER = 0.1111111111111111
+==============================
+
+REF: zit hem ook niet alleen in protest tegen een prik .
+HYP: zit hem ook niet alleen in protest tegen een prik .
+Eval   c   c   c    c      c  c       c     c   c    c c
+WER = 0.0
+REF: zit hem ook niet alleen in protest tegen een prik .
+HYP: zit hem ook niet alleen in protest tegen een prik *
+Eval   c   c   c    c      c  c       c     c   c    c d
+ASR_WER = 0.09090909090909091
+==============================
+
+REF:  zo blijven de prijzen hoog en het aanbod laag .
+HYP: zij      en de prijzen hoog en het aanbod laag .
+Eval   s       s  c       c    c  c   c      c    c c
+WER = 0.2
+REF: zo blijven de prijzen hoog en het aanbod laag  .
+HYP: ** blijven de prijzen hoog en het aanbod laag in
+Eval  d       c  c       c    c  c   c      c    c  s
+ASR_WER = 0.2
+==============================
+
+REF: zo meteen laat ik de foto van het vuurwerk weer zien .
+HYP: zo meteen laat ik de foto van het vuurwerk weer zien .
+Eval  c      c    c  c  c    c   c   c        c    c    c c
+WER = 0.0
+REF: ****** zo meteen laat ik de foto van het vuurwerk weer zien    .
+HYP: staren zo meteen laat ik de foto van het vuurwerk weer zien Maar
+Eval      i  c      c    c  c  c    c   c   c        c    c    c    s
+ASR_WER = 0.16666666666666666
+==============================
+
+REF:   zo verkoopt bas allerlei producten met zijn gezicht erop .
+HYP: over     koop bas allerlei producten met zijn gezicht erop .
+Eval    s        s   c        c         c   c    c       c    c c
+WER = 0.2
+REF: zo verkoopt bas allerlei producten met zijn gezicht erop .
+HYP: zo verkoopt Bas allerlei producten met zijn gezicht erop *
+Eval  c        c   s        c         c   c    c       c    c d
+ASR_WER = 0.2
+==============================
+
+REF:  zo weten alle andere konijnen van het veld dat ze van hem is .
+HYP: zoo weten alle andere konijnen van het veld dat ze van hem is .
+Eval   s     c    c      c        c   c   c    c   c  c   c   c  c c
+WER = 0.07142857142857142
+REF: ***** zo weten alle andere konijnen van het veld dat ze van hem is .
+HYP: urine zo weten alle andere konijnen van het veld dat ze van hem is *
+Eval     i  c     c    c      c        c   c   c    c   c  c   c   c  c d
+ASR_WER = 0.14285714285714285
+==============================
+
+REF: zoals een trappenhuis met de ruime trappen die naar het balkon voeren .
+HYP: zoals een trappenhuis met de ruime trappen die naar het balkon voeren .
+Eval     c   c           c   c  c     c       c   c    c   c      c      c c
+WER = 0.0
+REF: *********** zoals een trappenhuis met de ruime trappen die naar het balkon voeren .
+HYP: gegroepeerd zoals een trappenhuis met de ruime trappen die naar het balkon voeren *
+Eval           i     c   c           c   c  c     c       c   c    c   c      c      c d
+ASR_WER = 0.15384615384615385
+==============================
+
+REF: zodat  ze  mooi recht in de camera kunnen kijken .
+HYP: ***** een mooie recht in de camera kunnen kijken .
+Eval     d   s     s     c  c  c      c      c      c c
+WER = 0.3
+REF: zodat ze mooi recht in de camera kunnen kijken .
+HYP: ***** ze mooi recht in de camera kunnen kijken *
+Eval     d  c    c     c  c  c      c      c      c d
+ASR_WER = 0.2
+==============================
+
+REF: zou **  u nog een keer kunnen klingelen ?
+HYP: zou je je nog een keer kunnen   klinken .
+Eval   c  i  s   c   c    c      c         s s
+WER = 0.5
+REF: zou u nog een keer kunnen klingelen ?
+HYP: zou u nog een keer kunnen klingelen *
+Eval   c c   c   c    c      c         c d
+ASR_WER = 0.125
+==============================
+
+wer = 0.16334913112164298
+wer asr = 0.15481832543443919

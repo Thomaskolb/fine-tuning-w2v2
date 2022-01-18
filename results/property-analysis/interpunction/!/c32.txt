@@ -1,0 +1,10 @@
+val 0.5294117647058824 - asr 0.17647058823529413
+REF=ik was hier voor mijn gevoel net nog en nu is er alweer een kindje bij !
+HYP=ik was   er  van   de   vond net nog ** ** ** **    een een kindje bij !
+ASR=Ik was hier voor mijn gevoel net nog en nu is er alweer een keertje bij ja
+==============================
+
+(6497, 6212, 6554)
+Total cases: 1, conditioned cases: 1
+Line count: 1, total line count: 310
+Ref word count: 13012, hyp word count: 12516, asr word count: 13219

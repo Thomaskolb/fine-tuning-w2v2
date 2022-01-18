@@ -1,0 +1,143 @@
+val 0.6363636363636364 - asr 0.18181818181818182
+REF=als ik de **** strepen weghaal zie je dat alle ballen ...
+HYP=*** ** de trek      en weghaal zie je *** **** ****** ...
+ASR=*** ik de strepen weghaal zie je dat alle ballen ***
+==============================
+
+(58, 39, 51)
+val 0.07142857142857142 - asr 0.14285714285714285
+REF=als je het lastig vindt om je balans te bewaren *** bij deze oefening ...
+HYP=als je het lastig vindt om je balans te bewaren ook bij deze oefening ...
+ASR=als je het lastig vindt om je balans te bewaren ook bij deze oefening ***
+==============================
+
+(114, 98, 107)
+val 0.0 - asr 0.2
+REF=als je merkt dat je naar voren moet komen met je bovenlichaam om je knie hoog op te trekken ...
+HYP=als je merkt dat je naar voren moet komen met je bovenlichaam om je knie hoog op te trekken ...
+ASR=en als je merkt dat je naar voren moet komen met je boven       liggen om je knie hoog op te trekken ***
+==============================
+
+(190, 174, 181)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=dan beginnen we **** met het voorwerp wat jullie op deze foto ...
+HYP=dan beginnen we even met het voorwerp wat jullie ** deze foto ...
+ASR=dan beginnen we eventjes met het voorwerp wat jullie op deze foto die
+==============================
+
+(844, 822, 867)
+val 0.125 - asr 0.125
+REF=de kleintjes zijn onder de grond geboren   .
+HYP=de kleintjes zijn onder de grond geboren ...
+ASR=de kleintjes zijn onder de grond geboren terwijl
+==============================
+
+(1763, 1700, 1810)
+val 0.23076923076923078 - asr 0.15384615384615385
+REF=de vraag is alleen , kan je met dit soort ******* optische illusies ...
+HYP=de vraag is alleen * kan je met dit soort optisch        e illusies ...
+ASR=de vraag is alleen * kan je met dit soort optische illusies ook
+==============================
+
+(2200, 2130, 2251)
+val 0.2 - asr 0.2
+REF=duwen we de kamer om hun heen , zonder dat ze het door hebben ...
+HYP=duren we de kamer om  uh  een , zonder dat ze het door hebben ...
+ASR=duwen we de Kamer om hun heen * zonder dat ze het door hebben een
+==============================
+
+(2829, 2742, 2882)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=en dat je het ook nog op vijf juni hebt gepost ...
+HYP=en dat je het ook nog op vijf juni hebt ****** ...
+ASR=en dat je het ook nog Op vijf juni hebt gepost een
+==============================
+
+(3550, 3420, 3610)
+val 0.0 - asr 0.14285714285714285
+REF=en de aanleiding dat ik zo ...
+HYP=en de aanleiding dat ik zo ...
+ASR=en de aanleiding dat ik zo  ik
+==============================
+
+(3656, 3526, 3714)
+val 0.2 - asr 0.2
+REF=en die heeft  ze in haar eigen jasje gestoken   .
+HYP=en die heeft zij in haar eigen jasje gestoken ...
+ASR=en die heeft zij in haar eigen jasje gestoken heel
+==============================
+
+(3800, 3673, 3860)
+val 0.18181818181818182 - asr 0.18181818181818182
+REF=en die zet zich ongetwijfeld in de komende generaties voort   .
+HYP=en die zet zich ongetwijfeld in de komende generaties ***** ...
+ASR=wereld en die zet zich ongetwijfeld in de komende generaties voort *
+==============================
+
+(3851, 3721, 3916)
+val 0.0 - asr 0.09090909090909091
+REF=en om ons heen allemaal mensen die ons geschreven hebben ...
+HYP=en om ons heen allemaal mensen die ons geschreven hebben ...
+ASR=en om ons heen allemaal mensen die ons geschreven hebben ***
+==============================
+
+(4259, 4113, 4349)
+val 0.36363636363636365 - asr 0.18181818181818182
+REF=kinderen van **** **** hoogeveense lagere scholen waren druk aan het boetseren ...
+HYP=kinderen van hoge veen         sel ageren scholen waren druk aan het boetseren ...
+ASR=kinderen van Hoogeveense lagere scholen waren druk aan het boetseren toen
+==============================
+
+(7193, 6868, 7253)
+val 0.0 - asr 0.125
+REF=maar die hele leefomgeving van wilde konijnen ...
+HYP=maar die hele leefomgeving van wilde konijnen ...
+ASR=maar die hele leefomgeving van wilde konijnen ***
+==============================
+
+(7737, 7387, 7786)
+val 0.0 - asr 0.07692307692307693
+REF=mama ziet er streng op toe dat ze in de buurt blijven ...
+HYP=mama ziet er streng op toe dat ze in de buurt blijven ...
+ASR=mama ziet er streng op toe dat ze in de buurt blijven zodat
+==============================
+
+(8338, 7975, 8408)
+val 0.2 - asr 0.2
+REF=omdat het raam de rest van de omgeving ** afdekt ...
+HYP=omdat het raam de rest van de omgeving af   dekt ...
+ASR=wegreed omdat het raam de rest van de omgeving afdekt heb
+==============================
+
+(9375, 9009, 9477)
+val 0.25 - asr 0.125
+REF=twee generaties die nadenken over de toekomst   .
+HYP=twee generaties die nadenken over de    koken ...
+ASR=twee generaties die nadenken over de toekomst *
+==============================
+
+(10723, 10316, 10858)
+val 0.0 - asr 0.16666666666666666
+REF=verwacht wordt dat in de loop van de middag duidelijk wordt ...
+HYP=verwacht wordt dat in de loop van de middag duidelijk wordt ...
+ASR=nemen verwacht wordt dat in de loop van de middag duidelijk wordt  of
+==============================
+
+(11146, 10721, 11285)
+val 0.125 - asr 0.1875
+REF=want ik wilde dat aan iemand geven die daar ook echt plezier van zou hebben   .
+HYP=want ik wilde dat aan iemand geven die daar dan echt plezier van zou hebben ...
+ASR=want ik wilde dat dan iemand geven die daar dan ook echt plezier van zou hebben niet
+==============================
+
+(11635, 11203, 11798)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=zes jaar eerder verliest hij plotseling de vrouw van zijn  leven   .
+HYP=zes jaar eerder verliest hij plotseling de vrouw van zijn leiden ...
+ASR=kennen zes jaar eerder verliest hij plotseling de vrouw van zijn leven *
+==============================
+
+(12619, 12134, 12811)
+Total cases: 14, conditioned cases: 0
+Line count: 20, total line count: 310
+Ref word count: 13012, hyp word count: 12516, asr word count: 13219

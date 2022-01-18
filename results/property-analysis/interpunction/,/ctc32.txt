@@ -1,0 +1,80 @@
+val 0.0 - asr 0.15
+REF=door haar oren achter in haar nek te leggen , laat deze dame weten dat ze niet geinteresseerd is .
+HYP=door haar oren achter in haar nek te leggen , laat deze dame weten dat ze niet geinteresseerd is .
+ASR=door haar oren achter in haar nek te leggen * laat deze dame weten dat ze niet geïnteresseerd is *
+==============================
+
+(2687, 2630, 2740)
+val 0.13333333333333333 - asr 0.2
+REF=*** duwen we de kamer om hun heen , zonder dat ze het door hebben ...
+HYP=duw    en we de kamer om hun heen , zonder dat ze het door hebben ...
+ASR=duwen we de Kamer om hun heen * zonder dat ze het door hebben een
+==============================
+
+(2829, 2770, 2882)
+val 0.05555555555555555 - asr 0.1111111111111111
+REF=het rijksmuseum is nog dicht vanwege de coronamaatregelen * maar de foto is voor iedereen online te zien .
+HYP=het rijksmuseum is nog dicht vanwege de coronamaatregelen , maar de foto is voor iedereen online te zien .
+ASR=het Rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien *
+==============================
+
+(5711, 5533, 5801)
+val 0.05555555555555555 - asr 0.1111111111111111
+REF=het rijksmuseum is nog dicht vanwege de coronamaatregelen * maar de foto is voor iedereen online te zien .
+HYP=het rijksmuseum is nog dicht vanwege de coronamaatregelen , maar de foto is voor iedereen online te zien .
+ASR=het Rijksmuseum is nog dicht vanwege de coronamaatregelen maar de foto is voor iedereen online te zien *
+==============================
+
+(5798, 5621, 5887)
+val 0.375 - asr 0.1875
+REF=in het evangelie staat dat je in ***  de wereld bent , **** niet van de wereld .
+HYP=in ***     zeven staat dat je in dee rel      d bent , maar niet van de wereld .
+ASR=in het evangelie staat uh dat je in de wereld bent maar niet van de wereld Dus
+==============================
+
+(6672, 6432, 6735)
+val 0.15384615384615385 - asr 0.07692307692307693
+REF=nou weet ik dat je veel producten verkoopt * met je gezicht erop .
+HYP=dan weet ik dat je veel producten verkoopt , met je gezicht erop .
+ASR=nou weet ik dat je veel producten verkoopt met je gezicht erop ook
+==============================
+
+(9081, 8748, 9169)
+val 0.16666666666666666 - asr 0.16666666666666666
+REF=om het iets intensiever te maken * gaan we iets dieper zakken ...
+HYP=om het iets intensiever te maken , gaan we iets dieper zakken   .
+ASR=voren om het iets intensiever te maken gaan we iets dieper zakken ***
+==============================
+
+(9290, 8947, 9386)
+val 0.36363636363636365 - asr 0.18181818181818182
+REF=***** optreden voor publiek * *** is al twee jaar bijna niet mogelijk .
+HYP=stopt    reden voor publiek , dat is al twee jaar bijna niet mogelijk .
+ASR=optreden voor publiek dat is al twee jaar bijna niet mogelijk toch
+==============================
+
+(10194, 9849, 10331)
+val 0.5 - asr 0.125
+REF=samen met een ******* **** knuffelbeer voor een regenboog ...
+HYP=samen met een knuffel beer           , voor een regenboog   .
+ASR=samen met een knuffelbeer voor een regenboog ***
+==============================
+
+(10414, 10051, 10548)
+val 0.1111111111111111 - asr 0.16666666666666666
+REF= we maken heel wat mee , maar we mogen ook wel dankbaar zijn voor wat we hebben .
+HYP=wat maken heel wat mee , maar we mogen *** wel dankbaar zijn voor wat we hebben .
+ASR=We maken heel wat mee * maar we mogen ook wel dankbaar zijn voor wat we hebben *
+==============================
+
+(11908, 11487, 12066)
+val 0.08333333333333333 - asr 0.16666666666666666
+REF=ze staan dus hartstikke  stil , maar hun brein denkt hierdoor ...
+HYP=ze staan dus hartstikke still , maar hun brein denkt hierdoor ...
+ASR=ze staan dus hartstikke stil * maar hun brein denkt hierdoor dat
+==============================
+
+(12391, 11958, 12574)
+Total cases: 5, conditioned cases: 5
+Line count: 11, total line count: 310
+Ref word count: 13012, hyp word count: 12571, asr word count: 13219

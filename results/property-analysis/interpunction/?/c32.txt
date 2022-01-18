@@ -1,0 +1,24 @@
+val 0.36363636363636365 - asr 0.18181818181818182
+REF= van wat voor brief zou jij nou heel gelukkig worden ?
+HYP=want wat voor brief ***  en dan heel gelukkig worden ?
+ASR=van wat voor brief kan jij nou heel gelukkig worden *
+==============================
+
+(10948, 10531, 11080)
+val 0.25 - asr 0.1875
+REF=wat is het probleem ? zijn die konijnen te lelijk ? rennen ze te hard ?
+HYP=wat is het probleem , zijn die konijnen te lelijk * rennen ze ** **** ?
+ASR=wat is het probleem * zijn die konijnen te lelijk * rennen ze te hard *
+==============================
+
+(11691, 11252, 11851)
+val 0.125 - asr 0.125
+REF=zou  u nog een keer kunnen klingelen ?
+HYP=zou je nog een keer kunnen klingelen ?
+ASR=zou u nog een keer kunnen klingelen *
+==============================
+
+(13012, 12516, 13219)
+Total cases: 5, conditioned cases: 3
+Line count: 3, total line count: 310
+Ref word count: 13012, hyp word count: 12516, asr word count: 13219

@@ -1,0 +1,3 @@
+Total cases: 0, conditioned cases: 0
+Line count: 0, total line count: 310
+Ref word count: 13012, hyp word count: 12516, asr word count: 13219
